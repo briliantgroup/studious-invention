@@ -1,0 +1,58 @@
+name: VPN Checker (sing-box)
+
+on:
+  schedule:
+    - cron: "30 */3 * * *" # каждые 3 часа (смещение +30мин от Mihomo версии)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install requests urllib3 PySocks
+
+      - name: Run checker
+        run: |
+          python checker.py \
+            --workers 150 \
+            --timeout 5 \
+            --tcp-timeout 2 \
+            --tcp-workers 500 \
+            --warmup 250 \
+            --max-ping 1500
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Show stats
+        run: |
+          echo "=== Stats ==="
+          cat results/stats.json || true
+          echo ""
+          echo "=== Countries ==="
+          ls results/countries/ | sort || true
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results/
+          git diff --staged --quiet || git commit -m "🔄 Singbox check: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push
