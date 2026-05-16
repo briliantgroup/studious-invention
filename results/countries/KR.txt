@@ -1,31 +1,31 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4ew8J+HtyBTb3V0aCBLb3JlYQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001?#🇰🇷 South Korea | Vultr 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#🇰🇷 South Korea | SK Broadband Co Ltd 1
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.14.130:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=api.company-target.com#🇰🇷 South Korea | Delta Centric LLC, Zenlayer ... 1
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.250:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#🇰🇷 South Korea | Delta Centric LLC, Zenlayer ... 2
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ako.pagate.top&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 3
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679?#🇰🇷 South Korea | Vultr 1
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#🇰🇷 South Korea | Lightnode  Limited 2
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#🇰🇷 South Korea | broadNnet 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@183.99.227.24:26257?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 3
-vmess://ewogICAgImFkZCI6ICIxNTIuNjcuMjE4LjM4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTUyLjY3LjIxOC4zOCIsCiAgICAiaWQiOiAiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ew8J+Ht0tSLTE1Mi42Ny4yMTguMzgtMDIxMSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.127.122.167:22105?security=tls&type=ws&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=sni.111000.dns.army&sni=sni.111000.dns.army&fp=chrome#🇰🇷 South Korea | CF 13
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.97.71.115:18786?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 16
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@59.31.107.42:13720?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 6
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#🇰🇷 South Korea | Lightnode  Limited 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.32.205.160:10035?security=tls&type=ws&path=%2F&host=sni.111000.dns.army&sni=sni.111000.dns.army&fp=chrome#🇰🇷 South Korea | CF 9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.116.195.135:19530?security=tls&type=ws&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=sni.111000.dns.army&sni=sni.111000.dns.army&fp=chrome#🇰🇷 South Korea | CF 10
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.56.183.228:22105?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 4
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.86.228.109:32603?security=tls&type=ws&path=%2F&host=sni.111000.dns.army&sni=sni.111000.dns.army&fp=chrome#🇰🇷 South Korea | CF 15
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-abf.pages.dev&host=3-abf.pages.dev&ech=cloudflare-ech.com%2Bhttps%3A//dns.alidns.com/dns-query#🇰🇷 South Korea | CF 17
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.121.232.215:22335?security=tls&type=ws&path=%2F&host=sni.111000.dns.army&sni=sni.111000.dns.army&fp=chrome#🇰🇷 South Korea | CF 12
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=ako.pagate.top#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@221.156.228.221:10088?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.191.33.84:30303?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 7
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.86.228.109:12349?security=tls&type=ws&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=sni.111000.dns.army&sni=sni.111000.dns.army&fp=chrome#🇰🇷 South Korea | CF 11
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.127.122.167:10003?security=tls&type=ws&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=sni.111000.dns.army&sni=sni.111000.dns.army&fp=chrome#🇰🇷 South Korea | CF 14
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.165.39.209:18810?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.97.254.167:34599?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 5
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@183.99.227.24:26257?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?ed=2560#🇰🇷 South Korea | CF 19
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@211.48.77.114:33672?mode=multi&security=tls&encryption=none&type=ws&flow=&fp=chrome&sni=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=sni.111000.v6.rocks#🇰🇷 South Korea | CF 3
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?type=raw&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#🇰🇷 South Korea | Delta Centric LLC, Zenlayer ... 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.162.130.105:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#🇰🇷 South Korea | CF 8
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.56.183.228:22105?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 15
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@123.111.169.70:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#🇰🇷 South Korea | CF 7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.191.33.84:30303?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.123.253.225:4333?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#🇰🇷 South Korea | CF 16
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.97.71.115:18786?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 17
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.154.222.63:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#🇰🇷 South Korea | CF 6
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.86.228.109:32603?allowInsecure=0&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560fp=chrome&security=tls#🇰🇷 South Korea | CF 11
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#🇰🇷 South Korea | Lightnode  Limited 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.24.83.227:4443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#🇰🇷 South Korea | CF 10
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.56.99.22:20443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#🇰🇷 South Korea | CF 12
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ako.pagate.top&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.118.83.101:60004?encryption=none&security=tls&sni=sni.111000.dns.army&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dns.army&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇰🇷 South Korea | CF 1
+vless://bafacd98-136a-4530-838d-4e5c51838dac@211.196.12.95:15831?fp=firefox&host=juzi8186.qea.ccwu.cc&path=%2Fres%2Fjuzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#🇰🇷 South Korea | CF 5
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@211.228.207.178:18001?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 18
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.165.39.209:18810?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 4
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.97.254.167:34599?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 14
 vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?type=grpc&security=reality&encryption=none&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&sni=lenovoglobal.com#🇰🇷 South Korea | Kornet 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@121.175.77.73:10333?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#🇰🇷 South Korea | CF 8
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#🇰🇷 South Korea | Lightnode  Limited 1
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&encryption=none&sni=2-ee1.pages.dev&host=2-ee1.pages.dev#🇰🇷 South Korea | CF 9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.239.74:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#🇰🇷 South Korea | CF 13
+vmess://ewogICAgImFkZCI6ICIxNTIuNjcuMjE4LjM4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTUyLjY3LjIxOC4zOCIsCiAgICAiaWQiOiAiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ew8J+Ht0tSLTE1Mi42Ny4yMTguMzgtMDIxMSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=ako.pagate.top#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 2
