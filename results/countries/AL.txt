@@ -2,8 +2,6 @@
 #profile-title: encode:Qm9iaVZQTiDwn4em8J+HsSBOZXRoZXJsYW5kcw==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=ads.x5.ru&peer=ads.x5.ru&security=tls#🇦🇱 Netherlands | Global Connectivity Solution... 1
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?security=none&encryption=none&type=ws&path=/vless/#🇦🇱 AL | WorkTitans B.V 2
-vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&sni=cdn.cdnjst.org#🇦🇱 Poland | H2nexus 2
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@193.108.112.212:443?type=ws&security=tls&sni=3-2h8.pages.dev&host=3-2h8.pages.dev#🇦🇱 AL | CF 1
-vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiaG9zdCI6IjQ1LjE1LjE3MC4yMzciLCJpZCI6IjgyMGQ0YjRmLTMzNTctNGRjNy05MzgxLTZlNWZkNTJiNWYzOSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3NcLyIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmMVt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUFMLTEyODA5MzU2IiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇦🇱 AL | WorkTitans B.V 1
 vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&sni=cdn.cdnjst.org&spx=/#🇦🇱 Poland | H2nexus 1
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@193.108.112.212:443?type=ws&security=tls&sni=3-2h8.pages.dev&host=3-2h8.pages.dev#🇦🇱 AL | CF 2
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.75.243.102:443?type=ws&security=tls&fp=chrome&sni=3-7v4.pages.dev&host=3-7v4.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇦🇱 AL | CF 1
