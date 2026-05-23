@@ -1,7 +1,8 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4em8J+HqiBOZXRoZXJsYW5kcw==
+#profile-title: encode:Qm9iaVZQTiDwn4em8J+HqiBGcmFuY2U=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&sid=d1e9faa1b2c3&sni=download.spectrum.vu#🇦🇪 Netherlands | GoldIPv4 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990?#🇦🇪 UAE | Oneprovider.com 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.0.182:990?#🇦🇪 UAE | Oneprovider.com 1
+vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@uae.cloudpath.live:443?fp=chrome&fragment=100-200%2C10-20%2Ctlshello&mux=true&muxconcurrency=8&pbk=15b1hWJlilHD_6rub4v4dlGarkunVzJRBIICK0td9h8&security=reality&sid=ad9d8a0c&sni=microsoft.com&type=tcp#🇦🇪 France | HZ Na61 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.0.182:990?#🇦🇪 UAE | Oneprovider.com 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990?#🇦🇪 UAE | Oneprovider.com 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.57.251.240:990?#🇦🇪 UAE | Edis UAE 1
+vless://7a685dc5-f93c-4e19-8b9b-b77998feb042@31.59.39.192:443?type=tcp&headerType=none&security=tls&encryption=none&sni=www.amd.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1#🇦🇪 Netherlands | GoldIPv4 1
