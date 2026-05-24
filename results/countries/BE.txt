@@ -1,6 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4en8J+HqiBCRQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 BE | EDIS GmbH 1
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.120.179.89:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🇧🇪 BE | WorkTitans B.V 1
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@128.127.180.105:443?type=ws&security=tls&sni=1-jk1.pages.dev&host=1-jk1.pages.dev#🇧🇪 BE | CF 1
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 BE | EDIS GmbH 1
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@128.127.180.105:443?type=ws&security=tls&sni=1-jk1.pages.dev&host=1-jk1.pages.dev#🇧🇪 BE | CF 2
+trojan://8r%3C%5B9%27l6hAO%238ZQi@77.238.252.140:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#🇧🇪 BE | CF 1
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@belgium.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=9HzeVOO-_7-V3l4TCNqgO-cj32nlF3wsG8K4X3qFmFw&sid=cc52201b#🇧🇪 BE | GCS SER 1
