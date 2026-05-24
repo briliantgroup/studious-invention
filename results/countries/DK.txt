@@ -1,9 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4ep8J+HsCBESw==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#🇩🇰 DK | Webdock.io ApS 1
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.37.96.247:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇩🇰 DK | CF 1
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@denmark.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=8H8GZYml4FGVF9EcnZsUTOt0lFiIh20vS9TnX4Dn-z8&sid=2721a041#🇩🇰 DK | 3NT SOLUTIONS LLP 1
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&type=ws&path=/&encryption=none#🇩🇰 DK | Webdock.io ApS 1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#🇩🇰 DK | EDIS GmbH 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇩🇰 DK | SERVICE 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇩🇰 DK | SERVICE 2
+trojan://8r%3C%5B9%27l6hAO%238ZQi@77.37.96.247:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇩🇰 DK | CF 1
