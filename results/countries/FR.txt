@@ -1,37 +1,29 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4er8J+HtyBGcmFuY2U=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#🇫🇷 France | OVH 3
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=fr.denditop.site#🇫🇷 France | Dyjix 1
-vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?&security=tls&alpn=h2&type=tcp&headerType=none&host=cdg-1.fromblancwithlove.com&path=%2F#🇫🇷 France | Cdn77 PAR 2
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#🇫🇷 France | Cdn77 PAR 1
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&sid=ad3c6641d540b4e1&sni=www.laposte.fr#🇫🇷 France | ONLINE 7
-vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&sid=c906f73d3ba8211f&sni=www.leboncoin.fr#🇫🇷 Unknown | OVH 1
-trojan://telegram-id-privatevpns@51.44.150.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 2
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#🇫🇷 France | Cdn77 PAR 2
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&security=none&type=ws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=%2Fvless%2F#🇫🇷 France | OVH 4
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#🇫🇷 France | OVH 7
+vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?&security=tls&alpn=h2&type=tcp&headerType=none&host=cdg-1.fromblancwithlove.com&path=%2F#🇫🇷 France | Cdn77 PAR 1
+vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&sid=ad3c6641d540b4e1&sni=www.laposte.fr#🇫🇷 France | ONLINE 2
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click&fp=chrome&type=tcp#🇫🇷 France | Vultr 1
-vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 France | abella francois 1
-trojan://telegram-id-directvpn@51.44.150.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 6
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#🇫🇷 France | ONLINE 1
-trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇫🇷 France | ONLINE 2
-vless://ac195240-6005-412b-9829-1e56e5d5c52a@37.59.205.235:443?security=reality&flow=xtls-rprx-vision&sni=fran.ummapeople.online&type=tcp&host=fran.ummapeople.online&path=%2F&pbk=-ZGvjjYToghwA3TZfntrabePL-dWYt-i5C_SO8pSRWY#🇫🇷 France | OVH 7
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&security=none&type=ws&host=akamaized.net&path=%2Fvless%2F#🇫🇷 France | OVH 1
+trojan://humanity@104.17.121.9:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http/1.1&fp=chrome&allowInsecure=1#🇫🇷 France | ONLINE 3
+vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443?type=raw&security=reality&fp=firefox&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11&sni=www.samsung.com#🇫🇷 France | CF 1
+vless://ac195240-6005-412b-9829-1e56e5d5c52a@37.59.205.235:443?security=reality&flow=xtls-rprx-vision&sni=fran.ummapeople.online&type=tcp&host=fran.ummapeople.online&path=%2F&pbk=-ZGvjjYToghwA3TZfntrabePL-dWYt-i5C_SO8pSRWY#🇫🇷 France | OVH 8
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=%2Fudfyfws#🇫🇷 Germany | OVH 6
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?encryption=none&security=tls&sni=octopusss4.com&type=ws&host=octopusss4.com&path=%2Ftsghdws#🇫🇷 Germany | OVH 5
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?encryption=none&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#🇫🇷 Germany | OVH 2
+vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 France | abella francois 2
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇫🇷 Germany | OVH 3
 vless://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&sid=b82d7208fe23&sni=cloudflare.com#🇫🇷 France | CGI GLOBAL LIMITED 1
-trojan://humanity@104.18.37.228:443?alpn=h2%2Chttp/1.1&type=ws&sni=www.calmlunch.com&path=/assignment&security=tls&host=www.calmlunch.com&fp=chrome#🇫🇷 France | ONLINE 4
-trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 France | ONLINE 3
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=%2Fudfyfws#🇫🇷 Germany | OVH 5
-vless://f8218ac8-0a9b-5d70-a6c8-31936767c357@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 France | abella francois 2
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 France | ONLINE 5
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=%2Fudfyfws#🇫🇷 Germany | OVH 6
-trojan://telegram-id-privatevpns@13.37.36.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | AWS EC2 (eu-west-3) 1
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&sni=yahoo.com&spx=/#🇫🇷 France | AWS EC2 (eu-west-3) 4
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?encryption=none&type=ws&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info#🇫🇷 Germany | OVH 2
-vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc&sni=yahoo.com&spx=/#🇫🇷 France | AWS EC2 (eu-west-3) 7
-vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Mr1b8zNNR1uPtf8dgfze_kBJbaVimS0NhJL0ff_2qm4&sid=0f8d9583dd332274&sni=yahoo.com#🇫🇷 France | AWS EC2 (eu-west-3) 3
-vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?type=tcp&security=reality&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&sni=yahoo.com#🇫🇷 France | xorek.cloud International LT... 2
 vless://701bab46-9453-41e6-ad47-009aa3df47e9@194.226.169.189:443?flow=xtls-rprx-vision&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&security=reality&sid=3c6fc84d&sni=stats.vk-portal.net#🇫🇷 Germany | xorek.cloud International LT... 1
-vless://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453?type=raw&security=reality&flow=xtls-rprx-vision&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&sid=52f510cea0a0a5ef&sni=yahoo.com#🇫🇷 France | AWS EC2 (eu-west-3) 5
-trojan://humanity@104.17.121.9:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#🇫🇷 France | ONLINE 6
-trojan://humanity@45.130.125.69:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇫🇷 France | ONLINE 8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTajJ5dTdxS1BwclVtUEpvT0NnTjZx@163.5.192.18:443#🇫🇷 France | InterLIR Marketplace 1
-trojan://Tel%3AArshiacomplus@45.154.96.35:14456?type=ws&headerType=none&security=tls&encryption=none&sni=oof.acp.us.ci&fp=chrome&alpn=h2%2Chttp%2F1.1&path=%2Fjdjsjeje&host=oof.acp.us.ci&insecure=0#🇫🇷 France | Dyjix 2
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@148.253.210.248:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fudfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&type=ws&allowInsecure=1&sni=octopusss5.info#🇫🇷 Germany | OVH 4
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷 France | ONLINE 9
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@down.spectrum.vu:443?encryption=none&type=grpc&serviceName=vless&mode=gun&security=reality&sni=down.spectrum.vu&fp=chrome&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA&sid=f2a6d1c1e4b8#🇫🇷 France | Dedik Services Limited 1
+trojan://Tel%3AArshiacomplus@45.154.96.35:14456?type=ws&headerType=none&security=tls&encryption=none&sni=oof.acp.us.ci&fp=chrome&alpn=h2%2Chttp/1.1&path=/jdjsjeje&host=oof.acp.us.ci&insecure=0#🇫🇷 France | Dyjix 1
+vless://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453?type=tcp&encryption=none&security=reality&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&fp=firefox&sni=yahoo.com&sid=52f510cea0a0a5ef&spx=/&flow=xtls-rprx-vision#🇫🇷 France | AWS EC2 (eu-west-3) 2
+vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc&sni=yahoo.com&spx=/#🇫🇷 France | AWS EC2 (eu-west-3) 1
+vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Mr1b8zNNR1uPtf8dgfze_kBJbaVimS0NhJL0ff_2qm4&sid=0f8d9583dd332274&sni=yahoo.com#🇫🇷 France | AWS EC2 (eu-west-3) 3
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#🇫🇷 France | ONLINE 1
+vless://f8218ac8-0a9b-5d70-a6c8-31936767c357@145.239.173.163:443?encryption=none&security=none&type=tcp#🇫🇷 France | abella francois 1
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@217.16.29.23:7443?encryption=none&type=tcp&security=tls&fp=chrome&sni=ru5.cleanersaz.help&alpn=h2%2Chttp%2F1.1#🇫🇷 France | WorkTitans B.V 1
