@@ -1,6 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4et8J+HuiBIdW5nYXJ5
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+vmess://eyJhZGQiOiI0NS4xMi4xMzIuMTgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjcwM2Y3MjJhLTRiZGYtNGU5ZC05YWZkLWE2ODFmZGY4N2M3NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJbT3BlblJheV0g8J+HrfCfh7ogSFUtMjYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwibmFtZSI6IvCfjIogMTAgQHVudmlzaWJsZV9kcm9wcyJ9#🇭🇺 Hungary | WorkTitans B.V 1
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.16.36.227:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Hungary | CDN77 Budapest 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0#🇭🇺 Hungary | CDN77 Budapest 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.91:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Hungary | CDN77 Budapest 3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.138.158:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇭🇺 Hungary | CDN77 Budapest 2
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=#🇭🇺 Hungary | Cdn77 BUD 1
+vless://f76c2df5-4f10-45e0-a4f3-cdb23a559f51@bi.amooyam.com:443?security=tls&type=tcp&headerType=&path=%2Fin-1&host=bi.amooyam.com&sni=bi.amooyam.com&fp=chrome&alpn=http%2F1.1#🇭🇺 Hungary | WorkTitans B.V 2
