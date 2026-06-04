@@ -1,8 +1,8 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUw7xya2l5ZQ==
+#profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUdXJrZXk=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://71310f0a-1c4f-492d-8dec-fd755639d08a@185.181.211.81:37141?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Türkiye | Hostigger INC 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmJyb2Y=@193.124.46.134:8444#🇹🇷 Turkey | Baxet Group Inc 1
-vless://abe3cb91-cf7e-468d-8c4e-6cbf61cab495@185.242.19.250:80?encryption=none&type=ws&security=none&path=%2Fstatic&host=top3491497032.mwscdn.ru#🇹🇷 Turkey | WorkTitans B.V 1
-vless://54897d1b-0b4f-47eb-afb3-f8100985033b@77.83.245.225:443?security=reality&type=tcp&sni=oldbridge.oakvalley.digital&fp=chrome&flow=xtls-rprx-vision&sid=ed7c0d5905faae7a&pbk=bWkUF_xQmpm5JyoapyYhWq_WLwubqVA6DuwCfJgnOyc&encryption=none#🇹🇷 Turkey | Global Connectivity Solution... 1
-vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@213.142.132.169:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&sid=c410508e9721512b&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic#🇹🇷 Turkey | Teknosos Bilisim Hizmetleri ... 1
+vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBUUiAxIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6MjIzMjQsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1UUiIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGx9#🇹🇷 Turkey | GCL 1
+vless://71310f0a-1c4f-492d-8dec-fd755639d08a@185.181.211.81:37141?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Turkey | Hostigger INC 1
+vless://edc33a23-0574-480a-9b72-ab5b97497200@93.115.10.160:443?security=reality&encryption=none&pbk=UNmXDP41M-gwlnBgRgtt6Pw3LwI1-wFmbIDa-CNRejA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=8755d3406d69#🇹🇷 Turkey | 2E TELEKOMUNIKASYON LTD STI 1
+vless://ed748c87-4201-4210-872e-f77265c27fde@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/&host=SoftNetConnectcdn.sep-vpn.site&sni=SoftNetConnectcdn.sep-vpn.site&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇹🇷 Turkey | Nettesin Internet ve Yazilim... 1
+vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.18.139.67:443?path=/ws&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#🇹🇷 Turkey | Teknosos Bilisim Hizmetleri ... 1
