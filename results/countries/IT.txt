@@ -1,20 +1,20 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4eu8J+HuSBVbmtub3du
+#profile-title: encode:Qm9iaVZQTiDwn4eu8J+HuSBJdGFseQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?encryption=none&security=none&type=grpc#🇮🇹 Unknown | Scaleway 3
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 8
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?type=grpc#🇮🇹 Italy | Scaleway 6
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.131:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 7
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.132:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 10
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 5
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 7
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.116:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 3
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?security=&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 1
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.233:8880?security=&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 5
+vless://0a963275-4865-452b-8d65-ac67344f913a@2.26.130.132:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn.video-space.ru&fp=edge&pbk=gbP2G_j0cmFvgmWaWLpzZavEzQiPzky-fApmbF2BWxU&sid=f03597&flow=xtls-rprx-vision#🇮🇹 Italy | Datacamp Limited 1
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?security=none&type=ws&path=/vless/&host=OV-Italy1.09vpn.com#🇮🇹 Italy | OVH 1
 vmess://eyJhZGQiOiI0NS45Mi43MC4yMzYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjlbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1JVC0xMzQ2MzQxOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI5IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇮🇹 Italy | GCL 1
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#🇮🇹 Italy | OVH 3
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#🇮🇹 Italy | OVH 5
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?encryption=none&security=none&type=grpc#🇮🇹 Italy | Scaleway 2
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.174:8880?security=&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 4
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#🇮🇹 Italy | Davide Silvetti trading as '... 2
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=/vless/&security=none&type=ws#🇮🇹 Italy | OVH 2
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.131:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 6
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Italy | Oneprovider.com 1
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=/vless/&security=none&type=ws#🇮🇹 Italy | OVH 1
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#🇮🇹 Italy | OVH 2
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#🇮🇹 Italy | OVH 4
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?security=&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 2
-vmess://eyJhZGQiOiI1Ny4xMzEuMzIuMTkxIiwiYWlkIjowLCJob3N0IjoiT1YtSXRhbHkxLjA5dnBuLmNvbSIsImlkIjoiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzc1wvIiwicG9ydCI6ODQ0MywicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjlbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1JVC0xMjc4MDQyOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJPVi1JdGFseTEuMDl2cG4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇮🇹 Italy | OVH 3
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 4
-vless://88b24071-3224-4491-9e06-6b3e0c2b0dba@172.67.135.254:443?path=%2F&security=tls&encryption=none&insecure=0&host=639163050905846058.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=639163050905846058.hamiibar.com#🇮🇹 Italy | Aruba S.p.A. - Cloud Service... 1
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#🇮🇹 Italy | Davide Silvetti trading as '... 1
+vmess://eyJhZGQiOiI1Ny4xMzEuMzIuMTkxIiwiYWlkIjowLCJob3N0IjoiT1YtSXRhbHkxLjA5dnBuLmNvbSIsImlkIjoiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzc1wvIiwicG9ydCI6ODQ0MywicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjlbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1JVC0xMjc4MDQyOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJPVi1JdGFseTEuMDl2cG4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇮🇹 Italy | OVH 4
