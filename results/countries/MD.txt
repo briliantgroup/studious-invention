@@ -1,9 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4ey8J+HqSBVbml0ZWQgU3RhdGVz
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#🇲🇩 United States | OOO FREEnet Group 1
-vless://1e8d112e-fed0-4f7c-91ec-df914ad49906@md.riotvpn.eu:443?encryption=none&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&allowInsecure=1&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b&flow=xtls-rprx-vision#🇲🇩 Poland | H2nexus 2
-vless://c5298cbd-fc65-4d1b-8bbc-0cd071316b9c@md.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=chrome&type=grpc&serviceName=grpc-yandex&sni=ads.x5.ru&sid=e67fb918ed6b9ffb#🇲🇩 Poland | H2nexus 1
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@md.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🇲🇩 Poland | H2nexus 3
-vless://882e17c8-b013-4e99-9774-36e26e5001ff@89.169.90.8:443?encryption=none&type=ws&security=tls&path=/livestreamcontent/&sni=top707762634.mwscdn.ru#🇲🇩 Moldova | Alexhost SRL 2
+vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55&spx=%2F#🇲🇩 United States | OOO FREEnet Group 1
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?path=%2Flivestreamcontent%2F&security=tls&encryption=none&insecure=0&host=top707762634.mwscdn.ru&fp=chrome&type=ws&allowInsecure=0&sni=top707762634.mwscdn.ru#🇲🇩 Moldova | Alexhost SRL 3
+vless://882e17c8-b013-4e99-9774-36e26e5001ff@89.169.90.8:443?encryption=none&type=ws&security=tls&path=%2Flivestreamcontent%2F&sni=top707762634.mwscdn.ru#🇲🇩 Moldova | Alexhost SRL 2
 vless://882e17c8-b013-4e99-9774-36e26e5001ff@89.169.90.9:443?encryption=none&type=ws&security=tls&path=%2Flivestreamcontent%2F&sni=top707762634.mwscdn.ru#🇲🇩 Moldova | Alexhost SRL 1
