@@ -3,4 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#🇲🇩 United States | OOO FREEnet Group 2
 vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?security=reality&encryption=none&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=5a55#🇲🇩 United States | OOO FREEnet Group 1
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?&security=tls&fp=chrome&sni=top707762634.mwscdn.ru&type=ws&headerType=none&host=top707762634.mwscdn.ru&path=/livestreamcontent/#🇲🇩 Moldova | Alexhost SRL 1
+vless://e526c2b4-841f-4107-9073-bf78991154c4@185.91.52.217:1446?encryption=none&type=grpc&security=reality&mode=multi&serviceName=grpc-vk&fp=qq&sni=ads.x5.ru&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#🇲🇩 Poland | H2nexus 1
+vless://888403d1-621b-481a-b5dc-7aca518a787b@5.35.85.51:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.kinopoisk.ru&fp=qq&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3&flow=xtls-rprx-vision#🇲🇩 Moldova | AlexHost SRL 1
