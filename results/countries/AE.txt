@@ -1,6 +1,5 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4em8J+HqiBOZXRoZXJsYW5kcw==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@217.60.35.125:443?flow=xtls-rprx-vision&fp=firefox&pbk=7hCw9x8kRkAnLKO3FBwPLSM_6Qs5TOir31_TT050OxU&security=reality&sid=c9b0c990b745646d&sni=nl-cdn.ru&type=tcp#🇦🇪 Netherlands | GoldIPv4 2
-vless://7669c259-623c-42f7-82cf-045f58e4b7a0@31.56.188.108:443?fp=firefox&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=poland.milas.click&type=grpc#🇦🇪 Poland | GoldIPv4 3
-vless://7669c259-623c-42f7-82cf-045f58e4b7a0@31.56.188.96:443?type=grpc&headerType=none&security=reality&encryption=none&sni=google.com&fp=chrome&pbk=uemqA7VkHB7Xw_gc88AfbBijEJgiWaVdCiIyMae8CSI#🇦🇪 Poland | GoldIPv4 1
+vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@217.60.35.125:443?flow=xtls-rprx-vision&fp=firefox&pbk=7hCw9x8kRkAnLKO3FBwPLSM_6Qs5TOir31_TT050OxU&security=reality&sid=c9b0c990b745646d&sni=nl-cdn.ru&type=tcp#🇦🇪 Netherlands | GoldIPv4 1
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.56.188.60:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=mi.com&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#🇦🇪 Poland | GoldIPv4 2
