@@ -1,9 +1,10 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HsSBDaGlsZQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.5:443?path=%2Faymdlws&security=tls&encryption=none&host=picassooo.info&type=ws&sni=picassooo.info#🇨🇱 Chile | Vultr 3
-trojan://Mzp%2BsTklU5g1c_TH17Vl5np7HSQnAd7E-Q@130.94.104.148:443?sni=130.94.104.148&peer=130.94.104.148&security=tls#🇨🇱 Chile | NTT America 1
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#🇨🇱 Chile | Vultr 5
-vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#🇨🇱 Chile | Vultr 1
-vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#🇨🇱 Chile | Vultr 4
-vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?type=ws&security=tls&host=picassooo.info&path=%2Faymdlws&sni=picassooo.info#🇨🇱 Chile | Vultr 2
+trojan://Mzp%2BsTklU5g1c_TH17Vl5np7HSQnAd7E-Q@130.94.104.148:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#🇨🇱 Chile | NTT America 1
+vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?encryption=none&fp=chrome&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#🇨🇱 Chile | Vultr 4
+vless://7270612b-49f6-4b04-999c-34d8263da767@216.24.57.1:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=picassooo.info#🇨🇱 Chile | Vultr 6
+vless://7270612b-49f6-4b04-999c-34d8263da767@199.181.197.46:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#🇨🇱 Chile | Vultr 5
+vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.5:443?path=%2Faymdlws&security=tls&encryption=none&host=picassooo.info&type=ws&sni=picassooo.info#🇨🇱 Chile | Vultr 2
+vless://7270612b-49f6-4b04-999c-34d8263da767@172.64.35.45:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#🇨🇱 Chile | Vultr 3
+vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?type=ws&security=tls&host=picassooo.info&path=%2Faymdlws&sni=picassooo.info#🇨🇱 Chile | Vultr 1
