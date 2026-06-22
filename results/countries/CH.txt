@@ -1,10 +1,10 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HrSBTd2l0emVybGFuZA==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@poopyironman07.1o0.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=p67ocjlLYsSSgj9UIX-8TfO2UjKKYg4UUeOfVVcLXlw&sid=6a8efac66d92676e&sni=poopyironman07-cdn.1o0.net&spx=/#🇨🇭 Switzerland | Infomaniak Network SA 2
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@138.199.20.4:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=sT3IlhEi8k7BA0jYkn5TkJ8HcX3_FZ7USnfnqCAGrhw&sid=1750fe7d&flow=xtls-rprx-vision#🇨🇭 Switzerland | Cdn77 ZUR 1
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@103.227.84.1:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net#🇨🇭 Switzerland | MHost LLC 1
-trojan://SoftNetConnect@37.156.45.237:42549?security=tls&amp;alpn=h2%2Chttp%2F1.1%2Ch3&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=www.speedtest.net#🇨🇭 Switzerland | Infomaniak Network SA 1
-vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🇨🇭 Switzerland | Infomaniak Network SA 3
-vless://5adf90fd-fad8-4495-a122-89b0f38aecb5@sw1.fghy27.top:2053?type=tcp&security=reality&sni=cloudflare.com&fp=qq&pbk=46kqulJ5_D8Cw51esUZXGjHrmOt02kOJenC45PxAwQM&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇨🇭 Switzerland | Infomaniak Network SA 4
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇨🇭 Switzerland | Ontario Inc. 1
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@shveccxc1.twilightparadox.com:443?type=tcp&security=reality&sni=shveccxc1.twilightparadox.com&flow=xtls-rprx-vision&pbk=wPBLToF6GA4jIb7C7yu0UMlCXlxTV9UlEh1R-EdCzRU&sid=2e5b7512fc1d69be#🇨🇭 Germany | SERV.HOST GROUP LTD 1
+trojan://SoftNetConnect@37.156.45.237:42549?security=tls&%3Binsecure=1&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3BallowInsecure=1&%3Bsni=www.speedtest.net#🇨🇭 Switzerland | Infomaniak Network SA 1
+vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🇨🇭 Switzerland | Infomaniak Network SA 2
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@194.87.178.131:443?flow=xtls-rprx-vision&fp=firefox&pbk=gOEyW5XYfKV6t_3vCR0iCOcItof1desNG7CSiFnVpF4&security=reality&sid=804f5d&sni=www.intel.com&type=tcp#🇨🇭 Switzerland | Baxet Group Inc 1
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 Switzerland | 3NT SOLUTIONS LLP 1
+vless://9dfdaa5a-0344-4252-b9ab-3d59590ff10a@194.67.99.9:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vk.com&fp=firefox&pbk=ReFC6hXXcJyyZGIhqjvjdYHv6xTBG-6uNM-wf63dykI&sid=40ce08cf20c67003#🇨🇭 Germany | MHost LLC 2
