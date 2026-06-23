@@ -1,4 +1,5 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4ey8J+HqSBNb2xkb3Zh
+#profile-title: encode:Qm9iaVZQTiDwn4ey8J+HqSBCdWxnYXJpYQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@moldova.cloudpath.live:443?type=tcp&security=reality&sni=microsoft.com&pbk=VpnAwVKmMB2fo3qQqW88GOA9tsh-npOibgZ1FSxlTlE&sid=f8cf8908&fp=chrome&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇲🇩 Moldova | Alexhost S.R.L 1
+vless://5de6c5e2-de2e-4656-96aa-102985752504@81.177.213.222:443?security=reality&encryption=none&pbk=K3fEVntslsjyZwLldZvLm-LpCgwFnTFC_apHAwC3Ok0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=bg.xenovpn.top&sid=4c831cb36c2479d7#🇲🇩 Bulgaria | Alexhost SRL 2
+vless://5de6c5e2-de2e-4656-96aa-102985752504@81.177.213.222:44450?security=reality&encryption=none&pbk=K3fEVntslsjyZwLldZvLm-LpCgwFnTFC_apHAwC3Ok0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=4c831cb36c2479d7#🇲🇩 Bulgaria | Alexhost SRL 1
