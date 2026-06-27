@@ -1,5 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eq8J+HqiBFc3Rvbmlh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://60300afa-3366-4ae3-959a-7b50438acebb@2.27.170.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv2.wequ.host&fp=qq&pbk=0-Ba6UB54H3IZhMjOTTpFmOPZMbdskUtEPl13B-JVhM&sid=8ca3843c&type=tcp&headerType=none#🇪🇪 Estonia | HostSlim OU 1
-vless://17550015-678f-43ad-b0d2-65c0a829bedb@94.183.170.3:443?sni=ee.cloudload.org&nonce=pqLCHsFr&fp=firefox&pbk=-g4of4WXB_tZXwESYpRXmCh310I_ikI8tVcHgBsIDR8&sid=a1ab5a56bc42a1&flow=xtls-rprx-vision&security=reality&type=tcp#🇪🇪 Estonia | Eternity International Limit... 1
+vless://17550015-678f-43ad-b0d2-65c0a829bedb@94.183.170.3:443?sni=ee.cloudload.org&pbk=-g4of4WXB_tZXwESYpRXmCh310I_ikI8tVcHgBsIDR8&nonce=pqLCHsFr&sid=a1ab5a56bc42a1&fp=firefox&security=reality&type=tcp&flow=xtls-rprx-vision&nonce=5ZkkOnV0#🇪🇪 Estonia | Eternity International Limit... 1
+vless://60300afa-3366-4ae3-959a-7b50438acebb@2.27.170.152:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lv2.wequ.host&fp=qq&pbk=0-Ba6UB54H3IZhMjOTTpFmOPZMbdskUtEPl13B-JVhM&sid=8ca3843c&flow=xtls-rprx-vision#🇪🇪 Estonia | HostSlim OU 1
+vless://60300afa-3366-4ae3-959a-7b50438acebb@45.129.199.148:443?flow=xtls-rprx-vision&fp=firefox&pbk=hs5nrW02rLJqYpAFrG_N02I3pbgm0ENmsDaAtD5RfDc&security=reality&sid=258ff96f&sni=ee2.wequ.host&type=tcp#🇪🇪 Estonia | BlueVPS OU 1
