@@ -1,4 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eq8J+HqiBFc3Rvbmlh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://043243cb-f38d-4182-aa41-9c99fce79e2b@185.215.187.145:443?flow=xtls-rprx-vision&fp=firefox&pbk=DfBse1QjfPaSB1176iH9Y6ok4Sz1fVij8y6cMhnPyHg&security=reality&sid=14dd8618ea&sni=www.kaspersky.com&type=tcp#🇪🇪 Estonia | RJ Network OU 1
+vless://1e366935-52a8-4d31-9e88-b94dae84f235@213.226.112.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-7-5.nodes.ac&pbk=sXOFKo2LTiE3qg7Z68FIiwTYvhNNSAOTx9AYMuUoUnk&sid=07d3a29177aefcb6#🇪🇪 Estonia | WAVECOM 2
+vless://1e366935-52a8-4d31-9e88-b94dae84f235@45.11.26.234:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=wl-7-6.nodes.ac&pbk=QxW0nwrOXYHuEeL4PXObUDEackg-ebQ_9Vgl01IwsxM&sid=77173c666c84bec1#🇪🇪 Estonia | WAVECOM 1
+vless://1e366935-52a8-4d31-9e88-b94dae84f235@195.209.90.4:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s81381.cdn.ngenix.net&alpn=http%2F1.1#🇪🇪 Estonia | WAVECOM 3
