@@ -2,5 +2,5 @@
 #profile-title: encode:Qm9iaVZQTiDwn4em8J+HuSBBdXN0cmlh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#🇦🇹 Austria | Aeza 1
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?encryption=none&security=reality&type=tcp&sni=at.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇦🇹 Austria | netcup GmbH 1
-vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@62.60.239.210:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amazon.de&fp=firefox&pbk=17riEzmqVZyqgLiJkEITsiJc0NcXDfPq6RzQJmH830c&sid=ef01859eafef126d&type=tcp&headerType=none#🇦🇹 Austria | NetCrafters OU 1
+vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@62.60.239.210:8443?security=reality&encryption=none&pbk=17riEzmqVZyqgLiJkEITsiJc0NcXDfPq6RzQJmH830c&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=amazon.de&sid=ef01859eafef126d#🇦🇹 Austria | NetCrafters OU 1
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@144.31.61.204:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇦🇹 Austria | ANX Holding GmbH 1
