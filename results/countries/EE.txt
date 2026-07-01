@@ -1,5 +1,5 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eq8J+HqiBFc3Rvbmlh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://6429d1d5-de69-4758-9046-e72861a40cb9@185.221.199.129:2443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=5post-gate.x5.ru&pbk=WF3RXrggPm9ILy5KS7-N9rfBi7d1rgZAkK4X2Owstlk#🇪🇪 Estonia | Qwins LTD 1
-vless://357f2c96-9688-40c1-ab53-f93e7bef4e32@195.209.86.152:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s81381.cdn.ngenix.net&alpn=http%2F1.1#🇪🇪 Estonia | WAVECOM 1
+vless://eb7c81a9-49be-43ea-aa54-e1f830b79cd4@195.209.87.198:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s81381.cdn.ngenix.net&alpn=http%2F1.1#🇪🇪 Estonia | WAVECOM 1
+vless://fcc38fdc-ef0a-46f3-a30a-cd3de28d3aee@45.11.27.86:443?type=tcp&headerType=none&security=reality&encryption=none&sni=5post-gate.x5.ru&fp=qq&pbk=IBzFSziv_xISB-Q6X90PocTBde6jb4X6swEvdZQhqzk&sid=d0aae44f&flow=xtls-rprx-vision#🇪🇪 Estonia | HostSlim OU 1
