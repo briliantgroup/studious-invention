@@ -1,21 +1,12 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4er8J+HriBGaW5sYW5k
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮 Finland | OY Creanova Hosting Solution... 2
+vless://1c4a1618-98a8-41c6-b155-5c1a866c8620@65.109.184.226:36631?security=none&type=tcp#🇫🇮 Finland | Hetzner 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮 Finland | OY Creanova Hosting Solution... 1
 vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&sid=88ce6b586fcaf681#🇫🇮 Finland | Global Connectivity Solution... 1
-vless://1c4a1618-98a8-41c6-b155-5c1a866c8620@65.109.184.226:36631?security=none&type=tcp#🇫🇮 Finland | Hetzner 3
-vless://baeb9020-8fcd-444c-b95d-f76507816e6d@144.31.232.189:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl-root.sworkingvpn.com&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&flow=xtls-rprx-vision#🇫🇮 Finland | Senko Digital LLC 3
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇫🇮 Finland | 1Cent Host 1
-vless://baeb9020-8fcd-444c-b95d-f76507816e6d@64.188.74.230:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl-root.sworkingvpn.com&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&flow=xtls-rprx-vision#🇫🇮 Finland | Senko Digital LLC 2
-vless://baeb9020-8fcd-444c-b95d-f76507816e6d@64.188.74.228:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl-root.sworkingvpn.com&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&flow=xtls-rprx-vision#🇫🇮 Finland | Senko Digital LLC 1
-vless://3d5faf47-a299-4e0b-a2dc-85d5ac2ce885@45.139.25.145:443?type=tcp&security=reality&encryption=none&sni=fl-mirror2-node.ok-sbrf.ru&fp=firefox&pbk=LGlyI_h141pa9csowTpbCLh7CWJNDahp7iHZTLu-JSc&sid=8306088529218116&headerType=none&allowInsecure=1&freeinternet=kizyak_vpn1782854231602#🇫🇮 Finland | Hetzner 2
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@46.20.106.166:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#🇫🇮 Finland | CF 2
-trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?security=tls&sni=singingrobot.click&fp=chrome&type=tcp#🇫🇮 Finland | Baxet Group Inc 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaVc1WnhXS3BxbHc2LVpuTE1DQ3BiOU1vY1NKbk9OQg@bot.sobhanpor.ir:1080#🇫🇮 Finland | Hetzner 1
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@65.109.190.54:2021?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=vpn47.cc.cd&path=%2F#🇫🇮 Finland | CF 1
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@65.109.190.54:2021?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=vpn47.cc.cd&path=/#🇫🇮 Finland | CF 1
 vless://28acd046-f65e-402c-a25e-4a215af02796@89.124.118.227:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hLXvfh2eKV2aRlFGbWIc6pqlrhgX1uOaStQJTYfNDg0&security=reality&sni=tv.apple.com&type=tcp#🇫🇮 Finland | 3NT SOLUTIONS LLP 1
-vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.216:443?encryption=none&type=ws&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=server-ir-2.ariyuz.org#🇫🇮 Finland | HETZNER-DC 1
-vless://612c872d-1370-4109-8644-f0755f97e33f@83.97.78.13:443?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&flow=&fp=firefox&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&security=reality&seq=you_are_beautiful2927&sid=16&sni=www.samsung.com&type=tcp#🇫🇮 Finland | OY Creanova Hosting Solution... 1
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&security=reality&sni=dipvpn.ru&type=tcp#🇫🇮 Finland | Infobox 1
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@46.20.106.166:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#🇫🇮 Finland | CF 2
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#🇫🇮 Finland | Infobox 1
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?security=reality&encryption=none&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=helsinki.fi&sid=40a5eaec20abf1#🇫🇮 Finland | Aeza 1
-vless://2c558831-6c06-4f16-9696-6f3e2009fcc7@176.109.85.77:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=home.auxgfm.site&pbk=IaVviIkeeqCGsUm2yvrcroGw4HWjawuwoOnpG4GCuwU&sid=dec4632b99673b00#🇫🇮 Finland | Hetzner 4
+trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?security=tls&sni=singingrobot.click&fp=chrome&type=tcp#🇫🇮 Finland | Baxet Group Inc 1
