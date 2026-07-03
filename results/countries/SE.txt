@@ -1,13 +1,14 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e48J+HqiBGaW5sYW5k
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#🇸🇪 Finland | Aeza 2
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#🇸🇪 Finland | Aeza 2
+vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#🇸🇪 Sweden | Vultr 1
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1TRSIsImFkZCI6IjYyLjYwLjE1MS40MSIsInBvcnQiOjU3ODY1LCJpZCI6IjNjNjFlYTUzLWE1NTAtNDI1Mi04MjExLTk1NmY5ZjdkYzJkMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInRscyI6Im5vbmUiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇸🇪 Finland | NetCrafters OU 1
-vless://181d203a-e738-4aa4-a2d8-d82765f1c0c5@2.26.55.24:443?security=reality&sni=2-26-55-24.cdn-one.org&type=tcp&fp=qq&pbk=DgDzdhR1r3WUk_4X1RQb0E4l9MIEdpPK0ojGCATV4EU&sid=c210d84f52eff8e0#🇸🇪 Finland | Play2go International Limite... 1
+vless://181d203a-e738-4aa4-a2d8-d82765f1c0c5@2.26.55.24:443?fp=qq&sid=c210d84f52eff8e0&pbk=DgDzdhR1r3WUk_4X1RQb0E4l9MIEdpPK0ojGCATV4EU&sni=2-26-55-24.cdn-one.org&type=tcp&security=reality&seq=you_are_beautiful8364#🇸🇪 Finland | Play2go International Limite... 1
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?type=tcp&headerType=none&security=reality&encryption=none&sni=stockholmresilience.org&fp=firefox&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&sid=b378&spx=%2F&flow=xtls-rprx-vision#🇸🇪 Finland | Servers Tech Fzco 1
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@88.216.223.37:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 Sweden | CF 4
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@213.21.240.223:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 Sweden | CF 3
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@46.20.106.166:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#🇸🇪 Sweden | CF 1
-vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?flow=xtls-rprx-vision&fp=firefox&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU&security=reality&sid=abcd1234&sni=www.google.com&type=tcp#🇸🇪 Sweden | Aeza 1
+vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&security=reality&sid=44&sni=swe.fast-cone.com&type=tcp#🇸🇪 Finland | Aeza 1
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@88.216.223.37:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 Sweden | CF 1
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@213.21.240.223:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 Sweden | CF 4
+vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?type=tcp&security=reality&sni=www.google.com&fp=firefox&flow=xtls-rprx-vision&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU&sid=abcd1234#🇸🇪 Sweden | Aeza 3
+vless://390eaadf-88b9-4ae2-9284-955cbce4ac53@192.145.29.52:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-psoqz2.saedgamedotagames.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-psoqz2.saedgamedotagames.workers.dev#🇸🇪 Sweden | CF 3
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.62.182:8443?type=ws&security=tls&sni=vpn47.cc.cd&fp=chrome&path=%2F&host=vpn47.cc.cd#🇸🇪 Sweden | CF 2
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@2.27.14.29:443?type=tcp&security=reality&sni=cloudflare.com&fp=firefox&flow=xtls-rprx-vision&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6#🇸🇪 Finland | Node Host Limited 1
