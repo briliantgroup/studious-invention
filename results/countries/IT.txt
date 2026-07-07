@@ -1,36 +1,46 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HuSBJdGFseQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#🇮🇹 Italy | OVH 1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.164:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 16
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.200:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 19
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.243:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&burmalda=569a8b8c#🇮🇹 Italy | Scaleway 17
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&type=grpc#🇮🇹 Italy | Scaleway 14
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#🇮🇹 Italy | Kamatera, Inc. 1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#🇮🇹 Italy | Kamatera, Inc. 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#🇮🇹 Italy | Kamatera, Inc. 2
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.197:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 20
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?encryption=none&security=none&sni=sca30.mysilipdir.com&type=grpc#🇮🇹 Italy | Scaleway 18
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.119:8880?type=grpc&security=none#🇮🇹 Italy | Scaleway 8
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.30:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 7
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?encryption=none&security=none&type=grpc#🇮🇹 Italy | Scaleway 2
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&type=grpc#🇮🇹 Italy | Scaleway 19
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.21:8880?encryption=none&security=none&type=grpc#🇮🇹 Italy | Scaleway 20
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.197:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 12
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.30:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 14
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.60:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 17
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 22
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.200:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 8
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.228:8880?type=grpc&security=none&encryption=none&mode=gun#🇮🇹 Italy | Scaleway 18
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.12:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 7
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 1
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 21
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.243:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc&burmalda=569a8b8c#🇮🇹 Italy | Scaleway 15
+vmess://ewogICAgImFkZCI6ICI1Ny4xMzEuMzIuMTkxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiT1YtSXRhbHkxLjA5dnBuLmNvbSIsCiAgICAiaWQiOiAiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3ZtZXNzLyIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+HrvCfh7lJVC01Ny4xMzEuMzIuMTkxLTIyMTciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🇮🇹 Unknown | OVH 2
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.152:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 9
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🇮🇹 Italy | OVH 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#🇮🇹 Italy | Kamatera, Inc. 2
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.164:8880?type=grpc&security=none#🇮🇹 Italy | Scaleway 16
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.92:8880?type=grpc#🇮🇹 Italy | Scaleway 10
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Italy | Oneprovider.com 1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.21:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 4
-vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@57.131.17.109:6300?security=reality&sni=play.google.com&type=tcp&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#🇮🇹 Italy | OVH 4
-vless://9e23aaba-5bf2-4810-8369-c9bf2a9979f9@72.146.184.66:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=CVbYSDZe2130NfbcGVM7P15Xy1LifR1cf0hsJKV_4V0&sid=eb4c4c6a#🇮🇹 Italy | Azure 1
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🇮🇹 Italy | OVH 3
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 11
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 21
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.92:8880?type=grpc#🇮🇹 Italy | Scaleway 3
-vmess://ewogICAgImFkZCI6ICI1Ny4xMzEuMzIuMTkxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiT1YtSXRhbHkxLjA5dnBuLmNvbSIsCiAgICAiaWQiOiAiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3ZtZXNzLyIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+HrvCfh7lJVC01Ny4xMzEuMzIuMTkxLTIyMTciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🇮🇹 Italy | OVH 2
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.60:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 6
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.152:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 2
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.228:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 1
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.63:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 13
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.119:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 11
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@132.243.255.213:443?security=reality&encryption=none&pbk=lZf2K14GxiyyUM4zovDM20iuvkYQcGrXbPd18F3Jyzo&host=it-just.dataload-cdn.ru&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=1ab2#🇮🇹 Italy | Baxet Group Inc 1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.12:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 5
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#🇮🇹 Italy | Scaleway 13
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#🇮🇹 Italy | Scaleway 12
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle Corporation 2
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?encryption=none&type=grpc&mode=gun#🇮🇹 Italy | Scaleway 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#🇮🇹 Italy | Kamatera, Inc. 3
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#🇮🇹 Italy | OVH 4
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 2
+vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@57.131.17.109:6300?security=reality&sni=play.google.com&type=tcp&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#🇮🇹 Italy | OVH 1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#🇮🇹 Italy | Scaleway 6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#🇮🇹 Italy | Kamatera, Inc. 1
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@57.131.19.166:7009?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&type=tcp&headerType=none#🇮🇹 Italy | OVH 3
+vless://cd099367-1052-42f4-8961-4d1e09144cf9@116.204.164.60:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&type=ws&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇮🇹 Italy | CF 1
+vless://9e23aaba-5bf2-4810-8369-c9bf2a9979f9@72.146.184.66:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=CVbYSDZe2130NfbcGVM7P15Xy1LifR1cf0hsJKV_4V0&sid=eb4c4c6a#🇮🇹 Italy | Azure 1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca19.afterdomain.shop#🇮🇹 Italy | Scaleway 4
+vless://0f2765c2-1845-4545-987e-337c7cfb4e52@116.204.164.5:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&type=ws&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇮🇹 Italy | CF 6
+vless://c82e5af9-5fef-4fdd-9454-2682873e1563@116.204.164.27:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&type=ws&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇮🇹 Italy | CF 4
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#🇮🇹 Italy | Scaleway 5
+vless://8dd3f783-aa97-420b-8aaa-d8a6c9679dad@116.204.164.30:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&type=ws&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇮🇹 Italy | CF 2
+vless://9dd5bcab-4a60-4f97-a7a4-77e98eabf9c4@116.204.164.17:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&type=ws&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇮🇹 Italy | CF 3
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle Corporation 1
+vless://d7b95ddf-4a34-4985-a748-d90ee54c01a7@2.26.68.238:9443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&type=ws&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇮🇹 Italy | CF 5
+vless://5a010e95-493e-424c-bcdc-f4aa1f5b962c@2.26.68.238:9443?security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=%2F%40Marisa_kristi&fp=chrome#🇮🇹 Italy | CF 7
+vless://8ed7e5e7-9cb2-469c-ae09-c715829ed38d@2.26.68.238:9443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&type=ws&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇮🇹 Italy | CF 8
