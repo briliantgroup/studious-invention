@@ -1,4 +1,4 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4em8J+HuSBBdXN0cmlh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&security=reality&sid=affc28b1a8c32c&sni=shuviu.de&type=tcp#🇦🇹 Austria | ANX 1
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?type=tcp&headerType=none&security=reality&encryption=none&sni=shuviu.de&fp=firefox&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&sid=affc28b1a8c32c&flow=xtls-rprx-vision#🇦🇹 Austria | ANX 1
