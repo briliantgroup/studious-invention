@@ -1,202 +1,190 @@
 {
-  "checked_at": "2026-07-13 22:46:15 UTC",
-  "total_working": 1153,
-  "avg_latency_ms": 633.8,
-  "min_latency_ms": 22,
+  "checked_at": "2026-07-14 04:15:24 UTC",
+  "total_working": 1506,
+  "avg_latency_ms": 570.5,
+  "min_latency_ms": 105,
   "avg_speed_mbps": 0,
   "speed_checked": false,
   "countries": {
     "AE": {
       "count": 1,
-      "avg_ping_ms": 1497.0
+      "avg_ping_ms": 1298.0
     },
     "AL": {
       "count": 1,
-      "avg_ping_ms": 851.0
+      "avg_ping_ms": 689.0
     },
     "AM": {
       "count": 1,
-      "avg_ping_ms": 1449.0
+      "avg_ping_ms": 1372.0
     },
     "AT": {
-      "count": 1,
-      "avg_ping_ms": 1130.0
+      "count": 2,
+      "avg_ping_ms": 734.0
     },
     "AU": {
-      "count": 11,
-      "avg_ping_ms": 831.1
+      "count": 10,
+      "avg_ping_ms": 1086.9
     },
     "BE": {
       "count": 1,
-      "avg_ping_ms": 1473.0
+      "avg_ping_ms": 745.0
     },
     "BG": {
+      "count": 3,
+      "avg_ping_ms": 822.0
+    },
+    "BY": {
       "count": 1,
-      "avg_ping_ms": 742.0
+      "avg_ping_ms": 992.0
     },
     "CA": {
-      "count": 8,
-      "avg_ping_ms": 395.6
-    },
-    "CH": {
-      "count": 2,
-      "avg_ping_ms": 1047.5
+      "count": 11,
+      "avg_ping_ms": 266.5
     },
     "CZ": {
       "count": 1,
-      "avg_ping_ms": 874.0
+      "avg_ping_ms": 793.0
     },
     "DE": {
-      "count": 96,
-      "avg_ping_ms": 859.2
+      "count": 110,
+      "avg_ping_ms": 737.3
     },
     "DK": {
       "count": 1,
-      "avg_ping_ms": 1455.0
+      "avg_ping_ms": 1098.0
     },
     "EE": {
-      "count": 5,
-      "avg_ping_ms": 1052.2
+      "count": 3,
+      "avg_ping_ms": 1020.3
     },
     "ES": {
       "count": 6,
-      "avg_ping_ms": 852.3
+      "avg_ping_ms": 719.3
     },
     "FI": {
-      "count": 19,
-      "avg_ping_ms": 1029.3
+      "count": 22,
+      "avg_ping_ms": 748.2
     },
     "FR": {
-      "count": 82,
-      "avg_ping_ms": 804.5
+      "count": 107,
+      "avg_ping_ms": 683.6
     },
     "GB": {
-      "count": 32,
-      "avg_ping_ms": 705.3
+      "count": 34,
+      "avg_ping_ms": 603.9
     },
     "GE": {
       "count": 1,
-      "avg_ping_ms": 867.0
+      "avg_ping_ms": 709.0
     },
     "HK": {
-      "count": 17,
-      "avg_ping_ms": 811.1
-    },
-    "HU": {
-      "count": 1,
-      "avg_ping_ms": 979.0
-    },
-    "ID": {
-      "count": 1,
-      "avg_ping_ms": 751.0
+      "count": 16,
+      "avg_ping_ms": 1145.5
     },
     "IE": {
-      "count": 6,
-      "avg_ping_ms": 772.8
+      "count": 5,
+      "avg_ping_ms": 620.2
     },
     "IN": {
       "count": 9,
-      "avg_ping_ms": 778.6
+      "avg_ping_ms": 949.7
     },
     "IT": {
-      "count": 18,
-      "avg_ping_ms": 682.6
+      "count": 19,
+      "avg_ping_ms": 673.9
     },
     "JP": {
-      "count": 84,
-      "avg_ping_ms": 759.8
+      "count": 82,
+      "avg_ping_ms": 992.8
     },
     "KR": {
-      "count": 31,
-      "avg_ping_ms": 861.0
+      "count": 32,
+      "avg_ping_ms": 1107.9
     },
     "KZ": {
       "count": 5,
-      "avg_ping_ms": 1210.2
+      "avg_ping_ms": 1170.8
     },
     "LT": {
-      "count": 5,
-      "avg_ping_ms": 1009.2
+      "count": 4,
+      "avg_ping_ms": 802.8
     },
     "LV": {
-      "count": 4,
-      "avg_ping_ms": 1244.2
+      "count": 3,
+      "avg_ping_ms": 1042.7
     },
     "MX": {
       "count": 1,
-      "avg_ping_ms": 277.0
+      "avg_ping_ms": 427.0
     },
     "MY": {
       "count": 2,
-      "avg_ping_ms": 919.5
+      "avg_ping_ms": 1134.5
     },
     "NL": {
-      "count": 161,
-      "avg_ping_ms": 692.5
+      "count": 168,
+      "avg_ping_ms": 589.2
     },
     "NO": {
       "count": 2,
-      "avg_ping_ms": 866.5
+      "avg_ping_ms": 648.5
     },
     "PH": {
-      "count": 2,
-      "avg_ping_ms": 1097.5
+      "count": 1,
+      "avg_ping_ms": 1075.0
     },
     "PK": {
       "count": 1,
-      "avg_ping_ms": 958.0
+      "avg_ping_ms": 907.0
     },
     "PL": {
-      "count": 38,
-      "avg_ping_ms": 964.3
+      "count": 40,
+      "avg_ping_ms": 833.9
     },
     "RO": {
-      "count": 2,
-      "avg_ping_ms": 828.0
+      "count": 3,
+      "avg_ping_ms": 717.7
     },
     "RU": {
-      "count": 36,
-      "avg_ping_ms": 1038.3
+      "count": 46,
+      "avg_ping_ms": 925.1
+    },
+    "SA": {
+      "count": 1,
+      "avg_ping_ms": 1088.0
     },
     "SE": {
-      "count": 13,
-      "avg_ping_ms": 1045.5
+      "count": 14,
+      "avg_ping_ms": 903.2
     },
     "SG": {
-      "count": 46,
-      "avg_ping_ms": 899.5
-    },
-    "TH": {
-      "count": 1,
-      "avg_ping_ms": 1343.0
+      "count": 38,
+      "avg_ping_ms": 1228.7
     },
     "TR": {
-      "count": 19,
-      "avg_ping_ms": 786.4
+      "count": 17,
+      "avg_ping_ms": 704.1
     },
     "TW": {
-      "count": 3,
-      "avg_ping_ms": 586.0
+      "count": 4,
+      "avg_ping_ms": 848.2
     },
     "UA": {
       "count": 1,
-      "avg_ping_ms": 697.0
+      "avg_ping_ms": 607.0
     },
     "US": {
-      "count": 368,
-      "avg_ping_ms": 230.3
+      "count": 672,
+      "avg_ping_ms": 296.0
     },
     "VN": {
       "count": 1,
-      "avg_ping_ms": 990.0
-    },
-    "XX": {
-      "count": 2,
-      "avg_ping_ms": 854.0
+      "avg_ping_ms": 1234.0
     },
     "ZA": {
       "count": 3,
-      "avg_ping_ms": 1227.7
+      "avg_ping_ms": 1217.7
     }
   }
 }
