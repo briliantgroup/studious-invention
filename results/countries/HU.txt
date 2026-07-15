@@ -1,9 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4et8J+HuiBIdW5nYXJ5
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://83f76cc0-ebcd-4805-a408-f6c8e30ff3ee@152.233.41.30:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 2
-vless://c8d58c46-bba5-4669-a8e0-234e6ef5be49@31.129.55.210:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=hu-br-yandex&fp=qq&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 3
-vless://83f76cc0-ebcd-4805-a408-f6c8e30ff3ee@31.129.55.210:443?type=grpc&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&serviceName=hu-br-yandex#🇭🇺 Hungary | CDN77 Budapest 1
-vless://c2143d8a-826e-4b35-b505-19a1233341b8@79.174.93.8:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#🇭🇺 Hungary | Datacamp Limited 1
-vless://ae4c2de2-998c-4517-a6a1-0ecbdd51473a@31.129.55.210:443?encryption=none&type=grpc&serviceName=hu-br-yandex&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 4
-vless://2e8b4cfe-b801-400a-afa0-92e684e201b2@79.174.93.8:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇭🇺 Hungary | Datacamp Limited 2
+vless://ae4c2de2-998c-4517-a6a1-0ecbdd51473a@31.129.55.210:443?encryption=none&type=grpc&serviceName=hu-br-yandex&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 2
+vless://c8d58c46-bba5-4669-a8e0-234e6ef5be49@31.129.55.210:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=hu-br-yandex&fp=qq&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 1
+vless://2e8b4cfe-b801-400a-afa0-92e684e201b2@79.174.93.8:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=5post-gate.x5.ru&type=tcp#🇭🇺 Hungary | Datacamp Limited 1
+vless://c2143d8a-826e-4b35-b505-19a1233341b8@79.174.93.8:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#🇭🇺 Hungary | Datacamp Limited 2
