@@ -1,10 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4et8J+HuiBIdW5nYXJ5
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://d5502031-63a4-4e7d-a4e7-775f31caeba3@31.129.55.210:443?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=hu-br-yandex&mode=gun#🇭🇺 Hungary | CDN77 Budapest 4
-vless://d65546ab-f705-49bb-b1d0-a4db50f5ee68@31.129.55.210:443?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=hu-br-yandex&mode=gun#🇭🇺 Hungary | CDN77 Budapest 5
-vless://7836b5eb-0685-4af3-baca-2d75cad5d4de@31.129.55.210:443?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=hu-br-yandex&mode=gun#🇭🇺 Hungary | CDN77 Budapest 6
-vless://48c9d365-feb2-41b8-a42e-a78f64b741ac@31.129.55.210:443?security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=chrome&type=grpc&serviceName=hu-br-yandex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 7
-vless://923ff5e4-0188-4b98-ab8f-d602562e77cd@31.129.55.210:443?encryption=none&type=grpc&serviceName=hu-br-yandex&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 1
-vless://081706ff-be35-4ff9-b12b-5a8e8d13fe85@31.129.55.210:443?encryption=none&type=grpc&serviceName=hu-br-yandex&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 2
-vless://48c9d365-feb2-41b8-a42e-a78f64b741ac@152.233.41.30:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 3
+vless://923ff5e4-0188-4b98-ab8f-d602562e77cd@31.129.55.210:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=hu-br-yandex&fp=qq&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 1
+vless://d65546ab-f705-49bb-b1d0-a4db50f5ee68@31.129.55.210:443?encryption=none&type=grpc&serviceName=hu-br-yandex&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇭🇺 Hungary | CDN77 Budapest 2
+trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&fp=android&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com#🇭🇺 Hungary | Rackforest 1
