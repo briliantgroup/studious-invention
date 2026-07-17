@@ -1,23 +1,18 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HuSBJdGFseQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.252.15:443?encryption=none&fp=firefox&security=tls&sni=sca12.afterdomain.shop&type=grpc#🇮🇹 Italy | Scaleway 5
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?type=grpc&headerType=none&security=tls&encryption=none&sni=sca12.afterdomain.shop&fp=firefox&insecure=0#🇮🇹 Italy | Scaleway 3
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&sni=sca31.afterdomain.shop&type=grpc&alpn=h2%2Chttp%2F1.1#🇮🇹 Italy | Scaleway 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@91.193.5.112:1080?#🇮🇹 Italy | M247 Ltd Milan 1
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001?#🇮🇹 Italy | Oneprovider.com 1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.18:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.60:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 4
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 6
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 2
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.27.178:1080?#🇮🇹 Italy | M247 LTD 1
-ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ==@185.198.235.208:20129#🇮🇹 Italy | Baxet Group Inc 1
-ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ@185.198.235.208:20129?#🇮🇹 Italy | Baxet Group Inc 2
-vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:445?pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&fp=firefox&type=tcp&security=reality&encryption=none&sid=c226283c4de5b1ad&flow=xtls-rprx-vision&sni=ads.x5.ru&burmalda=285eba40#🇮🇹 Italy | Vladislav Nitsenko 3
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 5
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&sni=sca12.afterdomain.shop&type=grpc#🇮🇹 Italy | Scaleway 4
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.60:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 1
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.18:8880?security=none&type=grpc#🇮🇹 Italy | Scaleway 2
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 6
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 1
 vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:2087?type=grpc&security=reality&fp=chrome&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&sid=c226283c4de5b1ad&sni=ads.x5.ru&mode=gun&serviceName=grpc#🇮🇹 Italy | Vladislav Nitsenko 1
+ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ@185.198.235.208:20129?#🇮🇹 Italy | Baxet Group Inc 1
+vless://b90064cf-3f61-4f37-b549-a72100a8c9db@31.76.113.160:445?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&sid=c226283c4de5b1ad&fp=firefox#🇮🇹 Italy | Vladislav Nitsenko 2
 vless://9e23aaba-5bf2-4810-8369-c9bf2a9979f9@72.146.184.66:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=CVbYSDZe2130NfbcGVM7P15Xy1LifR1cf0hsJKV_4V0&sid=eb4c4c6a#🇮🇹 Italy | Azure 1
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@185.119.19.105:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=u695099u8adcedd7s8746.gogocs.xyz#🇮🇹 Italy | LakeNetworks 1
-vless://bb824673-a82f-40de-8b4f-b032e4c83fc4@185.178.208.176:443?encryption=none&type=ws&security=tls&path=%2Fstream%2F615428%2Fsocket&host=founders-blog.online&fp=chrome&sni=founders-blog.online&alpn=h3%2Ch2#🇮🇹 Italy | Vladislav Nitsenko 2
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle Corporation 1
-vmess://eyJhZGQiOiAiNTcuMTMxLjMyLjE5MSIsICJhaWQiOiAwLCAiaG9zdCI6ICJPVi1JdGFseTEuMDl2cG4uY29tIiwgImlkIjogIjg0OGFmMzNjLTgxZjItNDBjOS05M2IyLTQ2ODFkMDU2OTM2YiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4NDQzLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiT1YtSXRhbHkxLjA5dnBuLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIn0=#🇮🇹 Italy | OVH 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.27.178:1080?#🇮🇹 Italy | M247 LTD 1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.252.15:443?encryption=none&fp=firefox&security=tls&sni=sca12.afterdomain.shop&type=grpc#🇮🇹 Italy | Scaleway 3
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle Corporation 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@91.193.5.112:1080?#🇮🇹 Italy | M247 Ltd Milan 1
