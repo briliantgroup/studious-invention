@@ -1,5 +1,6 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e68J+HpiBVa3JhaW5l
+#profile-title: encode:Qm9iaVZQTiDwn4e68J+HpiBHZXJtYW55
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:10443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc&sni=www.tesla.com#🇺🇦 Ukraine | IROKO Networks Corporation 1
-vless://ecad47b0-249e-0094-adff-e3c8f02b1897@185.40.28.213:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#🇺🇦 Ukraine | Zemlyaniy Dmitro Leonidovich 1
+vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de-one.quiet-rogue.site&fp=firefox&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&flow=xtls-rprx-vision#🇺🇦 Germany | Joint Ukrainian-Austrian Ven... 1
+vless://ecad47b0-249e-0094-adff-e3c8f02b1897@185.40.28.213:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=edge#🇺🇦 Ukraine | Zemlyaniy Dmitro Leonidovich 1
+vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:10443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc&fp=firefox#🇺🇦 Ukraine | IROKO Networks Corporation 1
