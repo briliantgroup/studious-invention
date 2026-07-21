@@ -1,8 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4em8J+HuSBBdXN0cmlh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:8443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=jsengineer.org&type=grpc#🇦🇹 Austria | ANX 1
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:8443?security=tls&sni=jsengineer.org&type=grpc&serviceName=grpc&fp=chrome&allowInsecure=0#🇦🇹 Austria | ANX 2
+vless://31649657-6c78-4c2c-b25b-5cd574b082b5@152.53.46.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=at03.tunnely.ru&type=tcp#🇦🇹 Austria | ANX Holding GmbH 1
 vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&sid=f5e89824#🇦🇹 Austria | Global Connectivity Solution... 1
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&sid=affc28b1a8c32c&sni=shuviu.de#🇦🇹 Austria | ANX 2
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@157.173.29.12:443?flow=xtls-rprx-vision&fp=chrome&pbk=m0XH4zlwCTJGWoRT64dPgCg3gREZvEnwMPOzOiFengU&security=reality&sid=45ba18f424ad1f21&sni=web.max.ru#🇦🇹 Austria | Evolus IT Solutions GmbH 1
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?path=%2Fapi%2Fv1%2Firc&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#🇦🇹 Austria | Alwyzon 1
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&sid=affc28b1a8c32c&sni=shuviu.de#🇦🇹 Austria | ANX 1
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vod.ensf.top&path=%2Fapi%2Fv1%2Firc#🇦🇹 Austria | Alwyzon 1
