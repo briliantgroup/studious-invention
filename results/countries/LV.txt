@@ -1,10 +1,9 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4ex8J+HuyBVbmtub3du
+#profile-title: encode:Qm9iaVZQTiDwn4ex8J+HuyBMYXR2aWE=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.205.115:2090?security=none&encryption=none&headerType=none&type=tcp&burmalda=b09c2b89#🇱🇻 Unknown | CGI GLOBAL LIMITED 1
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.228.239:2090?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Unknown | CGI GLOBAL LIMITED 2
-vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇱🇻 Latvia | RETN Limited 1
 vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | Global Connectivity Solution... 1
-vless://d068ffda-ef60-437a-aeed-b531282d281e@2.26.88.155:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger.hatvpn.org&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&type=tcp&headerType=none#🇱🇻 Latvia | SERV.HOST GROUP LTD 1
-vless://d2aeb078-90db-4f90-b334-623bcbea8d31@vs-lv1.vibesignal.space:443?&security=reality&flow=xtls-rprx-vision&pbk=ACeYESUJvHiKiAGjO3JqBFne0LF5jYwqo4M8Gng9MlU&sid=8fe2cfd693d773fb&fp=edge&sni=ajax.googleapis.com&type=tcp&headerType=none&host=ajax.googleapis.com&path=%2F#🇱🇻 Latvia | Veesp 1
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&encryption=none&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22&sni=yahoo.com&spx=/#🇱🇻 Latvia | RETN Limited 2
+vless://d068ffda-ef60-437a-aeed-b531282d281e@2.26.88.155:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=ger.hatvpn.org&type=tcp#🇱🇻 Latvia | SERV.HOST GROUP LTD 1
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality&encryption=none&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c&sni=yahoo.com#🇱🇻 Unknown | Beget 1
+vless://f2e9df1b-e0ba-4b37-a301-6aab8662c926@77.73.238.191:16622?encryption=none&security=reality&sni=yahoo.com&pbk=E5N_ckakvqgTOjiQ6Rmuwz1fchiT1-J3tH4cbzcH_GQ&sid=1c01d60ea915&type=tcp&headerType=none#🇱🇻 Latvia | Beget LLC 1
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&security=reality&encryption=none&fp=chrome&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22&sni=yahoo.com&spx=/#🇱🇻 Latvia | RETN Limited 1
+vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?type=tcp&security=reality&encryption=none&fp=chrome&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&sid=8c09fb78b12f&sni=yahoo.com#🇱🇻 Latvia | Beget 2
