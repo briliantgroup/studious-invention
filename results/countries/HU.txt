@@ -1,6 +1,5 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4et8J+HuiBIdW5nYXJ5
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://45459159-1536-4e98-95b3-aa1dbbfb4172@45.195.111.15:443?security=reality&sni=storage.yandex.net&alpn=http/1.1&fp=qq&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇭🇺 Hungary | Datacamp Limited 3
-vless://f055899d-026b-49b5-88ed-0227795082da@2.26.139.184:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-qRasoN1QIcSdRL937b6s-Y2qOb-9OFmlaHBi7UcOSM&sid=e17b4d9a8c1f3526&sni=kukuruza.mycdn-me.ru#🇭🇺 Hungary | Datacamp Limited 1
-vless://82e209b2-97a6-4d67-a10b-72627b9f6702@45.195.111.15:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&fp=qq&alpn=http%2F1.1#🇭🇺 Hungary | Datacamp Limited 2
+vless://45459159-1536-4e98-95b3-aa1dbbfb4172@45.195.111.15:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&fp=qq&alpn=http%2F1.1#🇭🇺 Hungary | Datacamp Limited 1
+vless://82e209b2-97a6-4d67-a10b-72627b9f6702@45.195.111.15:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&sni=storage.yandex.net#🇭🇺 Hungary | Datacamp Limited 2
