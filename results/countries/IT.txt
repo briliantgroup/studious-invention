@@ -1,19 +1,18 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HuSBJdGFseQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.173:8880?type=grpc#🇮🇹 Italy | Scaleway 3
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Italy | Oneprovider.com 1
-vless://d3b3f278-2cca-4abf-aa27-bf0c0f27cbd0@pro-it.emrata.top:443?&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=chrome&sni=pro-it.emrata.top&type=tcp&headerType=none&host=pro-it.emrata.top&path=%2F#🇮🇹 Italy | Lagom Products LLC 1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.252:8880?type=grpc#🇮🇹 Italy | Scaleway 10
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001?#🇮🇹 Italy | Oneprovider.com 1
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?type=grpc&mode=gun#🇮🇹 Italy | Scaleway 6
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.5:8880?type=grpc#🇮🇹 Italy | Scaleway 2
+vless://fdac0300-5963-4e68-adb6-fc89a2de99a2@31.76.37.2:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-it.emrata.top#🇮🇹 Italy | Lagom Products LLC 1
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.130:8880?type=grpc#🇮🇹 Italy | Scaleway 11
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.127:8880?type=grpc#🇮🇹 Italy | Scaleway 10
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.252:8880?type=grpc#🇮🇹 Italy | Scaleway 8
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?type=grpc&mode=gun#🇮🇹 Italy | Scaleway 9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.60:8880?type=grpc#🇮🇹 Italy | Scaleway 4
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.46:8880?type=grpc#🇮🇹 Italy | Scaleway 5
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.53:8880?type=grpc#🇮🇹 Italy | Scaleway 3
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 7
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?type=grpc#🇮🇹 Italy | Scaleway 9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.127:8880?type=grpc#🇮🇹 Italy | Scaleway 4
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.60:8880?type=grpc#🇮🇹 Italy | Scaleway 5
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.46:8880?type=grpc#🇮🇹 Italy | Scaleway 6
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?type=grpc&mode=gun#🇮🇹 Italy | Scaleway 1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.53:8880?type=grpc#🇮🇹 Italy | Scaleway 8
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@31.77.154.67:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=it1-akn.astralweb.tech#🇮🇹 Italy | Vladislav Nitsenko 2
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 2
-vless://71cada65-d23e-418c-88e4-a06188d14689@185.103.100.248:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=it-one.quiet-rogue.site&fp=edge&pbk=pWPvxPIVtdzgaL0cdFZ73qn1FihjKDZ7TE55wg57Vl8&sid=9b43ece6010612b0&type=tcp&headerType=none#🇮🇹 Italy | Vladislav Nitsenko 1
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.17:8880?type=grpc#🇮🇹 Italy | Scaleway 1
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@31.77.154.67:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=it1-akn.astralweb.tech#🇮🇹 Italy | Vladislav Nitsenko 1
 vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.21.18.41:443?&security=tls&fp=chrome&alpn=h2&sni=pinalo.zenvorix.ir&type=ws&headerType=none&host=pinalo.zenvorix.ir&path=%2Fnova-geo-psiphon-it#🇮🇹 Italy | Akamai Technologies, Inc. 1
