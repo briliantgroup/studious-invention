@@ -3,3 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2&sni=amd.com#🇱🇹 Lithuania | UAB Cherry Servers 1
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=dartsearch-cn.net#🇱🇹 Lithuania | Private Customer 1
+vless://42e2dd45-2323-4929-9ab7-98f43591416e@91.224.75.127:2053?encryption=none&security=tls&sni=yykir7al.ndaiwcu.workers.dev&fp=chrome&type=ws&host=yykir7al.ndaiwcu.workers.dev&path=/&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇱🇹 Lithuania | CF 1
+vless://04b9e828-43ed-4faf-8952-41069ec08355@93.115.25.139:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr2.astralweb.tech#🇱🇹 Lithuania | Dedicated servers 1
