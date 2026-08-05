@@ -1,8 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4ex8J+HuyBMYXR2aWE=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://59b2ff61-808d-4dcc-b74a-fa283ff82c42@46.8.237.5:2084?encryption=none&type=grpc&mode=multi&serviceName=grpc&security=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
 vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=none&type=tcp&headerType=none#🇱🇻 Latvia | Global Connectivity Solution... 1
-vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.81:443?&security=reality&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&fp=firefox&packet-encoding=xudp&sni=anyfile2file.com&type=tcp&headerType=none&host=anyfile2file.com&path=%2F#🇱🇻 Latvia | NANO-ADTECH 2
-vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.80:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&sni=anyfile2file.com#🇱🇻 Latvia | NANO-ADTECH 1
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@195.123.208.92:13443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🇱🇻 Latvia | ITLDC Latvia network 1
+vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@185.72.86.13:443?encryption=none&security=reality&sni=monalisgame.com&fp=firefox&pbk=cbYXTGB1cWP29JuV8chwF7O0ZqbyUqjmu7CUHCaHRzY&sid=fff8&type=tcp&headerType=none#🇱🇻 Latvia | NANO-I 1
+vless://59b2ff61-808d-4dcc-b74a-fa283ff82c42@46.8.237.5:2084?encryption=none&type=grpc&mode=multi&serviceName=grpc&security=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
