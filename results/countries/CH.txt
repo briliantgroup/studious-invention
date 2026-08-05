@@ -1,9 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HrSBTd2l0emVybGFuZA==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://85329505-90c2-43d1-9c4a-689b1a0be884@45.131.212.17:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org#🇨🇭 Switzerland | Ultahost, Inc. 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080?#🇨🇭 Switzerland | M247 Ltd Zurich 1
-trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=speedtest.tinkoff.ru&type=tcp&insecure=1&security=tls&fp=chrome#🇨🇭 Switzerland | M247 Ltd Zurich 2
-vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#🇨🇭 Switzerland | Ultahost, Inc. 4
-vless://440c0fed-6aa7-4c5b-8e54-5a198712c4e4@45.131.212.15:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org#🇨🇭 Switzerland | Ultahost, Inc. 3
-vless://1bf44cb7-f947-441c-abb5-242c47e78292@45.131.212.9:443?encryption=none&security=reality&type=tcp&sni=abuse.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇨🇭 Switzerland | Ultahost, Inc. 1
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=speedtest.tinkoff.ru&type=tcp&insecure=1&security=tls&fp=android#🇨🇭 Switzerland | M247 Ltd Zurich 2
+vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#🇨🇭 Switzerland | Ultahost, Inc. 1
