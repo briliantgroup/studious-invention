@@ -3,16 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 trojan://BxceQaOe@119.246.1.143:443?sni=t.me%252fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#🇭🇰 Hong Kong | Hong Kong Broadband Network ... 1
 vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650?encryption=none&type=raw&headerType=none&security=none#🇭🇰 Hong Kong | Akile LTD 1
-ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg==@212.192.15.33:10910#🇭🇰 Hong Kong | Baxet Group Inc 4
-ss://YWVzLTI1Ni1nY206V1dNbzhGTVhOR0xz@212.192.15.13:8388#🇭🇰 Hong Kong | Baxet Group Inc 3
-ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.33:10910#🇭🇰 Hong Kong | Baxet Group Inc 1
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.101:8388?#🇭🇰 Hong Kong | Strong Worth Holdings Limite... 1
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@85.11.161.8:444?type=grpc&security=reality&fp=chrome&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&sid=8622176789abcdef&sni=web.max.ru&serviceName=web.max.ru#🇭🇰 Hong Kong | Dedik Services Limited 1
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.33:10910#🇭🇰 Hong Kong | Baxet Group Inc 3
+ss://YWVzLTI1Ni1nY206V1dNbzhGTVhOR0xz@212.192.15.13:8388#🇭🇰 Hong Kong | Baxet Group Inc 1
+vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?&security=reality&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&sid=ec2c7091fe76336c&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇭🇰 Hong Kong | GCP 1
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg==@212.192.15.33:10910?#🇭🇰 Hong Kong | Baxet Group Inc 2
 vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&encryption=none&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=47de54e71fee3451#🇭🇰 Hong Kong | VMISS Inc 1
-vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?type=tcp&security=reality&encryption=none&sni=www.amd.com&fp=chrome&alpn=http%2F1.1&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&flow=xtls-rprx-vision&headerType=none#🇭🇰 Hong Kong | Alibaba Cloud LLC 1
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@212.192.15.191:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=u695099u36cf43b9s298.wagahaha.xyz#🇭🇰 Hong Kong | Baxet Group Inc 2
 vless://d92afe21-8e8b-42c7-98c2-8a33da64d28f@39.109.117.110:43646?&type=ws&headerType=none&path=%2Fd92afe21#🇭🇰 Hong Kong | Yisu Cloud Limited 1
-trojan://ND91608427@185.244.208.13:443?allowInsecure=1&sni=ace-starling.rooster465.autos#🇭🇰 Hong Kong | GCL 1
-vless://2058418a-7718-4050-bdd5-db7487ffdb3b@34.96.200.38:443?encryption=none&fp=chrome&pbk=uoXBNYcBgR-h2YmU1NFhFyASr6qh9UghWOuo1WZIikw&security=reality&sid=17d824dd68e24aaf&sni=www.cloudflare.com&type=tcp#🇭🇰 Hong Kong | GCP 2
+trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#🇭🇰 Hong Kong | GCL 2
 trojan://ND91608427@91.199.84.120:443?security=tls&sni=dynamic-grubworm.rooster465.autos&path=/#🇭🇰 Hong Kong | G-Core Labs S.A 1
-vmess://eyJhZGQiOiAiNDcuMjQyLjc5LjE5OCIsICJhaWQiOiAiMCIsICJob3N0IjogImVqT01zeFB0UDE5QVB5R0wudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#🇭🇰 Hong Kong | Hong Kong 1
-vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?fp=chrome&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&security=reality&sid=ec2c7091fe76336c&sni=www.cloudflare.com#🇭🇰 Hong Kong | GCP 1
+trojan://ND91608427@185.244.208.13:443?allowInsecure=1&sni=ace-starling.rooster465.autos#🇭🇰 Hong Kong | GCL 1
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIyMTAuMTM4LjM3LjUzIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAiaG9zdCI6ICJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCAidGxzIjogInRscyJ9#🇭🇰 Hong Kong | Alibaba Cloud - HK 1
