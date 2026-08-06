@@ -1,10 +1,11 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HuSBJdGFseQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001?#🇮🇹 Italy | Oneprovider.com 1
-vless://02ae7872-1c03-4214-8b95-14c126da831e@pro-it.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=chrome&sni=pro-it.emrata.top#🇮🇹 Italy | Lagom Products LLC 4
-vless://95f50108-2bae-4634-948c-b22e01ae3133@31.76.37.7:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-it.emrata.top#🇮🇹 Italy | Lagom Products LLC 2
-vless://95f50108-2bae-4634-948c-b22e01ae3133@pro-it.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=chrome&sni=pro-it.emrata.top#🇮🇹 Italy | Lagom Products LLC 3
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.75:10901#🇮🇹 Italy | Baxet Group Inc 1
-vless://02ae7872-1c03-4214-8b95-14c126da831e@31.76.37.7:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-it.emrata.top#🇮🇹 Italy | Lagom Products LLC 1
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Italy | Oneprovider.com 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 1
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.75:10901#🇮🇹 Italy | Baxet Group Inc 2
+vless://95f50108-2bae-4634-948c-b22e01ae3133@31.76.37.7:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-it.emrata.top#🇮🇹 Italy | Lagom Products LLC 1
+vless://02ae7872-1c03-4214-8b95-14c126da831e@31.76.37.7:443?&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-it.emrata.top&type=tcp&headerType=none&host=pro-it.emrata.top&path=%2F#🇮🇹 Italy | Lagom Products LLC 2
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🇮🇹 Italy | OVH 1
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@62.76.234.75:10901#🇮🇹 Italy | Baxet Group Inc 1
+vless://f9d2937a-94e4-444a-95df-103faf1dd3fd@95.181.162.170:444?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome#🇮🇹 Italy | CF 1
