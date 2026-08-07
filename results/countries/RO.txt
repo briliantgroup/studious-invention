@@ -2,8 +2,5 @@
 #profile-title: encode:Qm9iaVZQTiDwn4e38J+HtCBSb21hbmlh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443?#🇷🇴 Romania | Dotro Telecom SRL 1
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&sni=www.samsung.com#🇷🇴 Romania | Serva ONE LTD 1
-vless://5dafde1b-fcd1-4146-86c9-16a32f2779e2@91.98.82.42:22022?type=tcp&security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&sni=login.yahoo.com&fp=edge#🇷🇴 Romania | Ontario Inc 3
-vless://5dafde1b-fcd1-4146-86c9-16a32f2779e2@77.42.125.134:22022?type=tcp&security=reality&encryption=none&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&sni=login.yahoo.com#🇷🇴 Romania | Ontario Inc 2
-vless://5dafde1b-fcd1-4146-86c9-16a32f2779e2@167.233.169.79:22022?type=tcp&security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&sni=login.yahoo.com&fp=firefox#🇷🇴 Romania | Ontario Inc 4
-vless://5dafde1b-fcd1-4146-86c9-16a32f2779e2@37.27.9.5:22022?type=tcp&security=reality&encryption=none&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&sni=login.yahoo.com#🇷🇴 Romania | Ontario Inc 1
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#🇷🇴 Romania | Serva ONE LTD 1
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.27:443?type=ws&security=tls&sni=ro.ariyuz.org#🇷🇴 Romania | Eclipse Networking Ltd. 1
