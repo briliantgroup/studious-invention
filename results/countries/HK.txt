@@ -1,17 +1,12 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4et8J+HsCBIb25nIEtvbmc=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=119.246.1.143#🇭🇰 Hong Kong | Hong Kong Broadband Network ... 1
-vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650?encryption=none&type=raw&headerType=none&security=none#🇭🇰 Hong Kong | Akile LTD 1
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtSEstMTEzODQwMzEiLCJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsInBvcnQiOiI0NDg2NyIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IlwvYXJraSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkhLNyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇭🇰 Hong Kong | Alibaba Cloud - HK 3
+trojan://BxceQaOe@119.246.1.143:443?security=tls#🇭🇰 Hong Kong | Hong Kong Broadband Network ... 1
 vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&encryption=none&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=47de54e71fee3451#🇭🇰 Hong Kong | VMISS Inc 1
-trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos&peer=dynamic-grubworm.rooster465.autos&security=tls#🇭🇰 Hong Kong | G-Core Labs S.A 2
-trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A 1
-trojan://ND91608427@185.244.208.13:443?security=tls&sni=ace-starling.rooster465.autos#🇭🇰 Hong Kong | GCL 3
+vless://2058418a-7718-4050-bdd5-db7487ffdb3b@34.96.200.38:443?encryption=none&fp=chrome&pbk=uoXBNYcBgR-h2YmU1NFhFyASr6qh9UghWOuo1WZIikw&security=reality&sid=17d824dd68e24aaf&sni=www.cloudflare.com&type=tcp#🇭🇰 Hong Kong | GCP 2
+trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#🇭🇰 Hong Kong | G-Core Labs S.A 2
+vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?&security=reality&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&sid=ec2c7091fe76336c&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇭🇰 Hong Kong | GCP 1
 trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong | GCL 2
-trojan://ND91608427@upright-hamster.rooster465.autos:443?security=tls&amp;sni=upright-hamster.rooster465.autos#🇭🇰 Hong Kong | GCL 4
-vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?&security=reality&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&sid=ec2c7091fe76336c&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇭🇰 Hong Kong | GCP 2
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoiNDcuNzYuNDQuMzIiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsImhvc3QiOiI5M3Vjcm40aTBQZmZVQWJrLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=#🇭🇰 Hong Kong | Alibaba Cloud - HK 1
-vless://2058418a-7718-4050-bdd5-db7487ffdb3b@34.96.200.38:443?encryption=none&fp=chrome&pbk=uoXBNYcBgR-h2YmU1NFhFyASr6qh9UghWOuo1WZIikw&security=reality&sid=17d824dd68e24aaf&sni=www.cloudflare.com&type=tcp#🇭🇰 Hong Kong | GCP 1
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI0My4xOTguMjA0LjM1IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAiaG9zdCI6ICJjRTBnZWRQWHdPVTZjcW9OLnYuM2Rucy52aXAiLCAidGxzIjogInRscyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=#🇭🇰 Hong Kong | Alibaba Cloud - HK 2
-trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#🇭🇰 Hong Kong | GCL 1
+trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos&peer=dynamic-grubworm.rooster465.autos&security=tls#🇭🇰 Hong Kong | G-Core Labs S.A 1
+trojan://ND91608427@185.244.208.13:443?security=tls&sni=ace-starling.rooster465.autos#🇭🇰 Hong Kong | GCL 1
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtSEstMTUxMjU5ODkiLCJhZGQiOiI0Ny4yNDIuNzkuMTk4IiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJwYXRoIjoiXC93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6ImVqT01zeFB0UDE5QVB5R0wudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMTQiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇭🇰 Hong Kong | Hong Kong 1
