@@ -2,8 +2,12 @@
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HuSBJdGFseQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Italy | Oneprovider.com 1
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&sni=yahoo.com#🇮🇹 Unknown | Oracle Corporation 2
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.188:10901?#🇮🇹 Italy | Baxet Group Inc 1
-vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:2096?&security=reality&flow=xtls-rprx-vision&pbk=pWPvxPIVtdzgaL0cdFZ73qn1FihjKDZ7TE55wg57Vl8&sid=9b43ece6010612b0&fp=edge&packet-encoding=xudp&sni=it-one.quiet-rogue.site&type=tcp&headerType=none&host=it-one.quiet-rogue.site&path=%2F#🇮🇹 Italy | Vladislav Nitsenko 1
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🇮🇹 Italy | OVH 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none&encryption=none&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#🇮🇹 Italy | Oracle Corporation 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle Corporation 2
+vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@31.77.154.200:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&sni=deepl.com#🇮🇹 Italy | Vladislav Nitsenko 1
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?type=ws&encryption=none&path=/vless/&host=OV-Italy1.09vpn.com&fp=chrome&alpn=http/1.1&headerType=none#🇮🇹 Italy | OVH 1
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.188:10901#🇮🇹 Italy | Baxet Group Inc 1
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?path=/api/v2/camera/events/8f4c2d&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=azs.benz.ink#🇮🇹 Italy | Datacamp Limited 1
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle Corporation 1
+vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:2096?flow=xtls-rprx-vision&security=reality&sni=it-one.quiet-rogue.site&fp=edge&pbk=pWPvxPIVtdzgaL0cdFZ73qn1FihjKDZ7TE55wg57Vl8&sid=9b43ece6010612b0&type=tcp&path=/#🇮🇹 Italy | Vladislav Nitsenko 2
+vless://f9d2937a-94e4-444a-95df-103faf1dd3fd@95.181.162.170:444?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome#🇮🇹 Italy | CF 2
+vless://7094cade-110a-4be0-b657-15d606dcea6d@95.181.162.170:444?security=tls&type=ws&path=%2F%40Marisa_kristi&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&packetEncoding=xudp&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&encryption=none#🇮🇹 Italy | CF 1
