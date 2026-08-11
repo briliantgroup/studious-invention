@@ -1,5 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4en8J+HtyBHZXJtYW55
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:3443?encryption=none&security=tls&sni=get.wlrus.cfd&type=grpc#🇧🇷 Germany | Ace Data Centers II, LLC 1
-vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:5443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=edge&security=tls&sni=get.wlrus.cfd&type=tcp#🇧🇷 Germany | Ace Data Centers II, LLC 2
+vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:3443?type=grpc&security=tls&fp=chrome&sni=get.wlrus.cfd#🇧🇷 Germany | Ace Data Centers II, LLC 2
+vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:5443?type=tcp&security=tls&encryption=none&fp=chrome&sni=get.wlrus.cfd#🇧🇷 Germany | Ace Data Centers II, LLC 1
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@201.34.141.83:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=chrome&pbk=Oo6WRP0tgvO-WVZSjCf5PDrPVJ-IoYwiilK9g3__8C4&sid=cba0dcfd9c4f36&type=tcp&headerType=none#🇧🇷 Brazil | Ace Data Centers II, LLC 3
