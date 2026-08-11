@@ -1,8 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eq8J+HuCBTcGFpbg==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | TELUS Communications Inc. 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | TELUS Communications Inc. 2
-vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#🇪🇸 Spain | CDN77 Madrid 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | TELUS Communications Inc. 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | TELUS Communications Inc. 1
 trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?security=tls&sni=193.148.19.213#🇪🇸 Spain | M247 Ltd Barcelona 1
-vless://23e18cb4-9db3-4eb1-93d3-26c62095159d@217.177.74.229:443?security=reality&type=tcp&sni=dzen.ru&fp=firefox&flow=xtls-rprx-vision&sid=d4331052&pbk=xSvlclDt9Oz7WKqoCCyuT3mEGnLwyp5ciOUClsZADH8&encryption=none#🇪🇸 Germany | Fornex Hosting S.L 1
+vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#🇪🇸 Spain | CDN77 Madrid 1
