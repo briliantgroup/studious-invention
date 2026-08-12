@@ -1,8 +1,10 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HrSBTd2l0emVybGFuZA==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#🇨🇭 Switzerland | M247 Ltd Zurich 2
-vless://85329505-90c2-43d1-9c4a-689b1a0be884@45.131.212.26:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org#🇨🇭 Switzerland | Ultahost, Inc. 2
-trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=chrome#🇨🇭 Switzerland | M247 Ltd Zurich 1
-vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.193.123:443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#🇨🇭 Switzerland | Ontario Inc. 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#🇨🇭 Switzerland | M247 Ltd Zurich 1
+vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.193.123:443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#🇨🇭 Switzerland | Ontario Inc. 2
+vless://e2b8f727-c5ee-47e1-8f1b-7c5c61479ce0@45.90.56.231:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=KrFnWxAwVGL6tuj1JE0qpykLzY4aOFjyK3OaymF_hT0&sid=e2e66f4537770cef&flow=xtls-rprx-vision#🇨🇭 Switzerland | Green Floid LLC 1
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=android#🇨🇭 Switzerland | M247 Ltd Zurich 2
 vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#🇨🇭 Switzerland | Ultahost, Inc. 1
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&path=%2Fapi%2Fv2%2Fcamera%2Fevents%2F8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇨🇭 Switzerland | Ontario Inc. 1
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@ru2.levikogjgfdd.ir:443?path=%2Fapi%2Fv2%2Fcamera%2Fevents%2F8f4c2d&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=azs.benz.ink#🇨🇭 Switzerland | Ontario Inc. 3
