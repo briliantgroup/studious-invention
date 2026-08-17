@@ -2,11 +2,10 @@
 #profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUw7xya2l5ZQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@us.rexten.cc:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&sni=us.rexten.cc#🇹🇷 Türkiye | White Label Services, LLC 2
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@216.9.224.172:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&sni=us.rexten.cc#🇹🇷 Türkiye | White Label Services, LLC 1
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#🇹🇷 Turkey | Global Connectivity Solution... 1
-trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=193.124.46.65&alpn=http/1.1#🇹🇷 Turkey | Baxet Group Inc 3
-vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=193.124.46.65#🇹🇷 Turkey | Baxet Group Inc 2
-vless://10af0a09-4a6a-4938-8fef-085c495d1c2f@176.65.151.215:8443?security=&encryption=none&headerType=&type=tcp#🇹🇷 Turkey | InterLIR LLC 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmJyb2Y@tr-1.stunnel.cc:8444#🇹🇷 Turkey | Baxet Group Inc 1
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=tcp&security=tls&encryption=none&sni=193.124.46.65&alpn=http%2F1.1&fp=chrome#🇹🇷 Turkey | Baxet Group Inc 2
+vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=193.124.46.65#🇹🇷 Turkey | Baxet Group Inc 3
+vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@216.9.224.172:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&sni=us.rexten.cc#🇹🇷 Türkiye | White Label Services, LLC 1
 vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&sid=f5d596282182b440&sni=www.apple.com#🇹🇷 Turkey | Hostkey B.V 1
-vmess://eyJhZGQiOiIxOTMuMTExLjc4LjEwNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNmI2ZmQzMi0wNGU2LTQzZmYtYTA2NS1iZWEzNmY3NDg2NTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjU4MzA0IiwicHMiOiI4OTU2LiBWTUVTUyB8IFNOSTogMTkzLjExMS43OC4xMDYgfCBURzogQHdscnVzdGciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=#🇹🇷 Turkey | Hosting Dunyam Bilisim Tekno... 1
+vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@45.12.5.171:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&sni=ru9.aimodelhub.top#🇹🇷 Turkey | Plant Holding GMBH 1
