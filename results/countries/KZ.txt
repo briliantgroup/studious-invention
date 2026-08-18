@@ -1,9 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4ew8J+HvyBLYXpha2hzdGFu
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&security=reality&sid=fa&sni=yahoo.com&type=tcp#🇰🇿 Kazakhstan | BEGET 1
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@91.224.87.22:9882?sid=aabb&sni=dl.google.com&security=reality&type=grpc&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&serviceName=grpc-tunnel&fp=chrome#🇰🇿 Kazakhstan | 3NT SOLUTIONS LLP 1
-vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@188.130.234.239:443?encryption=none&fp=firefox&mode=multi&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&security=reality&sid=1a55b8fd25417fbf&sni=kz.node.goidanet.com&type=grpc#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vyachesla... 1
-vless://f4685d27-73e3-4588-9622-add50b84046a@91.224.87.22:9882?type=grpc&security=reality&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇰🇿 Kazakhstan | 3NT SOLUTIONS LLP 2
-vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@kz.node.goidanet.com:443?type=grpc&security=reality&fp=firefox&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&sid=1a55b8fd25417fbf&sni=kz.node.goidanet.com&mode=multi&spx=/#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vyachesla... 2
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?type=tcp&security=reality&encryption=none&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&sni=yahoo.com&packetEncoding=none#🇰🇿 Kazakhstan | BEGET 1
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.12.73.145:443?fp=firefox&host=nordic.cendora.ru&sni=nordic.cendora.ru&path=%2F&security=reality&flow=xtls-rprx-vision&type=tcp&sid=2186a755ed67b034&headerType=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&descriptions=СвободуИнтернету581#🇰🇿 Kazakhstan | Netfire TEC 1
+vless://7d641c2e-6897-4b9f-8a82-3f0cc8980db1@5.180.52.186:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=magazinetut.online#🇰🇿 Kazakhstan | Beafort Limited 1
