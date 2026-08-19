@@ -1,6 +1,9 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HtCBDb2xvbWJpYQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.124.143:62145?type=tcp&security=none&encryption=none#🇨🇴 Colombia | Oracle Corporation 2
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.102:62145?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#🇨🇴 Colombia | Oracle Corporation 3
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.124.70:62145?type=tcp&security=none&encryption=none#🇨🇴 Colombia | Oracle Corporation 1
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.223:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Colombia | Oracle Corporation 4
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.124.143:62145?type=tcp&security=none&encryption=none#🇨🇴 Colombia | Oracle Corporation 6
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.236:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Colombia | Oracle Corporation 1
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.216.1:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Colombia | Oracle Corporation 2
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.71:62145?&type=tcp&headerType=none&path=%2F#🇨🇴 Colombia | Oracle Corporation 3
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.124.70:62145?type=tcp&security=none&encryption=none#🇨🇴 Colombia | Oracle Corporation 5
