@@ -2,9 +2,10 @@
 #profile-title: encode:Qm9iaVZQTiDwn4eq8J+HqiBFc3Rvbmlh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#🇪🇪 Estonia | 1Cent Host 1
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=estproxy4.lockdwn.com#🇪🇪 Estonia | Eternity International Limit... 3
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇪🇪 Estonia | Baykov Ilya Sergeevich 1
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?sni=estproxy4.lockdwn.com&alpn=h2%2Chttp/1.1&fp=edge&security=tls#🇪🇪 Estonia | Eternity International Limit... 1
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=estproxy2.lockdwn.com#🇪🇪 Estonia | Eternity International Limit... 4
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?type=ws&sni=94.183.170.231#🇪🇪 Estonia | Eternity International Limit... 1
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=chrome&sni=russiapower.accesscam.org&allow_insecure=0#🇪🇪 Estonia | Baykov Ilya Sergeevich 1
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=estproxy4.lockdwn.com#🇪🇪 Estonia | Eternity International Limit... 2
+vless://be3960db-f339-479a-be7b-c1a130601141@178.176.128.128:443?alpn=http%2F1.1&encryption=none&host=test-cdn-vk-d.cdn.cachefleet.com&path=%2Fassets%2Fv4%2Ff37d0a1c9e6b4f28a5d3027bc918e64a%2Fdata&security=tls&sni=test-cdn-vk-d.cdn.cachefleet.com&type=httpupgrade&fp=android#🇪🇪 Estonia | TAKEHOST OU 1
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sni=max.ru&sid=a696de84963656de#🇪🇪 Estonia | 1Cent Host 2
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?&type=ws&headerType=none&host=estproxy4.lockdwn.com&path=%2F#🇪🇪 Estonia | Eternity International Limit... 3
+vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?type=ws&sni=94.183.170.231#🇪🇪 Estonia | Eternity International Limit... 2
