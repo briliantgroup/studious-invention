@@ -1,8 +1,5 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e48J+HqCBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 Unknown | RAPIDSEEDBOX 1
-vless://a237ca49-48d5-466f-aee5-c44f728a99ab@200.165.229.168:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&sid=4f676caa93313eab&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇸🇨 Seychelles | Alaxona Internet Inc 4
-vless://9ddd1219-bc7f-4524-ad7c-5b110e7c37bc@200.165.229.168:8449?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=lcLyifIUyL1UnMABv4u7mVSh7VRmOVaZinSDfSKB13g&sid=60ccd0e5ab46ac4f&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇸🇨 Unknown | Alaxona Internet Inc 3
-vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1&security=none#🇸🇨 Russia | Alaxona Internet Inc 1
-vless://246bf902-1b08-4bc4-b851-c4987d804bac@200.165.229.168:2053?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&sid=688c54e7b1ebddec&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇸🇨 Unknown | Alaxona Internet Inc 2
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇸🇨 Unknown | RAPIDSEEDBOX 1
+vless://a237ca49-48d5-466f-aee5-c44f728a99ab@200.165.229.168:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&sid=4f676caa93313eab&sni=www.rumedia-cdn.com#🇸🇨 Seychelles | Alaxona Internet Inc 1
