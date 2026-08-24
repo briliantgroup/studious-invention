@@ -1,14 +1,9 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4eu8J+HuSBJdGFseQ==
+#profile-title: encode:Qm9iaVZQTiDwn4eu8J+HuSBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@104.171.128.225:443?encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=chrome#🇮🇹 Italy | Vladislav Nitsenko 7
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?type=ws&encryption=none&path=%2Fvless%2F&fp=chrome&alpn=http%2F1.1&headerType=none#🇮🇹 Italy | OVH 3
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#🇮🇹 Unknown | OVH 2
-vless://4fe19d97-7b1d-4cb2-99ee-4bd8658a4c34@104.171.128.225:443?encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=firefox#🇮🇹 Italy | Vladislav Nitsenko 6
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=raw&security=reality&fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b&sni=www.apple.com#🇮🇹 Italy | OVH 1
-vless://419f25c1-bc35-412e-93fb-258efee859b5@it1.murhost.network:443?security=reality&encryption=none&pbk=H9-mAKSPlIPGVDI2uBSZqxxOkLGTsfciqL5rAKIwUlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it1.murhost.network&sid=ad416bcb922d986b#🇮🇹 Italy | Vladislav Nitsenko 2
-vless://419f25c1-bc35-412e-93fb-258efee859b5@31.76.113.94:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=H9-mAKSPlIPGVDI2uBSZqxxOkLGTsfciqL5rAKIwUlg&sid=ad416bcb922d986b&sni=it1.murhost.network#🇮🇹 Italy | Vladislav Nitsenko 1
-vless://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@31.77.154.244:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=K8LxbhrcgxM7bIW8SGKmEvqn-zbAGqyi4G37_u-kbh4&sid=c2b104f3483063c5&sni=it-two.letsgodance.site#🇮🇹 Italy | Vladislav Nitsenko 4
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?type=ws&encryption=none&path=%2Fvless%2F&fp=chrome&alpn=http%2F1.1&headerType=none#🇮🇹 Unknown | OVH 1
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#🇮🇹 Unknown | OVH 3
+vless://626c0789-16d1-4815-be8b-bd03959d7d12@104.171.128.225:443?type=grpc&sni=dl.google.com&_t=a47e5729&security=reality&serviceName=grpc-tunnel&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&fp=firefox&encryption=none&seq=you_are_beautiful9492#🇮🇹 Italy | Vladislav Nitsenko 1
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=raw&security=reality&fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b&sni=www.apple.com#🇮🇹 Italy | OVH 2
 vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?type=ws&security=tls&fp=firefox&sni=it2ws.wba-pn.ru#🇮🇹 Italy | Global Connectivity Solution... 1
-vless://80d02a71-54a5-4c5b-976d-5ee573c502af@104.171.128.225:443?encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc&fp=chrome#🇮🇹 Italy | Vladislav Nitsenko 3
-vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@72.56.34.223:15200?security=reality&encryption=none&pbk=_j2WOC-2bKrT_NYoILpIHacMFb6rHjkC_fuqf5LCNFw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=it.horizonless.pro#🇮🇹 Italy | Vladislav Nitsenko 5
+vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#🇮🇹 Italy | Global Connectivity Solution... 2
