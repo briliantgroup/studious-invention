@@ -1,8 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4en8J+HrCBCdWxnYXJpYQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?security=reality&sni=api-maps.yandex.ru&type=grpc&serviceName=grpc-reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇧🇬 Bulgaria | Belcloud LTD 2
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#🇧🇬 Bulgaria | Belcloud LTD 1
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9002?type=grpc&security=reality&encryption=none&sni=api-maps.yandex.ru&serviceName=grpc-reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇧🇬 Bulgaria | Belcloud LTD 2
 ss://YWVzLTI1Ni1jZmI6MktVYUUyYThOV1R2dUNaMw==@213.183.63.60:9066?#🇧🇬 Bulgaria | Melbikomas UAB 2
-ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA==@213.183.63.60:9028?#🇧🇬 Bulgaria | Melbikomas UAB 1
 vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&sid=720148f2fea16d0f&sni=www.cloudflare.com&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless#🇧🇬 Bulgaria | Green Floid LLC 1
+ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA==@213.183.63.60:9028?#🇧🇬 Bulgaria | Melbikomas UAB 1
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc#🇧🇬 Bulgaria | Belcloud LTD 1
