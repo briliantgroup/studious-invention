@@ -1,9 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4en8J+HtyBCcmF6aWw=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&type=ws&path=%2Fv1&security=none#🇧🇷 Brazil | TimeWeb 4
-vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?encryption=none&security=none&sni=rzd.ru&type=ws&path=%2Fv1#🇧🇷 Brazil | TimeWeb 3
+vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇧🇷 Brazil | TimeWeb 2
 vless://c396fa08-e07a-459b-b894-389456fd6a82@23.251.55.216:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&sid=9ea177c3c147119b&sni=www.amazon.com#🇧🇷 Brazil | litong 1
+vless://af60d475-3c13-41cf-af0e-18353d08877a@201.24.49.77:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1#🇧🇷 Russia | TimeWeb 3
+vless://f0528a17-863f-4160-a5a0-0d9ad03f2ee7@201.24.49.74:2200?&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#🇧🇷 Russia | TimeWeb 1
 vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&sid=59ccabb0a1483c4b&sni=www.cloudflare.com#🇧🇷 Brazil | VpsQuan L.L.C. 1
-vless://b671573f-6303-4cdf-ad50-0401d07e85bf@201.24.49.233:2200?host=rzd.ru&path=%2Fv1&security=none&type=ws#🇧🇷 Russia | TimeWeb 1
-vless://a237ca49-48d5-466f-aee5-c44f728a99ab@201.24.53.247:8443?security=reality&encryption=none&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=4f676caa93313eab#🇧🇷 Russia | TimeWeb 2
