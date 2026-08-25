@@ -1,6 +1,11 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4en8J+HtyBSdXNzaWE=
+#profile-title: encode:Qm9iaVZQTiDwn4en8J+HtyBCcmF6aWw=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.120:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇧🇷 Russia | TimeWeb 2
-vless://a237ca49-48d5-466f-aee5-c44f728a99ab@201.24.53.247:8443?security=reality&encryption=none&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=4f676caa93313eab#🇧🇷 Russia | TimeWeb 1
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#🇧🇷 Russia | TimeWeb 3
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇧🇷 Brazil | TimeWeb 4
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇧🇷 Brazil | TimeWeb 7
+vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇧🇷 Russia | TimeWeb 2
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.120:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇧🇷 Russia | TimeWeb 5
+vless://2e228435-33a0-47d1-a1d8-9a34b5a03c45@201.24.49.117:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇧🇷 Russia | TimeWeb 1
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&type=ws&path=%2Fv1&security=none#🇧🇷 Brazil | TimeWeb 3
+vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?encryption=none&security=none&sni=rzd.ru&type=ws&path=%2Fv1#🇧🇷 Russia | TimeWeb 6
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#🇧🇷 Russia | TimeWeb 8
