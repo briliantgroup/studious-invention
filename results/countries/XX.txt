@@ -1,18 +1,5 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e98J+HvSBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?#🇽🇽 Unknown 8
-vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?type=tcp&packetEncoding=none#🇽🇽 Unknown 4
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?type=tcp&security=reality&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&sni=www.samsung.com#🇽🇽 Unknown 12
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?encryption=none&type=ws&security=none&path=/v1#🇽🇽 Unknown 3
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#🇽🇽 Unknown 9
-vless://48572af1-d091-457b-a86e-4a457e99927f@3h-unitedstates3.09vpn.com:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=3h-unitedstates3.09vpn.com&path=%2Fvless%2F#🇽🇽 Unknown 1
-vless://0b0f1f7b-d005-4765-939f-9a2f6a2f3d85@188.245.150.184:6811?security=reality&type=tcp&sni=play.google.com&fp=chrome&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none#🇽🇽 Unknown 14
-vless://5bd820f0-69cb-4d6a-b42d-c0dfe2edffcd@5.152.223.192:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#🇽🇽 Unknown 10
-vless://19365fd3-d23c-4a9e-a2ef-543d230e65c4@193.233.217.140:2200?encryption=none&path=/v1&security=none&type=ws#🇽🇽 Unknown 13
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&type=ws&host=vlessru.duckdns.org&path=%2Fwsru&security=tls&fp=chrome&sni=vlessru.duckdns.org#🇽🇽 Unknown 6
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=chrome&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#🇽🇽 Unknown 15
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?type=ws&security=tls&fp=chrome&sni=web-socket.tgdaosheng.ggff.net#🇽🇽 Unknown 7
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtTVktMTQxNjQxNjUiLCJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsInBvcnQiOiIxMDAwMCIsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇽🇽 Unknown 11
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇽🇽 Unknown 5
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=%2F&security=none&encryption=none&host=mypanel.unixzone.us&type=ws#🇽🇽 Unknown 2
+vless://f73681a4-1654-446f-a7eb-bda3bfd9e521@app47.jarvestip.ru:443?security=reality&flow=xtls-rprx-vision&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&sid=8ece2039&sni=app15.jarvestip.ru&type=tcp&headerType=none&host=app15.jarvestip.ru&path=%2F&fp=qq#🇽🇽 Unknown 1
+vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?security=tls&fp=chrome&type=ws&host=bz16.wba-pn.ru&path=/#🇽🇽 Unknown 2
