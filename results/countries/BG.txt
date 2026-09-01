@@ -1,4 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4en8J+HrCBTd2VkZW4=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@84.238.133.186:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swed2.helper-internet.com&sid=6aa2d2e950441a9a#🇧🇬 Sweden | Redcluster LTD 1
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@84.238.133.186:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&security=reality&sid=6aa2d2e950441a9a&sni=swed2.helper-internet.com&type=tcp#🇧🇬 Sweden | Redcluster LTD 1
+vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&sid=720148f2fea16d0f&sni=www.cloudflare.com#🇧🇬 Bulgaria | Green Floid LLC 2
+vless://bfb66910-f920-42c6-b52a-5f56e1dabcb4@82.118.18.224:443?security=reality&encryption=none&pbk=mx0NhP2x4HYUumJ1r0RV411imRCjKQDfDf5ApSz5cCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=63499b2eceaee61e#🇧🇬 Bulgaria | Green Floid LLC 1
