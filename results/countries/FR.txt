@@ -1,34 +1,41 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4er8J+HtyBGcmFuY2U=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://4283865b-7145-44d3-9855-96298c47424d@136.244.112.46:37710?type=tcp&encryption=none&security=none#🇫🇷 France | Vultr 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#🇫🇷 France | OVH 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#🇫🇷 France | OVH 3
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#🇫🇷 France | MINT 1
+vless://4283865b-7145-44d3-9855-96298c47424d@136.244.112.46:37710?encryption=none&security=none&type=tcp&headerType=none#🇫🇷 France | Vultr 1
+vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?encryption=none&security=reality&sni=status.play.google.com&fp=chrome&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&sid=5030&spx=/&type=tcp&headerType=none&host=status.play.google.com#🇫🇷 France | Contabo 1
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&security=reality&encryption=none&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=1eb8ea8dae937ae0#🇫🇷 France | Ibcs 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#🇫🇷 France | OVH 1
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?encryption=none&host=usejh2.neobo-tooth.ru&path=%2F&security=none&type=ws#🇫🇷 France | Ibcs 1
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&headerType=none&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&fp=qq&sni=deepl.com&sid=a8ae&spx=%2F#🇫🇷 France | Beafort Limited 1
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2096?encryption=none&host=usejh2.neobo-tooth.ru&path=%2F&security=none&type=ws#🇫🇷 France | Ibcs 2
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?type=ws&encryption=none&host=akamaized.net&path=/vless/#🇫🇷 Unknown | OVH 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#🇫🇷 France | OVH 4
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&sid=1eb8ea8dae937ae0&sni=vk.ru#🇫🇷 France | Ibcs 1
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80/?type=ws&encryption=none&flow=&path=/vless/#🇫🇷 France | OVH 6
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?allowInsecure=1&encryption=none&fp=chrome&host=bab-6.site&path=/vws/&security=tls&sni=bab-6.site&type=ws#🇫🇷 France | OVH 5
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@45.154.96.35:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fra3.freeinternat.com&fp=chrome&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#🇫🇷 France | Dyjix 1
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&security=none&type=ws&host=akamaized.net&path=%2Fvless%2F#🇫🇷 France | OVH 7
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#🇫🇷 France | ONLINE 16
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#🇫🇷 France | ONLINE 12
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@fra3.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=fra3.freeinternat.com&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2f&type=tcp&headerType=none&path=%2f#🇫🇷 France | Dyjix 2
+vless://b4c5a66f-1f66-4262-b72d-c6aa661abc2c@5.196.243.4:443?security=reality&encryption=none&pbk=0jolgptjjXxVsUgMPN_mcoyHET2uHQ7onbAMZ7uCc2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=8d0a77a398415b0e#🇫🇷 France | OVH 5
+vless://b4c5a66f-1f66-4262-b72d-c6aa661abc2c@sv-fr2.cdnturbo.net:443?type=tcp&headerType=none&fp=chrome&encryption=none&pbk=0jolgptjjXxVsUgMPN_mcoyHET2uHQ7onbAMZ7uCc2w&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&sid=8d0a77a398415b0e#🇫🇷 France | OVH 6
+trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 14
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇫🇷 France | ONLINE 15
+trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 11
+trojan://humanity@91.245.225.79:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 9
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?allowInsecure=1&encryption=none&path=/vws/&security=tls&sni=bab-6.site&type=ws#🇫🇷 France | OVH 2
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 France | OVH 4
 vless://14155d8d-14f7-4105-984b-f477e3880943@104.105.202.38:29239/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sony.com&fp=chrome&security=reality&pbk=KGI60DoZFcBFTq4yrjFE5C4QitMypVH4HJlkM9VqB1M&sid=fd7069bcd5853169#🇫🇷 France | Akamai Technologies, Inc. 1
-trojan://humanity@168.100.9.178:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 7
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?security=tls&encryption=none&host=45.80.215.68&headerType=none&type=tcp&sni=45.80.215.68&source_name=mirror_0124&provider_id=mirror_0124#🇫🇷 France | G-Core Labs S.A 1
-trojan://humanity@82.117.245.125:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 6
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | ONLINE 3
-trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 11
-trojan://humanity@104.20.6.134:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#🇫🇷 France | ONLINE 8
-vless://b4c5a66f-1f66-4262-b72d-c6aa661abc2c@5.196.243.4:443?security=reality&encryption=none&pbk=0jolgptjjXxVsUgMPN_mcoyHET2uHQ7onbAMZ7uCc2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=8d0a77a398415b0e#🇫🇷 France | OVH 2
-vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=beast.locallynet.org&type=tcp#🇫🇷 France | LIRBEE 1
-trojan://humanity@212.227.144.37:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 12
-trojan://humanity@88.99.189.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 5
-vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=a44ff7d2e80213c2&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg#🇫🇷 France | Regxa Company for Informatio... 1
-trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 4
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇫🇷 France | SERV.HOST GROUP LTD 1
-trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 9
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@35.157.240.237:443?security=tls&fp=chrome&packet-encoding=xudp&sni=bab-6.site&type=ws&headerType=none&host=bab-6.site&path=/vws/#🇫🇷 France | OVH 1
-trojan://humanity@45.87.41.18:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 13
-trojan://humanity@5.181.187.58:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 1
-trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 2
-trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=borat-hopp.bumbleshrimp.com#🇫🇷 France | MOJI 1
-trojan://humanity@5.78.92.27:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 10
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 6
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&sni=passport.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6#🇫🇷 France | Contabo 2
+vless://f2ea3f68-6e31-4e07-a78c-fff6ebe246c3@2.26.129.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&security=reality&sid=5a8e1a04f3d92b67&sni=ukrop.mycdn-me.ru&type=tcp#🇫🇷 France | DataCamp Limited 1
+vless://2391a0dc-10a1-447a-b7c1-150ebebfa638@217.19.122.206:9443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&security=reality&sid=bcfba22d203308aa&sni=optim.tildacdn.pub&type=raw#🇫🇷 France | Gabriele Sabatino 1
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@45.80.215.68:443?security=tls&encryption=none&host=45.80.215.68&headerType=none&type=tcp&sni=45.80.215.68#🇫🇷 France | G-Core Labs S.A 1
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 10
+trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 7
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷 France | ONLINE 1
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android#🇫🇷 France | HMS 1
+trojan://humanity@104.17.121.71:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷 France | ONLINE 4
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 3
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#🇫🇷 Germany | SERV.HOST GROUP LTD 1
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 France | ONLINE 5
+trojan://humanity@193.233.87.41:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 8
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@45.154.96.35:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fra3.freeinternat.com&fp=chrome&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#🇫🇷 France | Dyjix 1
+trojan://humanity@45.87.41.18:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 2
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 France | ONLINE 13
