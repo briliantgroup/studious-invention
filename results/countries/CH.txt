@@ -1,8 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HrSBTd2l0emVybGFuZA==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:443?encryption=none&security=none&type=tcp#🇨🇭 Switzerland | anyNode 3
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:17622?encryption=none&security=none&type=tcp#🇨🇭 Switzerland | anyNode 4
 vless://2e8077d9-7bd9-444b-b2e3-de940d2eb35e@45.90.58.216:443?security=reality&encryption=none&pbk=PMYLdOtnvW-ca8Zf6u7CFgGXoGXCvmCMPerPjGY3AAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=77d7abe2c55892f1#🇨🇭 Switzerland | Green Floid LLC 1
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:8080?encryption=none&security=none&type=tcp#🇨🇭 Switzerland | anyNode 1
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:110?encryption=none&security=none&type=tcp#🇨🇭 Switzerland | anyNode 2
+vless://3affc7d9-547b-4bd3-97ef-7633dbd72767@193.124.125.79:161?encryption=none&fp=qq&mode=gun&pbk=D5ttWzeUeEo0oKchjhHGY7Z8jFrAB-BOz6kdQpCrZg0&security=reality&serviceName=lv3grpc&sni=avito.st&type=grpc#🇨🇭 Switzerland | Infomaniak Cloud 1
+vless://8cc0f156-c22f-465f-8bf1-68460d330c63@147.45.99.111:44002?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=c2166e3b&sni=cloudbridgecdn.pro&type=tcp#🇨🇭 Switzerland | GTHost 1
+vless://8cc0f156-c22f-465f-8bf1-68460d330c63@201.34.141.76:44002?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=c2166e3b&sni=cloudbridgecdn.pro&type=tcp#🇨🇭 Switzerland | GTHost 2
+vless://8cc0f156-c22f-465f-8bf1-68460d330c63@83.217.223.158:44002?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=c2166e3b&sni=cloudbridgecdn.pro&type=tcp#🇨🇭 Switzerland | GTHost 3
