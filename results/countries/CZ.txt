@@ -1,5 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HvyBDemVjaCBSZXB1YmxpYw==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@5.39.202.127:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=czek1.kovsh.lol&security=reality&pbk=crRdG3Hd_QtGCJi9fd1rtHpDIB7vnCx1Yexfu6XkIzU&sid=2cec07a8614696e5#🇨🇿 Czech Republic | GamerHost s.r.o 1
-vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=udemy.com&fp=ios&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&path=/#🇨🇿 Czech Republic | Cdn77 PRG 1
+vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=udemy.com&fp=chrome&flow=xtls-rprx-vision&sid=e90360ec7cc61b20&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE#🇨🇿 Czech Republic | Cdn77 PRG 1
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@5.39.202.127:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=czek1.kovsh.lol&fp=chrome&security=reality&pbk=crRdG3Hd_QtGCJi9fd1rtHpDIB7vnCx1Yexfu6XkIzU&sid=2cec07a8614696e5&packetEncoding=xudp#🇨🇿 Czech Republic | GamerHost s.r.o 1
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.123:7444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=akamai.com&type=raw#🇨🇿 Czech Republic | Global Cloud Network LLC 2
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.166:7444?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=akamai.com#🇨🇿 Czech Republic | Global Cloud Network LLC 1
