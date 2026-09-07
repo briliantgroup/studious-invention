@@ -1,7 +1,6 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUdXJrZXk=
+#profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUw7xya2l5ZQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://1f507f26-949e-4dab-9191-0d116e2bd8aa@tr2.wba-pn.ru:443?type=ws&security=tls&sni=tr2.wba-pn.ru&fp=chrome#🇹🇷 Turkey | Global Connectivity Solution... 1
-vless://1e4a8e7d-4876-4f88-b45a-091caff4a1b2@91.228.227.112:1?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Turkey | Tres Teknoloji 1
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?encryption=none&security=tls&sni=195-162-69-203.sslip.io&fp=firefox&type=tcp&headerType=none#🇹🇷 Turkey | CF 1
+vless://e691b034-dfc9-4f22-80aa-6d4f6404a4df@151.241.226.201:2053?encryption=none&fp=&pbk=k5COjpopVNGzEuMb457zCrrZegSdBX-d8bg0G6HDsE4&security=reality&sid=9bd613c48251f0db&sni=www.apple.com&type=tcp#🇹🇷 Türkiye | Hostkey B.V 2
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?security=reality&encryption=none&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sync-bridge.org&sid=5606d4a25c99e7af#🇹🇷 Turkey | Hostkey B.V 1
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?encryption=none&security=tls&sni=195-162-69-203.sslip.io&fp=firefox&type=tcp&headerType=none#🇹🇷 Turkey | CF 1
