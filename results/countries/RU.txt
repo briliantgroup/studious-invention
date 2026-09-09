@@ -1,10 +1,12 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBSdXNzaWE=
+#profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBGcmFuY2U=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e7#🇷🇺 Russia | UFO Hosting LLC 1
-vless://db9da8fb-c528-42ec-9b9e-e578cf934c04@45.131.212.30:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=safari#🇷🇺 France | Neurosignal LLC 2
-vless://db9da8fb-c528-42ec-9b9e-e578cf934c04@45.131.212.37:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=chrome#🇷🇺 France | Neurosignal LLC 1
-vless://6a726f9a-5753-4113-bfd8-bd845281dca8@194.26.229.110:4100?encryption=none&security=none&sni=live.ok.ru&type=ws&path=%2Fv1#🇷🇺 Russia | xorek.cloud GROUP Ltd 1
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.9.15.206:443?encryption=none&type=ws&path=/websocket&host=ru05.abvpn.ru&security=tls&sni=ru05.abvpn.ru&fp=edge#🇷🇺 Russia | UFO Hosting LLC 2
+vless://db9da8fb-c528-42ec-9b9e-e578cf934c04@45.131.212.37:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=firefox#🇷🇺 France | Neurosignal LLC 2
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&type=ws&host=vlessru.duckdns.org&path=%2Fwsru&security=tls&fp=chrome&sni=vlessru.duckdns.org#🇷🇺 Unknown | TimeWeb 1
+vless://19365fd3-d23c-4a9e-a2ef-543d230e65c4@193.233.217.140:2200?path=%2Fv1&security=&encryption=none&type=ws#🇷🇺 Unknown | Aeza 1
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@158.160.17.175:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BVwyZUEoTujbWy-7QczfJyYAsHw2y_H8SMMfbK5AEho&security=reality&sid=81dd866769f057&sni=ya.ru&type=tcp#🇷🇺 Unknown | Yandex.Cloud LLC 1
-ss://YWVzLTEyOC1nY206YWs1V1lXZEVTR05vUkd4dVRIVkJlV1owTmt0VGVHWlNRMWR5UjNaSlpGUm1ZV3AwYlZGeE9FcEdSM2xPVHpaYVVtTXpSelZQV1dkSVdqTnBaVTQxVHc9PQ@200.169.180.248:14173#🇷🇺 Russia | TimeWeb 1
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.9.15.206:443?allowInsecure=1&encryption=none&host=ru05.abvpn.ru&path=/websocket&security=tls&sni=ru05.abvpn.ru&type=ws#🇷🇺 Russia | UFO Hosting LLC 1
+vless://6a726f9a-5753-4113-bfd8-bd845281dca8@194.26.229.110:4100?encryption=none&security=none&sni=live.ok.ru&type=ws&path=%2Fv1#🇷🇺 Russia | xorek.cloud GROUP Ltd 1
+vless://db9da8fb-c528-42ec-9b9e-e578cf934c04@45.131.212.30:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=chrome#🇷🇺 France | Neurosignal LLC 1
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@193.233.217.22:4100?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&path=%2Fv1#🇷🇺 Russia | Aeza 2
+vless://72c8ea26-8b77-4e31-a23f-79c19b3a2ef1@186.246.48.59:2200?encryption=none&security=none&sni=rzd.ru&type=ws&path=%2Fv1#🇷🇺 Russia | Sprinthost LLC 1
