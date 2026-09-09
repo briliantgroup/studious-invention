@@ -3,6 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
 vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=at.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&allowInsecure=1#🇦🇹 Austria | ANX 1
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.37.154:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=at1.moritech.net&type=tcp#🇦🇹 Austria | FDCservers.net 3
-vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@87.228.101.117:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5t2xCnbbtl19V3Ec5Hip3HPEE3jGPlp3TAYtpjYBFGc&sid=c3b8c6bfc38a5883&sni=api-maps.yandex.ru#🇦🇹 Austria | Aeza 1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.122:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=at3.moritech.net&alpn=h2&fp=safari&packetEncoding=xudp#🇦🇹 Austria | FDCservers.net 1
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.26:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=at2.moritech.net&fp=firefox&packetEncoding=xudp#🇦🇹 Austria | FDCservers.net 2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.122:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=at3.moritech.net&alpn=h2&fp=safari&packetEncoding=xudp#🇦🇹 Austria | FDCservers.net 1
