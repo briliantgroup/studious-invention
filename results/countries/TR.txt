@@ -1,9 +1,7 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBVbmtub3du
+#profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUw7xya2l5ZQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@212.64.193.13:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&security=reality&sid=f93c9d5127e622e4&sni=tr.cloudtechone.org&type=tcp#🇹🇷 Unknown | Sunucun Bilgi Iletisim Tekno... 1
 vless://e691b034-dfc9-4f22-80aa-6d4f6404a4df@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=k5COjpopVNGzEuMb457zCrrZegSdBX-d8bg0G6HDsE4&sid=9bd613c48251f0db#🇹🇷 Türkiye | Hostkey B.V 2
-vless://8db3a1ab-f739-41f2-ae46-4fb72d9134f8@153.52.92.100:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=9PxwbCMskvn1WA7ieKvvgJ3tvYU-u0r9wms__WU8URU&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=0bd70fc8a4034691#🇹🇷 Turkey | Netlen Internet Hizmetleri L... 1
+vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@cz.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 Turkey | Sunucun Bilgi Iletisim Tekno... 1
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?security=reality&encryption=none&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sync-bridge.org&sid=5606d4a25c99e7af#🇹🇷 Turkey | Hostkey B.V 1
-vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@cz.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 Turkey | Sunucun Bilgi Iletisim Tekno... 2
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=195-162-69-203.sslip.io#🇹🇷 Turkey | CF 1
+vless://fc60d2f9-e3b5-449f-80d8-385c08e93c94@153.52.92.239:11437?security=reality&encryption=none&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=7de83d0e31eb75ef#🇹🇷 Turkey | Netlen Internet Hizmetleri L... 1
