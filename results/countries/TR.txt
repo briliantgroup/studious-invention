@@ -1,15 +1,9 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUw7xya2l5ZQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=64.49.13.77&allowInsecure=0&insecure=0#🇹🇷 Türkiye | Zappie Host LLC 2
-vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8080?path=%2F&security=none&encryption=none&host=play.google.com&type=httpupgrade#🇹🇷 Türkiye | Zappie Host LLC 3
-vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8443?encryption=none&type=ws&path=%2F&host=play.google.com&allowInsecure=1#🇹🇷 Türkiye | Zappie Host LLC 1
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=195-162-69-203.sslip.io#🇹🇷 Türkiye | CF 1
+vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@212.64.193.13:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 Turkey | Sunucun Bilgi Iletisim Tekno... 1
 vless://e691b034-dfc9-4f22-80aa-6d4f6404a4df@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=k5COjpopVNGzEuMb457zCrrZegSdBX-d8bg0G6HDsE4&sid=9bd613c48251f0db#🇹🇷 Türkiye | Hostkey B.V 2
-vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@212.64.193.13:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tr.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 Turkey | Sunucun Bilgi Iletisim Tekno... 1
-vless://cb7adc62-ccc3-40ea-a066-76b2f60e3ac2@206.1.97.65:8080?mode=auto&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.Wqg72o-NMfm1D7YeVkkgEDR7j_Kbs5U3d-CpxoCWRR4&extra={"mode":"auto","xPaddingBytes":"100-1000"}&type=xhttp#🇹🇷 Turkey | Cogent Communications 2
-vless://fc60d2f9-e3b5-449f-80d8-385c08e93c94@153.52.92.239:11437?type=tcp&security=reality&fp=firefox&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&sid=7de83d0e31eb75ef&sni=amp-api-edge.apps.apple.com#🇹🇷 Turkey | Netlen Internet Hizmetleri L... 1
-vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@212.64.193.85:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 Turkey | Sunucun Bilgi Iletisim Tekno... 2
-vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@202.133.90.93:8444?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇹🇷 Bulgaria | Deployish Limited 1
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=195-162-69-203.sslip.io#🇹🇷 Turkey | CF 1
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&type=tcp&headerType=none#🇹🇷 Turkey | Hostkey B.V 1
-vless://bfb3f06c-e33f-41ac-b101-012c8325a689@206.1.96.228:8082?encryption=none&security=none&type=tcp&headerType=none#🇹🇷 Turkey | Cogent Communications 1
+vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@212.64.193.85:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 Turkey | Sunucun Bilgi Iletisim Tekno... 3
+vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@cz.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 Turkey | Sunucun Bilgi Iletisim Tekno... 2
