@@ -1,9 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUw7xya2l5ZQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=195-162-69-203.sslip.io#🇹🇷 Türkiye | CF 1
-vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@212.64.193.13:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 Turkey | Sunucun Bilgi Iletisim Tekno... 1
-vless://e691b034-dfc9-4f22-80aa-6d4f6404a4df@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=k5COjpopVNGzEuMb457zCrrZegSdBX-d8bg0G6HDsE4&sid=9bd613c48251f0db#🇹🇷 Türkiye | Hostkey B.V 2
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&type=tcp&headerType=none#🇹🇷 Turkey | Hostkey B.V 1
-vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@212.64.193.85:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 Turkey | Sunucun Bilgi Iletisim Tekno... 3
-vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@cz.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 Turkey | Sunucun Bilgi Iletisim Tekno... 2
+vless://e691b034-dfc9-4f22-80aa-6d4f6404a4df@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=k5COjpopVNGzEuMb457zCrrZegSdBX-d8bg0G6HDsE4&sid=9bd613c48251f0db#🇹🇷 Türkiye | Hostkey B.V 1
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&type=tcp&headerType=none#🇹🇷 Turkey | Hostkey B.V 2
+vless://79f98593-6a21-4783-a425-3d5609a79df1@app.life-pro.ir:8082?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Türkiye | Cogent Communications 1
