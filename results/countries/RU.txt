@@ -1,9 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBSdXNzaWE=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112?#🇷🇺 Russia | .masterhost 1
-vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@46.243.235.188:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4&security=reality&sni=pool.dataroute.biz&spx=%2F&type=raw#🇷🇺 Unknown | LLC Global cloud network 1
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?&security=tls&fp=chrome&sni=vlessru.duckdns.org&type=ws&headerType=none&host=vlessru.duckdns.org&path=%2Fwsru#🇷🇺 Russia | TimeWeb 1
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺 Russia | MegaMax Network 1
-vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&type=grpc&serviceName=TunService&sni=www.epson.com&fp=chrome#🇷🇺 Finland | TrafficTransitSolution LLC 1
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 1
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&type=grpc&serviceName=TunService&sni=www.epson.com&fp=chrome#🇷🇺 Russia | TrafficTransitSolution LLC 1
+vless://fc72e947-b8dd-4de0-9ec7-2b0050c9f83a@141.8.199.212:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#🇷🇺 Russia | Sprinthost 199 1
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#🇷🇺 Russia | MegaMax Network 1
