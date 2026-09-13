@@ -1,4 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4ey8J+HqSBNb2xkb3Zh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hotcoals.aeternavpn.space&fp=firefox&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&sid=a1b2c3d4&type=tcp&headerType=none&host=hotcoals.aeternavpn.space#🇲🇩 Moldova | AlexHost SRL 1
+vless://c623d17f-6f69-4c32-9edc-919da41fe21a@md7.mediacorp.fyi:443?type=grpc&security=tls&fp=chrome&sni=md7.mediacorp.fyi&serviceName=mobile.api.Event#🇲🇩 Moldova | JSC Moldtelecom S.A. 2
+vless://c623d17f-6f69-4c32-9edc-919da41fe21a@md10.mediacorp.fyi:443?encryption=none&type=grpc&security=tls&sni=md10.mediacorp.fyi&serviceName=mobile.api.Event&fp=edge#🇲🇩 Moldova | JSC Moldtelecom S.A. 1
+vless://c623d17f-6f69-4c32-9edc-919da41fe21a@md11.mediacorp.fyi:443?type=grpc&security=tls&fp=chrome&sni=md11.mediacorp.fyi&serviceName=mobile.api.Event#🇲🇩 Moldova | JSC Moldtelecom S.A. 3
+vless://c623d17f-6f69-4c32-9edc-919da41fe21a@md9.mediacorp.fyi:443?type=grpc&security=tls&fp=chrome&sni=md9.mediacorp.fyi&serviceName=mobile.api.Event#🇲🇩 Moldova | JSC Moldtelecom S.A. 4
+vless://c623d17f-6f69-4c32-9edc-919da41fe21a@md8.mediacorp.fyi:443?type=grpc&security=tls&fp=chrome&sni=md8.mediacorp.fyi&serviceName=mobile.api.Event#🇲🇩 Moldova | JSC Moldtelecom S.A. 5
