@@ -1,8 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?encryption=none&fp=firefox&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&security=reality&serviceName=TunService&sni=dl.dell.com&type=grpc#🇷🇺 Unknown | TrafficTransitSolution LLC 1
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?&security=tls&fp=chrome&sni=vlessru.duckdns.org&type=ws&headerType=none&host=vlessru.duckdns.org&path=%2Fwsru#🇷🇺 Russia | TimeWeb 1
-vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@201.34.136.43:21443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M6BT_GEwaoIZqpxPO6vxMqcXSMjmhAYd2Tb4fJO-uC4&security=reality&sid=f6d36e2e08205c67&sni=www.cloudflare.com&type=tcp#🇷🇺 Unknown | TimeWeb 2
-vless://42d932cb-8768-41de-b57b-299252a493d2@193.160.71.249:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru#🇷🇺 Russia | VK Cloud Solutions 1
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=chrome&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=/casc#🇷🇺 Russia | Adman LLC 1
+vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp%23%F0%9F%91%9D97@oneclickvpnkeys#🇷🇺 Unknown | Procloud LLC 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112?#🇷🇺 Unknown | .masterhost 1
+vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@84.252.100.49:443?security=reality&encryption=none&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=flarora.ferreo.sbs&sid=1067b23f928e7618#🇷🇺 Unknown | Datacheap LLC 1
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 1
