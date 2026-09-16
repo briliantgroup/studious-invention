@@ -1,9 +1,6 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBSdXNzaWE=
+#profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBGaW5sYW5k
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112?#🇷🇺 Russia | .masterhost 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxaWR6Q0tONmhmYUFNSm5nWF94WUhR@193.233.102.128:1080#🇷🇺 Russia | TimeWeb 1
-vless://72c8ea26-8b77-4e31-a23f-79c19b3a2ef1@186.246.48.59:2200?encryption=none&security=none&sni=rzd.ru&type=ws&path=/v1#🇷🇺 Unknown | Sprinthost LLC 1
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Unknown | Adman LLC 2
-vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.99.9:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#🇷🇺 Finland | TrafficTransitSolution LLC 1
+vless://1e4668ca-6526-84ac-2a53-28bbc209da13@170.168.99.9:8443?encryption=none&type=grpc&security=reality&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&spx=/HesarWeb&serviceName=TunService#🇷🇺 Finland | TrafficTransitSolution LLC 1
 vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&host=cf3.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf3.rumedia-cdn.com&type=ws#🇷🇺 Russia | Adman LLC 1
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 2
