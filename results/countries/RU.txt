@@ -1,5 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBSdXNzaWE=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@176.32.35.44:50111#🇷🇺 Russia | BX Network 1
-vless://d8fb1abe-20b1-46ce-9b5b-f9bf12c74631@46.8.208.107:443?encryption=none&fp=chrome&path=%2Flkws&security=tls&sni=lesotorg-kirov.ru&type=ws#🇷🇺 Russia | Delta Ltd 1
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&fp=firefox&host=vlessru.duckdns.org&path=/wsru&security=tls&sni=vlessru.duckdns.org&type=ws#🇷🇺 Russia | TimeWeb 1
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=chrome&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 2
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&host=cf3.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf3.rumedia-cdn.com&type=ws#🇷🇺 Russia | Adman LLC 1
