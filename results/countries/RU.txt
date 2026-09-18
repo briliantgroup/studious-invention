@@ -1,6 +1,5 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBSdXNzaWE=
+#profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&fp=firefox&host=vlessru.duckdns.org&path=/wsru&security=tls&sni=vlessru.duckdns.org&type=ws#🇷🇺 Russia | TimeWeb 1
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=chrome&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 2
-vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&host=cf3.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf3.rumedia-cdn.com&type=ws#🇷🇺 Russia | Adman LLC 1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9872?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&encryption=none&fp=chrome#🇷🇺 Unknown | Selectel 1
+vless://bb20d3fc-fc15-0935-11c5-82775c39e6b0@104.245.240.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&type=grpc&serviceName=TunService&sni=www.epson.com&fp=chrome#🇷🇺 Russia | TrafficTransitSolution LLC 1
