@@ -1,12 +1,5 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBVbmtub3du
+#profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBSdXNzaWE=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://0dbe4d34-30c9-4f8a-b229-e5950087232d@193.233.91.200:443?security=reality&encryption=none&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.callibri.ru&sid=6d47#🇷🇺 Unknown | Aeza 3
-vless://0cd84588-2ad1-4c69-ab82-1d3f93d5faa8@193.233.91.200:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn.callibri.ru&fp=chrome&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&sid=2f86&allowInsecure=1#🇷🇺 Unknown | Aeza 2
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.161.222:9892?encryption=none&fp=firefox&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#🇷🇺 Unknown | Sbercloud 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112?#🇷🇺 Russia | .masterhost 1
-vless://f211f0aa-db73-49f2-b2cd-5be20c034f36@193.233.91.200:443?security=reality&encryption=none&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&headerType=none&fp=chrome&spx=/bt-gb/&type=tcp&flow=xtls-rprx-vision&sni=cdn.callibri.ru&sid=a284#🇷🇺 Unknown | Aeza 1
-vless://1cbb3702-b434-45cf-8520-3e32d860fd83@193.17.92.57:2053?security=reality&encryption=none&pbk=G7VlRXdpKKaZ_33pA0Zsii70uiYkeoBiVYgAD_tL_28&fp=chrome&type=grpc&serviceName=grpc-fd03cd54&sni=vk.com&sid=76f9d74c385ae618#🇷🇺 Russia | ZTV CORP LLC 1
-vless://bcb5a897-8cc4-4e21-ad96-c82fb3a9d72a@dzen-ru-1.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=dzen-ru-1.com&fp=chrome&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&allowInsecure=1#🇷🇺 Russia | Beget 1
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=chrome&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=/casc#🇷🇺 Russia | Adman LLC 1
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#🇷🇺 Russia | TOO Beget 1
+vless://0dbe4d34-30c9-4f8a-b229-e5950087232d@193.233.91.200:443?&security=reality&flow=xtls-rprx-vision&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&sid=6d47&fp=chrome&sni=cdn.callibri.ru&type=tcp&headerType=none&host=cdn.callibri.ru&path=%2F#🇷🇺 Russia | Aeza 1
+vless://0cd84588-2ad1-4c69-ab82-1d3f93d5faa8@193.233.91.200:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn.callibri.ru&fp=firefox&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&sid=2f86&allowInsecure=1#🇷🇺 Unknown | Aeza 2
