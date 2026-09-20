@@ -1,6 +1,9 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://fc72e947-b8dd-4de0-9ec7-2b0050c9f83a@141.8.199.212:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#🇷🇺 Unknown | Sprinthost 199 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112?#🇷🇺 Unknown | .masterhost 1
 vless://0cd84588-2ad1-4c69-ab82-1d3f93d5faa8@193.233.91.200:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn.callibri.ru&fp=firefox&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&sid=2f86&allowInsecure=1#🇷🇺 Unknown | Aeza 1
-vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&security=reality&sid=b97e7d4582b6fa6e&sni=yandex.ru&type=tcp#🇷🇺 Unknown | SERV.HOST GROUP LTD 1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.110:9830?authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&encryption=none&fp=chrome&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#🇷🇺 Unknown | Cloud.ru 2
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881?authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&encryption=none&fp=chrome&mode=gun&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#🇷🇺 Unknown | Cloud.ru 1
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | TOO Beget 1
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman LLC 1
