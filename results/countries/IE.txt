@@ -1,9 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HqiBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🇮🇪 Unknown | Azure 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNTE0wNWVaN0RKSDhqU254@52.138.147.200:443?outline=1&prefix=POST#🇮🇪 Unknown | Azure 1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.163:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-viper.failspace.top&type=tcp#🇮🇪 IE | FDCservers.net LLC 2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir.failspace.top&type=tcp#🇮🇪 IE | FDCservers.net LLC 3
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.163:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-viper.failspace.top&type=tcp#🇮🇪 IE | FDCservers.net LLC 3
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir.failspace.top&type=tcp#🇮🇪 IE | FDCservers.net LLC 2
+vless://44eae030-290b-4083-8102-6f8bab05701b@162.159.160.139:2083?security=tls&type=ws&path=/&host=cfvvv-ev1.pages.dev&packetEncoding=xudp&sni=cfvvv-ev1.pages.dev&fp=chrome&encryption=none#🇮🇪 IE | CF 1
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#🇮🇪 IE | FDCservers.net LLC 1
-vless://44eae030-290b-4083-8102-6f8bab05701b@162.159.160.139:2083?path=/&security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#🇮🇪 IE | CF 1
