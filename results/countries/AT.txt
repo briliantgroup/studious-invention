@@ -1,13 +1,16 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4em8J+HuSBBdXN0cmlh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%252Farchive%253Fed%253D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#🇦🇹 Austria | CF 4
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.207:8443?allowInsecure=1&eh=Sec-WebSocket-Protocol&encryption=none&host=cdn8848.776676.xyz&path=%2Flives&security=tls&sni=cdn8848.776676.xyz&type=ws#🇦🇹 Austria | CF 3
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.218:8443?path=/v?ed=2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#🇦🇹 Austria | CF 4
 vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=at.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&allowInsecure=1#🇦🇹 Austria | ANX 1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.37.154:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at1.moritech.net&type=tcp#🇦🇹 Austria | FDCservers.net 5
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.26:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at2.moritech.net&type=tcp#🇦🇹 Austria | FDCservers.net 4
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.27:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at-new-ded2.moritech.net&type=tcp#🇦🇹 Austria | FDCservers.net 2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.122:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at3.moritech.net&type=tcp#🇦🇹 Austria | FDCservers.net 3
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.218:8443?path=/v?ed=2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#🇦🇹 Austria | CF 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.37.154:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at1.moritech.net&type=tcp#🇦🇹 Austria | FDCservers.net 2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.27:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at-new-ded2.moritech.net&type=tcp#🇦🇹 Austria | FDCservers.net 7
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=at-dedic-2.failspace.top#🇦🇹 Austria | FDCservers.net 4
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.37.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at-dedic-new-two.failspace.top&type=tcp#🇦🇹 Austria | FDCservers.net 5
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.190:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=austria-dedic1.failspace.top&type=tcp#🇦🇹 Austria | FDCservers.net 6
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.26:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at2.moritech.net&type=tcp#🇦🇹 Austria | FDCservers.net 3
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.122:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at3.moritech.net&type=tcp#🇦🇹 Austria | FDCservers.net 1
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.207:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=/lives?ed=2560&security=tls&sni=cdn8848.776676.xyz&type=ws#🇦🇹 Austria | CF 3
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?fp=chrome&host=cdn8848.776676.xyz&path=%2Farchive%3Fed%3D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#🇦🇹 Austria | CF 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-dedic-new-two.failspace.top:443?security=tls&flow=xtls-rprx-vision&sni=at-dedic-new-two.failspace.top&fp=firefox&alpn=h2&encryption=none&type=tcp#🇦🇹 Austria | FDCservers.net 8
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.148.137:443?security=tls&type=ws&path=%2F&host=shuma.ccwu.cc&packetEncoding=xudp&sni=shuma.ccwu.cc&fp=chrome#🇦🇹 Austria | CF 2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=at-dedic-2.failspace.top#🇦🇹 Austria | FDCservers.net 1
