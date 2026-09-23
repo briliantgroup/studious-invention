@@ -1,12 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HsyBJbmRpYQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://5e679ccd-1586-4d5f-b87b-48251046cad8@hydra.yokkastars.com:2443?security=reality&type=grpc&mode=gun&serviceName=rex-eb0bf76b710ce763&packetEncoding=xudp&sni=deepl.com&fp=qq&sid=92c32de179e5d908&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg#🇮🇳 India | Beafort Limited 2
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=88b6&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0#🇮🇳 India | Beafort Limited 3
+vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.218:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&sid=88b6&sni=deepl.com&type=tcp#🇮🇳 India | Beafort Limited 2
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#🇮🇳 India | Beafort Limited 1
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?type=tcp&security=reality&fp=chrome&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&sid=9980e0609b0d3891&sni=www.apple.com#🇮🇳 India | Contabo 1
-vless://3fed34dc-2fe6-4fe0-86e7-a80213f9b7cc@34.47.245.203:443?type=raw&security=reality&fp=chrome&pbk=dB68n-Vyph0_KBtBIe45b5GCB4F1IqpBF_ohlN-KpkY&sid=50440423703c945f&sni=www.cloudflare.com#🇮🇳 India | GCP 1
-vless://5004e3d7-a9bd-4a7c-a6d5-58aa5e1be9ed@34.93.188.70:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=b9299afa0dcac824&pbk=97C6O3repofpoaJzvu1d4o7amhJGA8hF_yJls7SNIgU#🇮🇳 India | GCP 2
-vmess://ewogICAgImFkZCI6ICIxNTIuNjcuOC4yMDUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Hs0lOLTE1Mi42Ny44LjIwNS0wMTY1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiMTUyLjY3LjguMjA1Igp9#🇮🇳 India | Oracle Cloud Infrastructure ... 1
-ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳 India | Vultr 1
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳 India | Linode 1
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9980e0609b0d3891&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU#🇮🇳 India | Contabo 1
+vless://5004e3d7-a9bd-4a7c-a6d5-58aa5e1be9ed@34.93.188.70:443?type=raw&security=reality&fp=chrome&pbk=97C6O3repofpoaJzvu1d4o7amhJGA8hF_yJls7SNIgU&sid=b9299afa0dcac824&sni=www.cloudflare.com#🇮🇳 India | GCP 2
+vless://3fed34dc-2fe6-4fe0-86e7-a80213f9b7cc@34.47.245.203:443?fp=chrome&pbk=dB68n-Vyph0_KBtBIe45b5GCB4F1IqpBF_ohlN-KpkY&security=reality&sid=50440423703c945f&sni=www.cloudflare.com&type=tcp#🇮🇳 India | GCP 1
