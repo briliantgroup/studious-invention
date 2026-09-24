@@ -1,8 +1,4 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUdXJrZXk=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:80?encryption=none&security=none&type=ws&host=play.google.com&path=/#🇹🇷 Turkey | YottaSrc 3
-vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2082?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=play.google.com&fp=chrome&type=httpupgrade&sni=185.71.219.128#🇹🇷 Turkey | YottaSrc 4
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#🇹🇷 Turkey | Hostkey B.V 1
-vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:2052?alpn=h2%2Chttp%2F1.1&encryption=none&fp=ios&security=tls&sni=185.71.219.128&type=tcp#🇹🇷 Turkey | YottaSrc 1
-vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:8080?security=tls&encryption=none&headerType=none&type=tcp&sni=185.71.219.128&fp=qq#🇹🇷 Turkey | YottaSrc 2
