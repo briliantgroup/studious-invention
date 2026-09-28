@@ -1,5 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HrSBTd2l0emVybGFuZA==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#🇨🇭 Switzerland | Green Floid LLC 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#🇨🇭 Switzerland | Alexhost SRL 1
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#🇨🇭 Switzerland | Green Floid LLC 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭 Switzerland | Alexhost SRL 1
+vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@45.90.57.251:443?encryption=none&fp=firefox&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&security=reality&serviceName=grpc-tunnel_nl&sid=fd4f9db207ff64db&sni=dl.google.com&type=grpc#🇨🇭 Switzerland | Green Floid LLC 3
+vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@4.lega13.store:443?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&sid=fd4f9db207ff64db&type=grpc&serviceName=grpc-tunnel_nl#🇨🇭 Switzerland | Green Floid LLC 1
