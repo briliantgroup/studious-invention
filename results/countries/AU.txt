@@ -1,11 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4em8J+HuiBBdXN0cmFsaWE=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@194.195.123.60:22368?type=tcp&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=JJsjBS60tj6uZp-x2tMJ_ioblXRcru_apACEkMJYnBM&sid=b5a3&flow=xtls-rprx-vision&headerType=none#🇦🇺 Australia | Linode, LLC 1
-vless://36e89875-9c53-482b-bc41-d3890e9da176@51.161.204.244:443?flow=xtls-rprx-vision&fp=firefox&host=www.cloudflare.com&path=%2F&pbk=gCAazs5uxNuMZIxfDdw8wPE0nwKY4QfBfBkQveKAkEk&security=reality&sid=0ad08b47f498efd2&sni=www.cloudflare.com&type=tcp#🇦🇺 Australia | REGXA, LTD 1
-vless://a7b8b48e-1000-46f5-a974-f6606d94f3b4@104.24.152.211:8880?encryption=none&fp=chrome&host=misty-hill-4b94.146-c18.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&sni=misty-hill-4b94.146-c18.workers.dev&type=ws#🇦🇺 Australia | CF 4
-vless://73796e63-0000-4000-8000-000000000000@104.27.52.69:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=icy-pine-5efc.aoigjojowfie123.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=icy-pine-5efc.aoigjojowfie123.workers.dev#🇦🇺 Australia | CF 3
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@143.42.46.37:25605?&security=reality&flow=xtls-rprx-vision&pbk=trh3vhKtu_iAKb6E2GuUvloJDZ8tN0jtzyj4kpV5IQA&sid=6df42a2c&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇦🇺 Australia | Linode 1
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@104.26.11.189:443?&security=tls&fp=chrome&sni=shephe.dpdns.org&type=ws&headerType=none&host=shephe.dpdns.org&path=%2F#🇦🇺 Australia | CF 5
-vless://ed0e05af-49ab-4ea8-a39c-634855811b03@104.24.68.193:443?encryption=none&security=tls&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&insecure=0&allowInsecure=0&type=ws&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&path=ws#🇦🇺 Australia | CF 2
-vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@104.24.197.191:443?encryption=none&fp=chrome&host=nahan-mouse-7749.amirsina2026.workers.dev&path=/sync&security=tls&sni=nahan-mouse-7749.amirsina2026.workers.dev&type=ws#🇦🇺 Australia | CF 1
+vless://36e89875-9c53-482b-bc41-d3890e9da176@51.161.204.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gCAazs5uxNuMZIxfDdw8wPE0nwKY4QfBfBkQveKAkEk&security=reality&sid=0ad08b47f498efd2&sni=www.cloudflare.com&type=tcp#🇦🇺 Australia | REGXA, LTD 1
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@194.195.123.60:22368?&security=reality&flow=xtls-rprx-vision&pbk=JJsjBS60tj6uZp-x2tMJ_ioblXRcru_apACEkMJYnBM&sid=b5a3&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇦🇺 Australia | Linode, LLC 1
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@143.42.46.37:25605/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=trh3vhKtu_iAKb6E2GuUvloJDZ8tN0jtzyj4kpV5IQA&sid=6df42a2c#🇦🇺 Australia | Linode 1
