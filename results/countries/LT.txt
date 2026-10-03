@@ -1,8 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4ex8J+HuSBMaXRodWFuaWE=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://b4090350-b91f-4920-b5c0-c3ffd2798534@84.32.209.77:8081?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 Lithuania | UAB Cherry Servers 1
-vless://2eceaf2b-a775-5a9c-9990-dad2b3660fb6@62.77.158.1:443?security=reality&type=tcp&sni=online.1c.ru&fp=safari&flow=xtls-rprx-vision&sid=6a&pbk=sVhkyiMXvpofflCdSszxQmsqOXV1kg1Ldxq1a9mOPjs&encryption=none#🇱🇹 Lithuania | InternetoVizija 1
+vless://4643976f-85fa-40cf-9e58-ea28b50f253b@93.115.24.216:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&security=reality&sni=litva1.ali-bard.online&type=tcp#🇱🇹 Lithuania | Floating 2
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.245.167:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd&fp=safari#🇱🇹 Germany | SERV.HOST GROUP LTD 1
 vless://4643976f-85fa-40cf-9e58-ea28b50f253b@litva1.ali-bard.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=litva1.ali-bard.online&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&flow=xtls-rprx-vision#🇱🇹 Lithuania | Floating 1
-vless://4643976f-85fa-40cf-9e58-ea28b50f253b@93.115.24.216:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&sni=litva1.ali-bard.online#🇱🇹 Lithuania | Floating 2
-vless://7ec15102-d9e6-49fb-ad0f-06d082383f75@95.129.236.216:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=data-hz32.crm.hourtley.com&path=%2Forigin%2F190546791%2Ffetch&security=tls&sni=data-hz32.crm.hourtley.com&type=ws#🇱🇹 Lithuania | IPXO 1
+vless://2eceaf2b-a775-5a9c-9990-dad2b3660fb6@62.77.158.1:443?security=reality&type=tcp&sni=online.1c.ru&fp=safari&flow=xtls-rprx-vision&sid=6a&pbk=sVhkyiMXvpofflCdSszxQmsqOXV1kg1Ldxq1a9mOPjs&encryption=none#🇱🇹 Lithuania | InternetoVizija 1
