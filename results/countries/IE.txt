@@ -1,10 +1,10 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4eu8J+HqiBJRQ==
+#profile-title: encode:Qm9iaVZQTiDwn4eu8J+HqiBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.163:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-viper.failspace.top&type=tcp#🇮🇪 IE | FDCservers.net LLC 3
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir.failspace.top&type=tcp#🇮🇪 IE | FDCservers.net LLC 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcjNSTEhKTG5nYnBsUFdk@20.238.125.195:443#🇮🇪 Unknown | Azure 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZzBYVENoZ2JKSjNTdjJk@20.238.125.195:443#🇮🇪 Unknown | Azure 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVWc5d2x1ajVpT2lZOXNJ@20.238.125.195:443#🇮🇪 Unknown | Azure 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir.failspace.top&type=tcp#🇮🇪 IE | FDCservers.net LLC 3
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#🇮🇪 IE | FDCservers.net LLC 2
-vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8&sid=ce6767c3f1&sni=vk.com#🇮🇪 Unknown | HostPapa 1
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@86.54.83.75:443?encryption=none&fp=firefox&pbk=gojmfVDE3y9OZmqSZqkJBTNGPyD5-sjkDYmcD8tsxCQ&security=reality&serviceName=shop.api.v1.CatalogService&sid=cfa818cb27f59905&sni=www.asus.com&type=grpc#🇮🇪 IE | Oneprovider.com 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcjNSTEhKTG5nYnBsUFdk@20.238.125.195:443#🇮🇪 IE | Azure 1
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@ie.monkora.org:443?encryption=none&security=reality&sni=www.asus.com&fp=random&pbk=gojmfVDE3y9OZmqSZqkJBTNGPyD5-sjkDYmcD8tsxCQ&sid=cfa818cb27f59905&type=grpc&serviceName=shop.api.v1.CatalogService&mode=gun#🇮🇪 IE | Oneprovider.com 2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.163:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-viper.failspace.top&type=tcp#🇮🇪 IE | FDCservers.net LLC 1
+vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?type=tcp&security=reality&sni=vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8&sid=ce6767c3f1#🇮🇪 IE | CF 1
