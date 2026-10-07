@@ -1,8 +1,10 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HsSBDaGlsZQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?encryption=none&security=none&type=ws&host=platform102.halalkhor.info&path=%2Fplatform102#🇨🇱 Chile | The Constant Company, LLC 2
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?encryption=none&security=none&type=ws&host=platform103.halalkhor.info&path=%2Fplatform103#🇨🇱 Chile | Vultr 2
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?encryption=none&security=none&type=ws&host=platform117.halalkhor.info&path=%2Fplatform117#🇨🇱 Chile | Vultr 1
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@64.176.22.185:80?encryption=none&security=none&type=ws&path=%2Fplatform107#🇨🇱 Chile | The Constant Company, LLC 1
-vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇨🇱 Chile | CF 1
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@64.176.21.217:80?security=none&type=ws&path=%2Fplatform115&host=platform115.halalkhor.info#🇨🇱 Chile | The Constant Company, LLC 4
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@64.176.24.232:80?sni=platform108.golnamakcert.top&type=ws&host=platform108.halalkhor.info&path=%2Fplatform108#🇨🇱 Chile | The Constant Company, LLC 5
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@64.176.19.77:80?type=ws&host=platform118.halalkhor.info&path=/platform118#🇨🇱 Chile | The Constant Company, LLC 1
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@64.176.10.89:80?sni=platform102.golnamakcert.top&type=ws&host=platform102.halalkhor.info&path=/platform102#🇨🇱 Chile | The Constant Company, LLC 3
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@64.176.22.185:80?encryption=none&security=none&type=ws&path=%2Fplatform107#🇨🇱 Chile | The Constant Company, LLC 2
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@64.176.7.121:80?type=ws&security=none&encryption=none&path=%2Fplatform117&host=platform117.halalkhor.info&headerType=none#🇨🇱 Chile | Vultr 1
+vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇨🇱 Chile | CF 1
