@@ -1,10 +1,4 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e48J+HqiBTd2VkZW4=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.197.239:80?path=/&security=none&encryption=none&type=ws#🇸🇪 Sweden | Vultr 2
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:2083?encryption=none&fp=firefox&security=tls&sni=13.143.174.97&type=tcp#🇸🇪 Germany | HSTQ-HOSTING-SERVICE 2
-vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?mode=gun&security=reality&encryption=none&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&fp=safari&type=grpc&serviceName=grpce5bb9e71&sni=www.samsung.com&sid=d0ea1847066af5a6#🇸🇪 Finland | NetCrafters OU 1
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:2087?encryption=none&fp=firefox&security=tls&sni=13.143.174.97&type=tcp#🇸🇪 Germany | HSTQ-HOSTING-SERVICE 3
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:2053?encryption=none&fp=firefox&host=se.fastmirror-labs.xyz&path=/ws-cdn1-vless&security=tls&sni=13.143.174.97&type=ws#🇸🇪 Germany | HSTQ-HOSTING-SERVICE 1
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.225:9881?encryption=none&fp=edge&mode=gun&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc#🇸🇪 Sweden | xorek.cloud International LT... 1
-vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.199.238:80?path=/&security=none&encryption=none&type=ws#🇸🇪 Sweden | Vultr 1
+vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?mode=gun&security=reality&encryption=none&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&fp=safari&type=grpc&serviceName=grpce5bb9e71&sni=www.samsung.com&sid=d0ea1847066af5a6#🇸🇪 Sweden | NetCrafters OU 1
