@@ -1,22 +1,28 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e48J+HrCBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOjE4MDAwLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1t3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLVNHLTczMTQwOTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJuYW1lIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIHwgQFJheWRpa2FseCB8IENFNDdGNyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇸🇬 Unknown | Datacamp Limited 1
-vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?encryption=none&type=tcp&security=reality&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&sni=www.cloudflare.com&fp=firefox&allowInsecure=1#🇸🇬 Singapore | Contabo 1
-vless://799b1006-3255-4e36-8ea0-64fe24d2bfa7@139.162.28.80:8443?type=ws&security=tls&fp=firefox&sni=asia.csmaster.site&host=asia.csmaster.site#🇸🇬 Singapore | Linode, LLC 2
-vless://a853e120-3570-462b-aec1-e8f3d4f92d24@47.251.95.178:443?encryption=none&fp=firefox&host=asia.csmaster.site&security=tls&sni=asia.csmaster.site&type=ws#🇸🇬 Singapore | Linode, LLC 1
-vless://3a94ee89-c64e-4895-8381-ada18c4a46ec@139.162.41.109:443?encryption=none&fp=random&host=fm3.pages.dev&path=%252F%253Fed%253D2560&security=tls&sni=fm3.pages.dev&type=ws#🇸🇬 Singapore | CF 1
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1t3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLVNHLTcyOTcyMjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇸🇬 Singapore | Datacamp Limited 2
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080?#🇸🇬 Singapore | DO 2
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5hdGlvbiI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇸🇬 Unknown | Datacamp Limited 1
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#🇸🇬 Singapore | Oracle Cloud Infrastructure ... 2
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 3
+ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA==@139.180.220.175:8388#🇸🇬 Unknown | Vultr 2
+vless://a853e120-3570-462b-aec1-e8f3d4f92d24@47.251.95.178:443?encryption=none&fp=firefox&host=asia.csmaster.site&security=tls&sni=asia.csmaster.site&type=ws#🇸🇬 Singapore | Linode, LLC 3
+vless://799b1006-3255-4e36-8ea0-64fe24d2bfa7@139.162.28.80:8443?type=ws&security=tls&fp=firefox&sni=asia.csmaster.site&host=asia.csmaster.site#🇸🇬 Singapore | Linode, LLC 1
+trojan://UX82473651@52.221.220.227:443?allowInsecure=1&insecure=1&security=tls&sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 5
+vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇸🇬 Singapore | CF 1
 trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=tx-hy2&allowInsecure=1&type=tcp&fp=chrome#🇸🇬 Singapore | Tencent Cloud Computing 1
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c1VSNk55OFk2UFN2SGhsL0RVeGNvbnd4ZzZWWnlGZHNkZmFWQ3ZFYXRKbz06N2JURWhIZ3BFcktpUmpFMWVnYStINnBjcEpzTkxGQjBDalFzZXVqQUhyQT0@129.150.59.74:14384?#🇸🇬 Singapore | Oracle Cloud Infrastructure ... 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬 Singapore | DO 1
-vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?&security=tls&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#🇸🇬 Singapore | Oracle Cloud Infrastructure ... 2
+trojan://UX82473651@ace-liger.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ace-liger.rooster465.autos#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 4
+trojan://UX82473651@present-ram.rooster465.autos:443?sni=present-ram.rooster465.autos&peer=present-ram.rooster465.autos&security=tls#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 8
+vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?type=tcp&security=reality&fp=firefox&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&sni=www.cloudflare.com#🇸🇬 Singapore | Contabo 1
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#🇸🇬 Singapore | Vultr 1
-trojan://UX82473651@52.221.218.179:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=real-cardinal.rooster465.autos#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 2
-trojan://UX82473651@18.143.92.167:443?sni=glowing-marmoset.rooster465.autos&fp=chrome&type=tcp&path=/#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
-vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 4
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?security=tls&type=ws&path=/free-server.techsonic.dev&host=free-server.techsonic.dev&packetEncoding=xudp&sni=free-server.techsonic.dev&fp=chrome#🇸🇬 Singapore | Linode, LLC 3
-trojan://UX82473651@52.221.220.227:443?security=tls&sni=pet-antelope.rooster465.autos#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 3
-vless://903fed13-8e78-4fa2-a83e-b392b289741f@175.41.179.37:51262?security=tls&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&type=ws&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&path=/@Marisa_kristi&fp=chrome#🇸🇬 Singapore | CF 2
-vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇸🇬 Singapore | CF 3
+vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?&security=tls&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#🇸🇬 Singapore | Oracle Cloud Infrastructure ... 1
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#🇸🇬 Singapore | Linode, LLC 2
+trojan://UX82473651@rested-seahorse.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=rested-seahorse.rooster465.autos#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 9
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080?#🇸🇬 Singapore | DO 2
+vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 2
+trojan://UX82473651@13.212.81.3:443?allowInsecure=1&insecure=1&security=tls&sni=holy-lamb.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 7
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.153:39179?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&security=reality&sid=28f5c1f8f98a&sni=www.lamer.com.sg&type=tcp#🇸🇬 Singapore | Eons Data Communications Lim... 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬 Singapore | DO 1
+trojan://UX82473651@56.10.9.77:443?allowInsecure=1&insecure=1&security=tls&sni=inviting-ferret.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 6
+vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@170.114.45.6:8443?security=tls&type=ws&path=%2Fxprolk-primeline&host=primelinelk.me&packetEncoding=xudp&sni=primelinelk.me&fp=firefox#🇸🇬 Singapore | UpCloud Ltd 1
+vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443?security=tls&type=ws&path=%2Fxprolk-primeline&host=primelinelk.me&packetEncoding=xudp&sni=primelinelk.me&encryption=none&fp=android#🇸🇬 Singapore | UpCloud Ltd 2
