@@ -1,5 +1,4 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4en8J+HqiBCRQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?&security=tls&fp=chrome&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048#🇧🇪 BE | CF 1
-vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@113.30.152.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=be-root.sworkingvpn.com&fp=random&pbk=cceRo0o9bFMlCNVahZCrQWRzMAsR5M6abWXADIapY0w&sid=15bcc0a77c3cacdf&type=tcp#🇧🇪 BE | GCS SER 1
+vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@113.30.152.2:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cceRo0o9bFMlCNVahZCrQWRzMAsR5M6abWXADIapY0w&sid=15bcc0a77c3cacdf&sni=be-root.sworkingvpn.com#🇧🇪 BE | GCS SER 1
