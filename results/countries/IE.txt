@@ -1,7 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HqiBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#🇮🇪 Unknown | Azure 1
-trojan://UX82473651@34.242.77.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sacred-anemone.rooster465.autos#🇮🇪 IE | AWS EC2 (eu-west-1) 2
-trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos#🇮🇪 IE | AWS EC2 (eu-west-1) 1
-vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?security=reality&type=tcp&packetEncoding=none&sni=vk.com&fp=chrome&flow=xtls-rprx-vision&sid=ce6767c3f1&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8#🇮🇪 IE | CF 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#🇮🇪 Unknown | Azure 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#🇮🇪 Unknown | Azure 2
+trojan://UX82473651@3.253.106.233:443?allowInsecure=0&sni=loved-shark.rooster465.autos#🇮🇪 IE | AWS EC2 (eu-west-1) 2
+trojan://UX82473651@54.72.130.222:443?sni=adapting-basilisk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇮🇪 IE | AWS EC2 (eu-west-1) 1
+vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8&sid=ce6767c3f1&sni=vk.com&encryption=none#🇮🇪 IE | CF 1
