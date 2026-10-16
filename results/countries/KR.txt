@@ -1,19 +1,20 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4ew8J+HtyBTb3V0aCBLb3JlYQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123?#🇰🇷 South Korea | SK Broadband Co Ltd 2
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@141.164.45.187:5498#🇰🇷 South Korea | Vultr 6
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#🇰🇷 South Korea | SK Broadband Co Ltd 1
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@141.164.45.187:8008#🇰🇷 South Korea | Vultr 2
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#🇰🇷 South Korea | Vultr 3
-vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇰🇷 Unknown | Oracle Cloud Infrastructure ... 2
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjowLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjcgSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ2IjoiMiJ9#🇰🇷 South Korea | Oracle Cloud Infrastructure ... 1
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxODMuMTA5LjEzMS43NSIsICJwb3J0IjogIjIwMDg2IiwgImlkIjogImIyNmM0ODAzLTBiY2EtNDY3Yy1hMjQ1LWM5YTgwYmRkNzJlYyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJwYXRoIjogIi8ifQ==#🇰🇷 South Korea | Kornet 1
-vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#🇰🇷 South Korea | The Constant Company, LLC 2
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 4
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@141.164.45.187:8000#🇰🇷 South Korea | Vultr 5
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@141.164.45.187:9101#🇰🇷 Unknown | Vultr 4
 vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@64.176.231.183:443?&security=reality&flow=xtls-rprx-vision&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&sid=ca193e889d958f81&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#🇰🇷 South Korea | The Constant Company, LLC 1
-vless://cb2abff3-5fe6-4b5a-aa19-5739deb285b6@34.22.111.30:443?fp=chrome&host=www.cloudflare.com&path=%2F&pbk=M0QKczb2MzOH45qDViIAbb9LPrVVyCp880D4HlwIKnA&security=reality&sid=8685f8b4d9f4f51e&sni=www.cloudflare.com&type=tcp#🇰🇷 South Korea | GCP 1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.234:4652#🇰🇷 South Korea | broadNnet 1
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&fp=chrome&host=%2F%3Fjoin_telegram%40marambashi_marambashi_marambashi_marambashi&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 3
-vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?type=tcp&security=reality&fp=firefox&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo&sid=429499c03d4cc8a0&sni=www.cloudflare.com#🇰🇷 South Korea | HostHatch 1
-trojan://UX82473651@3.34.192.47:443?security=tls&sni=central-jawfish.rooster465.autos&fp=chrome&type=tcp#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@141.164.45.187:9101#🇰🇷 South Korea | Vultr 1
-trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
+trojan://UX82473651@3.36.50.213:443?type=tcp&security=tls&sni=pure-kodiak.rooster465.autos&fp=chrome#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 5
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxODMuMTA5LjEzMS43NSIsICJwb3J0IjogIjIwMDg2IiwgImlkIjogImIyNmM0ODAzLTBiY2EtNDY3Yy1hMjQ1LWM5YTgwYmRkNzJlYyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJwYXRoIjogIi8ifQ==#🇰🇷 South Korea | Kornet 1
+trojan://UX82473651@3.34.192.47:443?security=tls&sni=central-jawfish.rooster465.autos&fp=chrome&type=tcp#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 4
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&sni=154.90.62.70&type=tcp#🇰🇷 South Korea | Lightnode Limited 1
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#🇰🇷 South Korea | Vultr 1
+vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?security=reality&encryption=none&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3c4041d3#🇰🇷 South Korea | Delta Centric LLC, Zenlayer ... 1
+trojan://UX82473651@3.35.207.188:443?allowInsecure=1&insecure=1&security=tls&sni=main-fawn.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | AWS EC2 (ap-northeast-2) 2
