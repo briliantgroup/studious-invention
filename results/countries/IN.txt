@@ -1,8 +1,9 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HsyBJbmRpYQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?path=/vless&security=&encryption=none&host=13.140.56.100&type=ws#🇮🇳 India | Contabo 1
+vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443/?type=grpc&encryption=none&flow=&serviceName=rex-eb0bf76b710ce763&sni=deepl.com&fp=firefox&security=reality&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&sid=92c32de179e5d908#🇮🇳 India | Beafort Limited 1
+vless://5e679ccd-1586-4d5f-b87b-48251046cad8@hydra.yokkastars.com:2443?security=reality&type=grpc&mode=gun&serviceName=rex-eb0bf76b710ce763&packetEncoding=xudp&sni=deepl.com&fp=qq&sid=92c32de179e5d908&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg#🇮🇳 India | Beafort Limited 2
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#🇮🇳 India | Contabo 2
 vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=221873918e0bb74d#🇮🇳 India | REGXA INDIA, PRIVATE LIMITED 1
-vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?sni=5.253.29.254&type=ws&host=5.253.29.254&path=/vless#🇮🇳 India | Beafort Limited 1
-trojan://M7v%25w11Se%2A@34.131.228.210:443?security=tls&sni=hyfuuf6.wsone.icu&type=tcp#🇮🇳 India | GCP 2
-trojan://M7v%25w11Se%2A@35.244.28.130:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=tttyder.wsone.icu#🇮🇳 India | GCP 1
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxNTIuNjcuOC4yMDUiLCAicG9ydCI6ICI4MCIsICJpZCI6ICI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAicGF0aCI6ICIvIn0=#🇮🇳 India | Oracle Cloud Infrastructure ... 1
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&sni=www.apple.com&fp=chrome&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&sid=9980e0609b0d3891&type=tcp&packetEncoding=xudp&encryption=none#🇮🇳 India | Contabo 1
