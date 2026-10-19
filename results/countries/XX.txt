@@ -1,18 +1,14 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e98J+HvSBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#🇽🇽 Unknown 13
-trojan://657e9f52b1f8a209df7d123404bdb444@107.182.191.5:8443?allowInsecure=1&sni=107.182.191.5&type=tcp#🇽🇽 Unknown 15
-vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?security=none&type=ws&path=/vless/&host=ov-germany1.09vpn.com&sni=ov-germany1.09vpn.com#🇽🇽 Unknown 7
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.102:443?security=tls&sni=de4.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#🇽🇽 Unknown 11
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?alpn=http%2F1.1&security=tls&sni=de10.dedushka.top&type=tcp#🇽🇽 Unknown 2
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#🇽🇽 Unknown 1
-vmess://eyJhZGQiOiAid3d3LnNob3BpZnkuY29tIiwgImFpZCI6IDAsICJob3N0IjogImd1YW53YW5nLmF3c25vLmNvbSIsICJpZCI6ICI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hscy9jY3R2NXBoZC5tM3U4IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzZXJ2aWNlTmFtZSI6ICIiLCAic25pIjogImd1YW53YW5nLmF3c25vLmNvbSIsICJ0bHMiOiAidGxzIiwgInYiOiAiMiJ9#🇽🇽 Unknown 3
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#🇽🇽 Unknown 12
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@157.254.38.210:20129?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=1#🇽🇽 Unknown 5
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfjJBYWC0yMzQyIiwiYWRkIjoiMTcyLjY3LjE2MS4xNDQiLCJwb3J0IjoiODQ0MyIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJwYXRoIjoiL2xNbnNaVU40LyIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsImFscG4iOiIiLCJmcCI6IiJ9#🇽🇽 Unknown 10
-trojan://DyxOlYWfEYVf@193.8.139.22:443?sni=sb24.ir&type=tcp#🇽🇽 Unknown 6
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.18.167:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#🇽🇽 Unknown 8
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.9.167:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#🇽🇽 Unknown 9
-trojan://002023c45d18bca3eba2757bb683309a@42.51.25.69:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#🇽🇽 Unknown 4
-vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&type=ws&path=%2F&security=tls&sni=wsru1.wba-pn.ru&fp=chrome#🇽🇽 Unknown 14
+vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#🇽🇽 Unknown 3
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#🇽🇽 Unknown 7
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.dedushka.top#🇽🇽 Unknown 4
+vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiW09wZW5SYXldIPCfjJBYWC0zNTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=#🇽🇽 Unknown 2
+vless://48572af1-d091-457b-a86e-4a457e99927f@38.107.236.166:8443?security=tls&type=ws&path=/vless/&host=3h-unitedstates3.09vpn.com&packetEncoding=xudp&allowInsecure=1&sni=3h-unitedstates3.09vpn.com#🇽🇽 Unknown 11
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&sni=anyfile2file.com&fp=chrome&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇽🇽 Unknown 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇽🇽 Unknown 9
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.157:443?&security=reality&flow=xtls-rprx-vision&pbk=zAmNLsLPizp96b55zNe2kJ3zXBdpuNY0olnRaOpluks&sid=34e797af&fp=chrome&sni=addons.mozilla.org&type=tcp&headerType=none&path=%2F#🇽🇽 Unknown 5
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.9.167:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#🇽🇽 Unknown 8
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.18.167:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#🇽🇽 Unknown 6
+vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21004?pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&security=reality&sid=2df2bd9d8366cef1&sni=www.cloudflare.com&type=tcp#🇽🇽 Unknown 10
