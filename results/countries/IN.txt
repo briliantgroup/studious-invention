@@ -1,11 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HsyBJbmRpYQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?fp=ios&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&security=reality&serviceName=rex-eb0bf76b710ce763&sid=92c32de179e5d908&sni=deepl.com&type=grpc#🇮🇳 India | Beafort Limited 2
-vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?sni=5.253.29.254&type=ws&host=5.253.29.254&path=/vless#🇮🇳 India | Beafort Limited 4
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🇮🇳 India | Beafort Limited 3
-trojan://M7v%25w11Se%2A@34.131.228.210:443?security=tls&sni=hyfuuf6.wsone.icu&type=tcp#🇮🇳 India | GCP 2
-trojan://M7v%25w11Se%2A@35.244.28.130:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=tttyder.wsone.icu#🇮🇳 India | GCP 1
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🇮🇳 India | Beafort Limited 1
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇳 India | GCP 3
+vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?security=reality&type=grpc&mode=gun&serviceName=rex-eb0bf76b710ce763&packetEncoding=xudp&sni=deepl.com&fp=firefox&sid=92c32de179e5d908&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&encryption=none#🇮🇳 India | Beafort Limited 1
 vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=221873918e0bb74d#🇮🇳 India | REGXA INDIA, PRIVATE LIMITED 1
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&encryption=none&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=9980e0609b0d3891#🇮🇳 India | Contabo 2
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?sni=13.140.56.100&type=ws&host=13.140.56.100&path=/vless#🇮🇳 India | Contabo 1
