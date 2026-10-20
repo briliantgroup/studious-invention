@@ -1,9 +1,5 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HvyBDemVjaCBSZXB1YmxpYw==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@67.159.18.34:17001#🇨🇿 Czech Republic | FDCservers.net 2
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#🇨🇿 Czech Republic | FDCservers.net 1
-vless://d65fb384-5029-4edf-bdc7-0f5960600e3d@153.76.190.31:2083?security=tls&sni=speedtestmark.com&alpn=http%2F1.1&type=ws&path=%2Fvless-ws&fp=chrome#🇨🇿 Netherlands | Reliable Communications s.r.... 2
-vless://d6eb8a46-e6a4-4891-b22e-dfaa609c6afd@153.76.190.31:2083?security=tls&sni=speedtestmark.com&type=ws&path=%2Fvless-ws&fp=chrome#🇨🇿 Netherlands | Reliable Communications s.r.... 3
-vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=raw#🇨🇿 Czech Republic | Green Floid LLC 1
-vless://58037ab8-a8e2-4927-a8b1-f909f9fdb64c@153.76.190.31:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#🇨🇿 Netherlands | Reliable Communications s.r.... 1
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@67.159.18.34:17001#🇨🇿 Czech Republic | FDCservers.net 1
+vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=23d0950d60bc0d5b&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw#🇨🇿 Czech Republic | Green Floid LLC 1
