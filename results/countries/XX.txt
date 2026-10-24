@@ -1,7 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e98J+HvSBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&type=tcp&sni=mother-earth.fyi&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇽🇽 Unknown 2
-vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@du-rov.secureservice.top:8443?security=reality&sni=du-rov.secureservice.top&fp=chrome&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&sid=3cbc3d737fb9c4af&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇽🇽 Unknown 4
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&type=tcp&headerType=none#🇽🇽 Unknown 3
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?encryption=none&type=ws&path=/wsru&host=xsru2.freeddns.org&security=tls&sni=xsru2.freeddns.org&fp=chrome#🇽🇽 Unknown 1
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@157.254.38.210:20129?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=1#🇽🇽 Unknown 3
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.18.167:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#🇽🇽 Unknown 2
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.9.167:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#🇽🇽 Unknown 1
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#🇽🇽 Unknown 4
