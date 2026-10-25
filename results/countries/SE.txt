@@ -1,7 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e48J+HqiBTd2VkZW4=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://605dea9b-b485-45c9-af9b-cc2b0195023c@91.242.228.29:443?encryption=none&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=se1.mycloud1.org&type=tcp&fp=chrome#🇸🇪 Sweden | BlueVPS OU 1
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?sni=5.178.109.174&type=ws&host=5.178.109.174&path=/vless#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp#🇸🇪 Sweden | xorek.cloud International LT... 1
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#🇸🇪 Finland | xorek.cloud International LT... 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppV2hEWlkxQ1EtN0FRWVF0bWM4S2k0cjNINFVZUDBTRg==@84.21.191.180:1081#🇸🇪 Sweden | Akamai Technologies, Inc. 1
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@91.242.228.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=se1.mycloud1.org&type=tcp#🇸🇪 Sweden | BlueVPS OU 1
+vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?&security=reality&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=safari&sni=video.yandex.ru&type=tcp&headerType=none&host=video.yandex.ru&path=%2F#🇸🇪 Finland | xorek.cloud International LT... 2
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@se1.mycloud1.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=se1.mycloud1.org&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&fp=chrome#🇸🇪 Sweden | BlueVPS OU 2
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?security=reality&encryption=none&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=b28db60d77c50b4f#🇸🇪 Germany | xorek.cloud International LT... 1
