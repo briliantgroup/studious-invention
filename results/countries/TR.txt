@@ -1,14 +1,9 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUw7xya2l5ZQ==
+#profile-title: encode:Qm9iaVZQTiDwn4e58J+HtyBUdXJrZXk=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://b7d3a581-74d6-4ead-9235-ce9dedf08152@trdatair.egekaradecojistik.net.tr:35577?security=none&type=ws&sni=play.google.com&path=%2F&host=play.google.com#🇹🇷 Türkiye | TWO E Telekom 1
-vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=apple.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇹🇷 Turkey | Datahost Internet VE Bilisim... 2
+vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=apple.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇹🇷 Turkey | Datahost Internet VE Bilisim... 1
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9e419c0759b54d6f&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104#🇹🇷 Türkiye | Hostkey B.V 1
-vless://480b4042-f713-43d7-b24b-b4064c97f841@13.143.197.81:443?type=ws&security=tls&fp=firefox&sni=tr2.soft10.ir&encryption=none#🇹🇷 Poland | SERV.HOST GROUP LTD 1
-vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?&security=tls&fp=firefox&sni=tgmansion.site&type=ws&headerType=none&path=%2Fvless-tr#🇹🇷 Turkey | Datahost Internet VE Bilisim... 1
+vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?security=tls&type=ws&path=%2Fvless-tr&packetEncoding=xudp&sni=tgmansion.site&fp=firefox#🇹🇷 Turkey | Datahost Internet VE Bilisim... 2
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@132.243.173.212:8443?encryption=none&fp=firefox&host=tr2.pad-service.com&path=%2Ftr1-2&security=tls&sni=tr2.pad-sservice.lat&type=ws#🇹🇷 Turkey | Edge Core FZE 1
+vless://4b1be712-774c-4b65-8491-a3339e124a70@78.135.73.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=w0yEuw7sPMCEwk9_vDVoqjBhJsGoPvR7TsxIZVJy3iw&security=reality&sid=f4b2a12c&sni=tr2.tv-quoralyx.top&type=tcp#🇹🇷 Turkey | Pixoof Teknoloji Anonim Sirk... 2
 vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.datadoghq.com&fp=firefox&flow=xtls-rprx-vision&sid=f46cd3ea3d1eb72d&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8#🇹🇷 Turkey | Pixoof Teknoloji Anonim Sirk... 1
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@132.243.173.192:8443?encryption=none&fp=firefox&host=tr3.pad-service.com&path=/t1r&security=tls&sni=tr3.pad-sservice.lat&type=ws#🇹🇷 Turkey | Edge Core FZE 3
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@132.243.173.212:8443?encryption=none&fp=firefox&host=tr2.pad-service.com&path=/tr1-2&security=tls&sni=tr2.pad-sservice.lat&type=ws#🇹🇷 Turkey | Edge Core FZE 2
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@132.243.173.195:8443?encryption=none&fp=firefox&host=tr.pad-service.com&path=/TR1&security=tls&sni=tr.pad-sservice.lat&type=ws#🇹🇷 Turkey | Edge Core FZE 1
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@tr3.pad-sservice.lat:8443?encryption=none&type=ws&security=tls&sni=tr3.pad-sservice.lat&fp=firefox&alpn=http/1.1&path=/t1r&host=tr3.pad-service.com#🇹🇷 Turkey | Edge Core FZE 4
-vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?fp=safari&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#🇹🇷 Turkey | Global Connectivity Solution... 1
