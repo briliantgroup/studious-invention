@@ -1,6 +1,5 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4ey8J+HviBNYWxheXNpYQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzW3d3dy52Mm5vZGVzLmNvbV0gdm1lc3MtIiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇲🇾 Malaysia | Alibaba.com LLC 1
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?encryption=none&security=tls&type=ws&path=/vlessws&sni=vpn.cintaku.qzz.io#🇲🇾 Malaysia | TENCENT-CN 2
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#🇲🇾 Malaysia | TENCENT-CN 1
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?&security=tls&fp=chrome&sni=vpn.cintaku.qzz.io&type=ws&headerType=none&host=vpn.cintaku.qzz.io&path=%2Fvlessws#🇲🇾 Malaysia | TENCENT-CN 2
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?encryption=none&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=ios#🇲🇾 Malaysia | TENCENT-CN 1
