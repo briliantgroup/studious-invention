@@ -1,8 +1,6 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e58J+HrSBUaGFpbGFuZA==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#🇹🇭 Thailand | Bangmod Enterprise Co., Ltd. 2
-vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.185:443?&security=tls&fp=chrome&sni=v2ray.simspeedup.com&type=ws&headerType=none&host=v2ray.simspeedup.com&path=%2Fws#🇹🇭 Thailand | Bangmod Enterprise Co., Ltd. 1
 vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?security=reality&encryption=none&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=3c032a7e#🇹🇭 Thailand | ReadyIDC Co., Ltd 1
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.233.38:22222?encryption=none&fp=firefox&security=tls&sni=th001.zestapp778.com&type=tcp#🇹🇭 Thailand | KaopuCloud-TH 1
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?encryption=none&type=tcp&security=tls&sni=th001.zestapp778.com#🇹🇭 Thailand | KaopuCloud-TH 2
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.233.38:22222?fp=firefox&security=tls&sni=th001.zestapp778.com&type=tcp#🇹🇭 Thailand | KaopuCloud-TH 2
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?sni=th001.zestapp778.com&fp=chrome&security=tls#🇹🇭 Thailand | KaopuCloud-TH 1
