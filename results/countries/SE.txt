@@ -1,15 +1,9 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4e48J+HqiBTd2VkZW4=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://2614a96d-e39f-02f0-a9c7-467a178c2c0a@13.143.180.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=sw.lenvex.cc&type=tcp#🇸🇪 Sweden | SERV.HOST GROUP LTD 1
-vless://2614a96d-e39f-02f0-a9c7-467a178c2c0a@13.143.180.141:443?&security=reality&flow=xtls-rprx-vision&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&fp=firefox&sni=sw.lenvex.cc&type=tcp&headerType=none&host=sw.lenvex.cc&path=%2F#🇸🇪 Sweden | SERV.HOST GROUP LTD 2
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&sid=5212dad2aa9723d7&sni=de1.waspnest.space#🇸🇪 Germany | xorek.cloud International LT... 2
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?security=none&type=ws&path=%2Fvless&host=5.178.109.174&packetEncoding=none&sni=5.178.109.174#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
-vless://b310e287-79fa-45e3-887f-9564c0e390f7@89.125.37.41:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&security=reality&sid=2d6d073dc88f22a8&sni=se.frgcdn.xyz&type=tcp#🇸🇪 Finland | Andris Jakovlevs 2
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#🇸🇪 Sweden | Vultr 1
-vless://518079db-d88d-4035-bbf4-ddd1f9cf1e5f@89.125.37.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&security=reality&sid=2d6d073dc88f22a8&sni=se.frgcdn.xyz&type=tcp#🇸🇪 Finland | Andris Jakovlevs 1
-trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@121.127.33.130:443?sni=likejennie.pages.dev&type=ws#🇸🇪 Sweden | CF 1
-vless://817b61c8-9bf0-4365-8a52-e43dfad274a6@103.71.23.244:443?fp=chrome&host=shin-ra.ccwu.cc&security=tls&sni=shin-ra.ccwu.cc&type=ws#🇸🇪 Sweden | CF 2
-vless://f0c9ebf7-76cc-44b7-8b30-b33ee0ffc898@188.253.22.103:4443?&security=tls&fp=chrome&sni=coding.grok2.indevs.in&type=ws&headerType=none&host=coding.grok2.indevs.in&path=%2Fproxyip%3DProxyIP.SG.CMLiussss.Net#🇸🇪 Sweden | CF 3
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?flow=xtls-rprx-vision&fp=safari&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=raw#🇸🇪 Germany | xorek.cloud International LT... 1
-vless://49a6eeaf-7dbf-4aa5-ba21-b36cd47e724e@89.22.224.146:43788?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&encryption=none#🇸🇪 Sweden | CF 4
+vless://2614a96d-e39f-02f0-a9c7-467a178c2c0a@13.143.180.141:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=sw.lenvex.cc&type=tcp#🇸🇪 Sweden | SERV.HOST GROUP LTD 2
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?allowInsecure=1&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#🇸🇪 Sweden | Vultr 1
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?security=none&type=ws&path=%2Fvless&host=5.178.109.174&packetEncoding=xudp#🇸🇪 Sweden | Baykov Ilya Sergeevich 1
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&sid=5212dad2aa9723d7&sni=de1.waspnest.space#🇸🇪 Germany | xorek.cloud International LT... 1
+vless://2614a96d-e39f-02f0-a9c7-467a178c2c0a@13.143.180.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=sw.lenvex.cc&type=tcp#🇸🇪 Unknown | SERV.HOST GROUP LTD 1
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&sni=yandex.ru#🇸🇪 Germany | xorek.cloud International LT... 2
