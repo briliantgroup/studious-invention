@@ -1,65 +1,40 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e48J+HrCBVbmtub3du
+#profile-title: encode:Qm9iaVZQTiDwn4e48J+HrCBTaW5nYXBvcmU=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicGNzIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=#🇸🇬 Unknown | Datacamp Limited 4
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.77.40.28:443?encryption=none&security=tls&sni=sg003.zestapp778.com&fp=firefox&packetEncoding=xudp#🇸🇬 Singapore | Vultr 4
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.77.243.143:443?encryption=none&fp=firefox&security=tls&sni=sg003.zestapp778.com&type=tcp#🇸🇬 Singapore | Vultr 2
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:17623?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 2
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&headerType=none#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 4
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.235:443?&security=tls&fp=chrome&sni=u.srilankangrill.online&type=ws&headerType=none&host=u.srilankangrill.online&path=%2F#🇸🇬 Singapore | Akamai Technologies, Inc. 10
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@51.79.228.131:19999#🇸🇬 Singapore | OVH 3
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#🇸🇬 Singapore | OVH 1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999#🇸🇬 Singapore | Datacamp Limited 5
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999#🇸🇬 Singapore | Datacamp Limited 3
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999?#🇸🇬 Singapore | Datacamp Limited 3
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#🇸🇬 Singapore | Datacamp Limited 6
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.10:443?security=tls&type=ws&path=/&host=u.srilankangrill.online&packetEncoding=xudp&sni=u.srilankangrill.online&fp=chrome#🇸🇬 Singapore | Akamai Technologies, Inc. 8
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#🇸🇬 Singapore | Datacamp Limited 4
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999#🇸🇬 Singapore | Datacamp Limited 5
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#🇸🇬 Singapore | OVH 3
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtU0ctNzI5NzIyNSIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇸🇬 Singapore | Datacamp Limited 2
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.10:443?security=tls&type=ws&path=/&host=u.srilankangrill.online&packetEncoding=xudp&sni=u.srilankangrill.online&fp=chrome#🇸🇬 Singapore | Akamai Technologies, Inc. 2
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.24.0.184:443?&security=tls&fp=chrome&sni=u.srilankangrill.online&type=ws&headerType=none&host=u.srilankangrill.online&path=%2F#🇸🇬 Singapore | Akamai Technologies, Inc. 3
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999#🇸🇬 Singapore | Datacamp Limited 1
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#🇸🇬 Singapore | OVH 2
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999?#🇸🇬 Singapore | Datacamp Limited 2
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#🇸🇬 Hong Kong | Greywolf Networks Pte. LTD 2
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.24.0.184:443?&security=tls&fp=chrome&sni=u.srilankangrill.online&type=ws&headerType=none&host=u.srilankangrill.online&path=%2F#🇸🇬 Singapore | Akamai Technologies, Inc. 4
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.19.32.166:443?&security=tls&fp=chrome&sni=u.srilankangrill.online&type=ws&headerType=none&host=u.srilankangrill.online&path=%2F#🇸🇬 Singapore | Akamai Technologies, Inc. 11
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.116:443?&security=tls&fp=chrome&sni=u.srilankangrill.online&type=ws&headerType=none&host=u.srilankangrill.online&path=%2F#🇸🇬 Singapore | Akamai Technologies, Inc. 5
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#🇸🇬 Singapore | Datacamp Limited 1
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android#🇸🇬 Singapore | Akamai Technologies, Inc. 2
-vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21003?fp=chrome&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&security=reality&sid=f3602a3a1cf928b7&sni=www.cloudflare.com&type=tcp#🇸🇬 Unknown | Oneprovider.com 3
-vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21002?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d9a6b52e98121db2#🇸🇬 Unknown | Oneprovider.com 1
-vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21004?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=4e0418d648f86141#🇸🇬 Unknown | Oneprovider.com 2
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.21.5.75:443?security=tls&type=ws&path=/&host=u.srilankangrill.online&packetEncoding=xudp&sni=u.srilankangrill.online&fp=chrome#🇸🇬 Singapore | Akamai Technologies, Inc. 9
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=android#🇸🇬 Singapore | Akamai Technologies, Inc. 14
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.1.186.73:8080#🇸🇬 Singapore | ZENLA 2
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#🇸🇬 Singapore | DO 6
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.199.172.224:8080#🇸🇬 Singapore | DO 3
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#🇸🇬 Singapore | DO 4
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?#🇸🇬 Singapore | Vultr 3
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.173.179.184:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android#🇸🇬 Singapore | Akamai Technologies, Inc. 6
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.236:8080#🇸🇬 Singapore | DO 2
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@67.159.52.81:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sg.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#🇸🇬 Singapore | FDCservers.net 1
+vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21001?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=a51c3ccb2320024a#🇸🇬 Unknown | Oneprovider.com 3
+vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21004?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=4e0418d648f86141#🇸🇬 Unknown | Oneprovider.com 6
+vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21002?security=reality&encryption=none&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d9a6b52e98121db2#🇸🇬 Unknown | Oneprovider.com 5
+vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21002?fp=chrome&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&security=reality&sid=3ab8d93dd9b1a5be&sni=www.cloudflare.com&type=tcp#🇸🇬 Unknown | Oneprovider.com 2
+vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21001?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=ab39fc68ab3dee81#🇸🇬 Unknown | Oneprovider.com 7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@51.79.228.131:19999#🇸🇬 Singapore | OVH 1
+vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21004?security=reality&encryption=none&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=2df2bd9d8366cef1#🇸🇬 Unknown | Oneprovider.com 4
+vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21003?fp=chrome&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&security=reality&sid=f3602a3a1cf928b7&sni=www.cloudflare.com&type=tcp#🇸🇬 Unknown | Oneprovider.com 1
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.1.186.132:8080#🇸🇬 Singapore | ZENLA 1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.240:8080#🇸🇬 Singapore | DO 1
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?#🇸🇬 Singapore | Vultr 1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬 Singapore | Vultr 2
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#🇸🇬 Singapore | DO 5
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.199.172.224:8080#🇸🇬 Singapore | DO 6
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#🇸🇬 Singapore | DO 3
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.1.186.73:8080#🇸🇬 Singapore | ZENLA 2
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.236:8080#🇸🇬 Singapore | DO 2
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬 Singapore | DO 4
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@140.235.11.243:56984?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sg1.zestapp778.com#🇸🇬 Singapore | Sakura LTD 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 1
+vless://e3f0c894-0f76-4683-a751-6a93da8fd14d@206.206.78.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UOLfRKeEoVxkp-APTF2OlvFkKSoiR2mWzUuhSWxcVmQ&security=reality&sid=133a3f10a1581047&sni=www.cloudflare.com&type=tcp#🇸🇬 Singapore | Ipxo LLC 2
 vless://32cf52f4-b8d2-4ed5-a37c-0d0a8e743309@206.206.76.75:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=a775360a48ef5cfb&pbk=gSHylaTvEzWj19Bk-zLHXKYUINGWVmo_ybCiD2CRinE&encryption=none#🇸🇬 Singapore | Ipxo LLC 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.240:8080#🇸🇬 Singapore | DO 5
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.19.178.244:443?security=tls&type=ws&path=/&host=u.srilankangrill.online&packetEncoding=xudp&sni=u.srilankangrill.online&fp=chrome#🇸🇬 Singapore | Akamai Technologies, Inc. 3
-vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=cd7e85995ae2afc9&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY#🇸🇬 Singapore | HostHatch, LLC 1
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬 Hong Kong | Greywolf Networks Pte. LTD 1
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android#🇸🇬 Singapore | Akamai Technologies, Inc. 7
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬 Singapore | Vultr 1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬 Singapore | DO 1
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android#🇸🇬 Singapore | Akamai Technologies, Inc. 13
-vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?&security=reality&flow=xtls-rprx-vision&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&sid=2e96bf6afa823abb&fp=chrome&sni=sg-sin.probe.geomyip.com&type=tcp&headerType=none&host=sg-sin.probe.geomyip.com&path=%2F#🇸🇬 Singapore | EDIS GmbH 1
-vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 5
-vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?flow=xtls-rprx-vision&fp=chrome&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&security=reality&sid=b2efed6d157e7bb0&sni=gateway.icloud.com&type=tcp#🇸🇬 Singapore | Green Floid LLC 1
-vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&sid=7205d9079521832c&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 3
-vmess://eyJhZGQiOiAiOC4yMjIuMTc2LjI0OSIsICJhaWQiOiAiMCIsICJhbHBuIjogbnVsbCwgImZwIjogbnVsbCwgImhvc3QiOiBudWxsLCAiaWQiOiAiYTlmNGRlOGItNjhmMS00NGI2LWI2YTItMWRiNjA5NDA1MDNhIiwgIm5hbWUiOiAiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIHwgQFJheWRpa2FseCB8IEVCNEUyQSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAid2pvZkhzUXRFdUV5d3hFcS52LjNkbnMudmlwIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbH0=#🇸🇬 Singapore | Alibaba.com Singapore E-Comm... 1
-vless://24916ad0-847d-4522-9e17-f4347dee57fd@206.189.95.233:443?&security=tls&fp=random&sni=kv.074167.xyz&type=ws&headerType=none&host=kv.074167.xyz&path=%2F#🇸🇬 Singapore | CF 4
-vless://7b102311-43fd-4e8f-877e-8090623c101d@146.235.22.161:443?encryption=none&security=tls&type=ws&host=vp58.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+fp%3Dchrome&sni=vp58.cc.cd&fp=chrome#🇸🇬 Singapore | CF 1
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.237.141.16:443?fp=chrome&host=edg-2oo.pages.dev&path=%2Fad%2Factivity%3Fed%3D2560&security=tls&sni=edg-2oo.pages.dev&type=ws#🇸🇬 Singapore | CF 7
-vless://24916ad0-847d-4522-9e17-f4347dee57fd@165.245.181.78:443?&security=tls&fp=random&sni=kv.074167.xyz&type=ws&headerType=none&host=kv.074167.xyz&path=%2F#🇸🇬 Singapore | CF 5
-vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&host=u.srilankangrill.online&path=%252F&security=tls&sni=u.srilankangrill.online&type=ws&fp=firefox#🇸🇬 Singapore | Akamai Technologies, Inc. 1
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.82.155.79:443?fp=chrome&host=edg-2oo.pages.dev&path=%2Fapp%2Findex%3Fed%3D2560&security=tls&sni=edg-2oo.pages.dev&type=ws#🇸🇬 Singapore | CF 8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.222.155.193:443?fp=chrome&host=edg-2oo.pages.dev&path=%2Fmag%2Falbums%3Fed%3D2560&security=tls&sni=edg-2oo.pages.dev&type=ws#🇸🇬 Singapore | CF 9
-vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android#🇸🇬 Singapore | Akamai Technologies, Inc. 12
-vless://7b102311-43fd-4e8f-877e-8090623c101d@161.118.250.135:443?encryption=none&security=tls&type=ws&host=vp58.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40VPNine1&sni=vp58.cc.cd&fp=chrome#🇸🇬 Singapore | CF 3
-vless://7b102311-43fd-4e8f-877e-8090623c101d@161.118.220.38:443?encryption=none&security=tls&type=ws&host=vp58.cc.cd&path=%2FTelegram%E9%A6%83%E5%9A%9A%E9%A6%83%E5%9A%A6%2B%40VPNine1&sni=vp58.cc.cd&fp=chrome#🇸🇬 Singapore | CF 2
-vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.intel.com&fp=firefox&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&sid=7f342137c20387#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 6
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@152.42.187.204:443?encryption=none&security=tls&type=ws&host=proxy-1cu.pages.dev&path=%2F&sni=proxy-1cu.pages.dev&fp=android#🇸🇬 Singapore | CF 6
+vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&security=reality&sid=b2efed6d157e7bb0&sni=gateway.icloud.com&type=tcp#🇸🇬 Singapore | Green Floid LLC 1
+vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.intel.com&fp=firefox&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&sid=7f342137c20387#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 3
 vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?security=reality&type=tcp&packetEncoding=xudp&sni=video.yandex.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#🇸🇬 Singapore | Contabo 1
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=android#🇸🇬 Singapore | Akamai Technologies, Inc. 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:17623?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=edge&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&headerType=none#🇸🇬 Singapore | AWS EC2 (ap-southeast-1) 2
