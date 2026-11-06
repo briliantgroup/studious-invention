@@ -1,4 +1,5 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4eu8J+HqSBJbmRvbmVzaWE=
+#profile-title: encode:Qm9iaVZQTiDwn4eu8J+HqSBVbmtub3du
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=firefox&security=tls&sni=in001.zestapp778.com&type=tcp#🇮🇩 Indonesia | Light Node Limited 1
+vless://ce29a04d-c95a-4451-9518-bae0c074e0d7@31.58.243.105:443?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=crt.onecloudstream.com&type=ws#🇮🇩 Unknown | RIPE-GOERNET 1
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=in001.zestapp778.com&fp=firefox#🇮🇩 Indonesia | Light Node Limited 1
