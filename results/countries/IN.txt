@@ -1,6 +1,8 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eu8J+HsyBJbmRpYQ==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8&type=tcp&headerType=none#🇮🇳 India | Beafort Limited 1
-vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320&type=tcp&headerType=none#🇮🇳 India | Contabo 1
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?encryption=none&host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws&fp=chrome#🇮🇳 India | Bharti Telenet Ltd. 1
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320&type=tcp&headerType=none#🇮🇳 India | Contabo 2
+ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳 India | Vultr 1
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳 India | Linode 1
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9980e0609b0d3891&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU#🇮🇳 India | Contabo 1
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&sid=68a8&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw#🇮🇳 India | Beafort Limited 1
