@@ -1,7 +1,4 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4et8J+HuiBIdW5nYXJ5
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.87:11443?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=4HG_QcSHTdYtSbcTQczOW4JAHQfjc37UCLKHSps_t3w&sid=39cdc017&serviceName=cas-hu#🇭🇺 Hungary | HostingBazis Beteti Tarsasag 1
-vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:2092?encryption=none&type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=NpMdrqPyU_2aCYH0ZgkWV80iwX50McteLYXzpgZbrjw&sid=8e3ba54f&fp=chrome&serviceName=cas-hu#🇭🇺 Hungary | HostingBazis Beteti Tarsasag 2
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@38.180.225.247:2053?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#🇭🇺 Hungary | CF 1
-vless://2f094d48-7186-206c-9e57-e977bbac3b08@eu90.cdn77.icu:20034?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇭🇺 Hungary | 3NT SOLUTIONS LLP 1
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@38.180.225.247:2053?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#🇭🇺 Hungary | CF 1
