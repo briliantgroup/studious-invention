@@ -1,13 +1,22 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eo8J+HrSBTd2l0emVybGFuZA==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#🇨🇭 Switzerland | Barilink LLC 1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#🇨🇭 Switzerland | Barilink LLC 2
+vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@74.161.152.237:2083?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp&headerType=none#🇨🇭 Switzerland | Azure 1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#🇨🇭 Switzerland | Barilink LLC 2
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#🇨🇭 Switzerland | Barilink LLC 3
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#🇨🇭 Switzerland | DataCamp Limited 1
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#🇨🇭 Switzerland | objx.net 1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#🇨🇭 Switzerland | Barilink LLC 1
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#🇨🇭 Switzerland | DataCamp Limited 2
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#🇨🇭 Switzerland | Barilink LLC 3
-vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=ad86e2d52ff40ebd&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0#🇨🇭 Switzerland | Ontario Inc 1
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=1&sni=courses.yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland | Ontario Inc 2
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999#🇨🇭 Switzerland | objx.net 2
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland | Ontario Inc 2
+vless://90157e25-cee1-4217-921e-91f300bc1a24@31.7.60.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp#🇨🇭 Switzerland | Ripe 2
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443#🇨🇭 Switzerland | Ontario Inc 3
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443#🇨🇭 Switzerland | Ontario Inc 5
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?type=tcp&headerType=none&security=tls&encryption=none&sni=resources.yourultimateprofessionalcareerhub.com&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🇨🇭 Switzerland | Ontario Inc 4
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&sni=courses.yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland | Ontario Inc 1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=yourultimateprofessionalcareerhub.com#🇨🇭 Switzerland | Ontario Inc 6
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=raw#🇨🇭 Switzerland | Green Floid LLC 1
+vless://90157e25-cee1-4217-921e-91f300bc1a24@81.17.18.106:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=81.17.18.106&type=tcp#🇨🇭 Switzerland | Ripe 1
+vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?security=reality&type=tcp&packetEncoding=xudp&sni=perevodchiki.su&fp=chrome&flow=xtls-rprx-vision&sid=428ef87fd47a3a32&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&encryption=none#🇨🇭 Switzerland | Ripe 3
 vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:51125?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=MK_u4OS7yO3lHtcKDhV3ppxAzU2ddsW4-ogBT7XrEW0&sid=20d890dada1c78&sni=api.adidas.com#🇨🇭 Switzerland | Oneprovider.com 1
