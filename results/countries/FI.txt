@@ -1,13 +1,7 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4er8J+HriBGaW5sYW5k
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws&host=45.144.234.157&path=/vless#🇫🇮 Finland | Baykov Ilya Sergeevich 1
-vless://62546819-be8b-4ecf-bb90-ed04fdf610f3@178.214.125.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=conf.emaar.ru&fp=qq&pbk=ZxCwJxbsZWJYYCPzeWj7_fxJMVhwh4XGfpvjmEIQjHY&sid=6172ba9cffe9c22f&spx=/#🇫🇮 Finland | DataCamp Limited 1
-vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?security=reality&type=tcp&packetEncoding=xudp&sni=m.vk.com&fp=chrome&sid=67ece882d65d0f1a&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y#🇫🇮 Latvia | EGIHosting 1
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@191.217.252.31:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=media.saari.lalibobi.online&type=ws&headerType=none&path=%2Flive%2Fshowroom#🇫🇮 Finland | 1Cent Host 1
-ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647#🇫🇮 Finland | NetCrafters OU 2
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#🇫🇮 Finland | Datacamp Limited 1
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#🇫🇮 Finland | NetCrafters OU 1
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2Ffp%3Dchrome#🇫🇮 Finland | CF 1
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#🇫🇮 Finland | CF 2
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=none&sni=45.144.234.157#🇫🇮 Finland | Baykov Ilya Sergeevich 1
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:14430?security=none&type=ws&path=%2Fvless&host=213.176.92.168&packetEncoding=xudp#🇫🇮 Finland | NetCrafters OU 1
+vless://62546819-be8b-4ecf-bb90-ed04fdf610f3@178.214.125.2:443?security=reality&flow=xtls-rprx-vision&fp=qq&pbk=ZxCwJxbsZWJYYCPzeWj7_fxJMVhwh4XGfpvjmEIQjHY&sid=6172ba9cffe9c22f&sni=conf.emaar.ru#🇫🇮 Finland | DataCamp Limited 1
 vless://b79d736d-0f10-4169-b626-362059d18204@95.216.27.15:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=10351b07c712d2a2&pbk=aiHdxKOzcFZDILKj3MIPrMsyT0XxMy_O6xoxnz6MIWs&encryption=none#🇫🇮 Finland | Hetzner 1
