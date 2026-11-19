@@ -1,10 +1,8 @@
 #profile-update-interval: 3
-#profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBGcmFuY2U=
+#profile-title: encode:Qm9iaVZQTiDwn4e38J+HuiBSdXNzaWE=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://27f26dee-9cf1-4cca-93f8-9ac23d311408@147.45.47.101:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#🇷🇺 France | Neurosignal LLC 1
-vless://2ae0670d-0bdf-409e-9a55-4e970252d378@37.235.247.81:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=apple.com#🇷🇺 France | Shabalov Grigoriy Pavlovich 1
-vless://a346c521-7a7f-452b-9356-a4893feb5982@89.221.203.29:443?&security=reality&flow=xtls-rprx-vision&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0&fp=firefox&sni=ru2-r.bankai.party&type=tcp&headerType=none&host=ru2-r.bankai.party&path=%2F#🇷🇺 Russia | Global Internet Solutions LL... 2
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?encryption=none&security=tls&sni=xsru1.ddnsfree.com&fp=firefox&type=grpc&authority=&serviceName=grpc-ru&mode=gun#🇷🇺 Russia | TimeWeb 1
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?encryption=none&security=tls&sni=xssite.webredirect.org&fp=random&type=grpc&authority=&serviceName=grpc-ru&mode=gun#🇷🇺 Russia | TimeWeb 2
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ru1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru1.japancase.site&pbk=SiwxBWpYrdcS70DDnr0yBrTgpJY-MiqKiOs3_yjK1Cc&sid=5b555442d5975d6b&fp=edge#🇷🇺 Russia | Global Internet Solutions LL... 1
-vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?alpn=h2&encryption=none&insecure=0&mode=gun&security=tls&serviceName=vlgrpc&sni=kk-ru24a1.testkknegr.online&type=grpc&fp=firefox#🇷🇺 Russia | TimeWeb 3
+vless://27f26dee-9cf1-4cca-93f8-9ac23d311408@147.45.47.101:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#🇷🇺 Russia | Neurosignal LLC 1
+vless://2ae0670d-0bdf-409e-9a55-4e970252d378@37.235.247.81:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=apple.com&type=tcp#🇷🇺 Russia | Shabalov Grigoriy Pavlovich 1
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?security=tls&serviceName=grpc-ru&sni=xssite.webredirect.org&type=grpc&fp=firefox#🇷🇺 Russia | TimeWeb 1
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?encryption=none&fp=firefox&host=xsru2.freeddns.org&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws#🇷🇺 Russia | TimeWeb 2
+vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.245.147:445?encryption=none&fp=firefox&mode=gun&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&security=reality&serviceName=grpc&sni=passport.yandex.ru&type=grpc#🇷🇺 Russia | VK Cloud Solutions 1
