@@ -1,6 +1,5 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4em8J+HuiBBdXN0cmFsaWE=
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAwLCAiaG9zdCI6ICIxNDkuODguMjMuMjAyIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuYW1lIjogIlNHIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyB8IEBSYXlkaWthbHggfCAzMkM2NUUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMTgwMDAsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIjE0OS44OC4yMy4yMDIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#🇦🇺 Australia | Vultr 2
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#🇦🇺 Unknown | Vultr 1
-vless://e3a1c7f2-9b4d-4e8a-a6c5-1f2d3b4a5e6f@13.211.155.89:443?security=tls&fp=chrome&packet-encoding=xudp&sni=www.microsoft.com&type=ws&headerType=none&path=/7b9977b2af9da85fa86adc065c362efe#🇦🇺 Australia | AWS EC2 (ap-southeast-2) 1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#🇦🇺 Australia | Vultr 1
+vless://e3a1c7f2-9b4d-4e8a-a6c5-1f2d3b4a5e6f@13.211.155.89:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=www.microsoft.com&type=ws&headerType=none&path=%2F7b9977b2af9da85fa86adc065c362efe#🇦🇺 Australia | AWS EC2 (ap-southeast-2) 1
