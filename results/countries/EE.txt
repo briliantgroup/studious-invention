@@ -1,8 +1,4 @@
 #profile-update-interval: 3
 #profile-title: encode:Qm9iaVZQTiDwn4eq8J+HqiBFc3Rvbmlh
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1893456000
-vless://0173d52e-8e1b-4681-831e-11529677b72f@196.198.111.187:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6b04608f.adhil.uk&type=tcp#🇪🇪 Estonia | Fiber Grid INC 3
-vless://7aa77858-f235-44d6-9434-7ab060848b17@85.8.201.186:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=cdn.mornismp.ru#🇪🇪 Estonia | Paul Sagov 1
-vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.126:8443?sni=api-6b04608f.adhil.uk&flow=xtls-rprx-vision&fp=safari&security=tls#🇪🇪 Estonia | Fiber Grid INC 2
-vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.193.54:8443?flow=xtls-rprx-vision&security=tls&sni=api-6b04608f.adhil.uk&alpn=h2&fp=firefox#🇪🇪 Estonia | Fiber Grid INC 1
-vless://7aa77858-f235-000d-9434-7ab060848b17@85.8.201.186:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn.mornismp.ru&alpn=h2,http/1.1&fp=firefox&packetEncoding=xudp#🇪🇪 Estonia | Paul Sagov 2
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@185.174.135.219:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=eeb.899themes.pro&type=grpc#🇪🇪 Estonia | HZ Hosting Ltd 1
